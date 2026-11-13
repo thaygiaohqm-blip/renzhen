@@ -1,0 +1,1352 @@
+0|Sách ở trên bàn.
+1|Điện thoại ở trong cặp sách.
+2|Trong phòng không có ai.
+3|Anh ấy đến ga xe ở phía đông.
+4|Tôi không biết nói tiếng Trung.
+5|Ngày mai bạn đến được không?
+6|Tôi muốn học tiếng Trung.
+7|Anh ấy sắp đi hiệu sách.
+8|Anh ấy bao nhiêu tuổi?
+9|Lớp các bạn có bao nhiêu học sinh?
+10|Bây giờ mấy giờ?
+11|Bạn thích bộ phim nào?
+12|Các bạn đi đâu?
+13|Nhà ga ở đâu?
+14|Lớp các bạn có học sinh những nước nào?
+15|Bạn mua gì?
+16|Ai là thầy giáo?
+17|Bạn đến bệnh viện bằng cách nào?
+18|Xin chào, tôi cần hai quyển vở.
+19|Xin chào!
+20|Anh ấy muốn uống nước.
+21|Cô ấy rất cao.
+22|Chúng tôi đi hiệu sách, các bạn đi đâu?
+23|Họ là học sinh.
+24|Họ (nữ) là bạn học của tôi.
+25|Đây là điện thoại của ai?
+26|Cô ấy thích chiếc cặp đó.
+27|Ở đây rất tốt.
+28|Tôi đến đó học.
+29|Bạn ngồi ở đây, em trai ngồi ở kia.
+30|Những quyển sách này rất mới.
+31|Những thứ kia đều rất đắt.
+32|Bạn còn cần thứ gì khác không?
+33|Có bạn đang nghỉ ngơi, có bạn đang đọc sách.
+34|Tôi rất thích quyển sách này.
+35|Quyển vở đó rất đẹp.
+36|Ở đây lạnh quá.
+37|Phòng của bạn sạch thật!
+38|Tôi thích chơi bóng nhất.
+39|Các bạn học đều rất chăm chỉ.
+40|Chúng tôi thường chơi cùng nhau.
+41|Ngày mai họ cùng đến thư viện.
+42|Bác sĩ đến ngay.
+43|Thưa thầy, em xin nói trước.
+44|Thỉnh thoảng anh ấy học buổi tối.
+45|Tôi đang xem tivi.
+46|Bạn đợi một chút, anh ấy đang ăn cơm.
+47|Họ đang hát.
+48|Anh ấy thường đến quán ăn.
+49|Cô ấy thường không ăn sáng.
+50|Phim hôm nay hay quá, ngày mai chúng ta lại đi xem nhé.
+51|Anh ấy sắp đi Thượng Hải, còn sắp đi Bắc Kinh nữa.
+52|Anh ấy là học sinh, tôi cũng là học sinh.
+53|Bạn đừng vào.
+54|Hôm nay không nóng.
+55|Hôm qua anh ấy không đi học.
+56|Hôm nay tôi chưa ăn sáng.
+57|Chúng tôi làm việc từ thứ Hai đến thứ Sáu.
+58|Bạn từ đâu đến?
+59|Anh trai học tiếng Trung ở Bắc Kinh.
+60|Anh ấy xem phim trên điện thoại.
+61|Anh ấy đã xin nghỉ với thầy cô.
+62|Tôi không cùng chị đi Trung Quốc.
+63|Anh trai cao hơn em trai.
+64|Căn phòng này lớn hơn căn phòng kia.
+65|Bố và mẹ đều không có nhà.
+66|Bạn uống trà hay uống nước?
+67|Tôi và em trai đều học tiếng Trung.
+68|Quần áo của bạn rất đẹp.
+69|Anh ấy đã mua một quyển sách. / Anh ấy không mua sách.
+70|Tôi đã viết hai chữ Hán. / Tôi không viết chữ Hán.
+71|Chúng ta đi thôi.
+72|Tôi mệt rồi.
+73|Cô ấy là bác sĩ à?
+74|Anh ấy là người nước nào nhỉ?
+75|Tôi đang đọc sách.
+76|Quần áo rất đẹp.
+77|Anh ấy đang xem tivi.
+78|Căn phòng này rất sạch.
+79|Anh ấy bị bệnh rồi.
+80|Chúng tôi học tiếng Trung.
+81|Hôm nay không lạnh.
+82|Món này rất ngon.
+83|Anh ấy ăn bánh mì.
+84|Mẹ đã đến thăm tôi.
+85|Cô ấy đã mua một chiếc điện thoại.
+86|Anh ấy đang đọc sách tiếng Trung.
+87|Chiếc cặp mới rất đẹp.
+88|Tôi thích căn phòng sạch sẽ.
+89|Cô ấy đã đọc hai quyển sách.
+90|Anh ấy không ăn bánh bao.
+91|Căn phòng này rất sạch.
+92|Bạn viết cho cẩn thận!
+93|Anh ấy mười giờ đi ngủ.
+94|Chúng ta đi vào buổi chiều nhé.
+95|Cô ấy mua hai quyển sách trên mạng.
+96|Anh trai đã từ Bắc Kinh trở về.
+97|Tôi mua một chiếc bánh mì.
+98|Anh ấy không đi bệnh viện.
+99|Căn phòng rất sạch.
+100|Học sinh này chăm chỉ nhất.
+101|Trời mưa rồi.
+102|Xe kìa!
+103|Mẹ nấu bữa tối.
+104|Tôi không thích xem tivi.
+105|Anh ấy là thầy giáo à?
+106|Ở đó bây giờ có nóng không?
+107|Ai cùng bạn đi hiệu sách?
+108|Bạn muốn mua gì?
+109|Bố bạn là thầy giáo hay bác sĩ?
+110|Các bạn đi bằng tàu hỏa hay máy bay?
+111|Bạn có uống sữa không?
+112|Bạn đã ăn sáng chưa?
+113|Bạn ăn sáng chưa?
+114|Hôm nay có lạnh không?
+115|Mời vào!
+116|Đừng nói nữa!
+117|Hôm nay nóng quá!
+118|Trái cây này ngon thật!
+119|Anh ấy là thầy giáo của tôi.
+120|Đây là sách của anh ấy.
+121|Hoa màu trắng.
+122|Quần áo sạch.
+123|Phía đông nhà ga là một ngôi trường.
+124|Phía tây tòa nhà giảng dạy không phải là thư viện.
+125|Tôi có rất nhiều sách.
+126|Anh ấy không có anh trai.
+127|Một tuần có bảy ngày.
+128|Trong phòng có hai cái bàn.
+129|Trong phòng không có bàn.
+130|Bạn tôi cao hơn tôi.
+131|Chiếc điện thoại này đắt hơn chiếc kia.
+132|Chiếc cặp này không đẹp bằng chiếc kia.
+133|Tôi thích hát, em trai thích chơi bóng.
+134|Anh ấy có một anh trai, không có chị gái.
+135|Anh ấy vừa đi vừa hát.
+136|Anh trai vừa xem tivi vừa ăn.
+137|Tôi thích hát, em trai cũng thích hát.
+138|Căn phòng này rất rộng, cũng rất sạch.
+139|Cô ấy bị bệnh rồi. / Cô ấy không bị bệnh.
+140|Mưa nhỏ lại rồi. / Mưa không nhỏ đi.
+141|Anh ấy đã ăn sáng. / Anh ấy chưa ăn sáng.
+142|Anh ấy đã mua hai cái bánh mì. / Anh ấy không mua bánh mì.
+143|Tôi đã uống nhiều nước. / Tôi không uống nước.
+144|Đứa bé đang ngủ, bạn đừng nói chuyện.
+145|Bên ngoài đang mưa.
+146|Bạn đợi một chút, anh ấy đang gọi điện thoại.
+147|Lúc thầy vào, tôi đang nghe nhạc.
+148|Các bạn học sinh đang thi.
+149|A: Bạn đang làm gì thế?
+150|B: Tôi đang giặt quần áo.
+151|Bánh bao này có ngon không?
+152|Anh trai bạn bao nhiêu tuổi?
+153|Trên xe có bao nhiêu người?
+154|Nhà bạn có mấy người?
+155|Cô ấy là người nước nào?
+156|Chúng ta gặp nhau ở đâu?
+157|Bạn đã đi đâu rồi?
+158|Bạn đã đọc những quyển sách nào?
+159|Chủ nhật bạn làm gì?
+160|Ai muốn uống trà?
+161|Chữ này đọc thế nào?
+162|Mẹ cô ấy là giáo viên hay bác sĩ?
+163|Bạn uống nước hay uống sữa?
+164|Quyển sách này có đắt không?
+165|Bộ phim có hay không?
+166|Bạn có ăn bánh bao không?
+167|Anh ấy có đến thư viện không?
+168|Anh ấy về nhà chưa?
+169|Bạn đói chưa?
+170|Có thể anh ấy đã ra ngoài rồi.
+171|Hôm nay tôi không thể viết xong nhiều bài tập thế này.
+172|Thưa thầy, em có thể vào được không ạ?
+173|Ở đây không được đỗ xe.
+174|Bạn nên uống thuốc rồi.
+175|Các bạn nên đi kiểm tra sức khỏe.
+176|Cô ấy rất sẵn lòng giúp đỡ bạn học.
+177|Tôi không muốn đi làm ở nơi khác.
+178|Tôi có thể dùng điện thoại của bạn một chút được không?
+179|Bạn hãy nghĩ thử xem nghĩa của chữ này.
+180|Anh ấy nhìn tôi một cái, không nói gì.
+181|Hãy giới thiệu bạn của bạn một chút.
+182|Bài tập hôm qua, bạn làm mất bao lâu?
+183|Tại sao bạn không đi học?
+184|Sức khỏe của bố thế nào?
+185|Chữ này viết thế nào?
+186|Tôi muốn nghe ý kiến của người khác.
+187|Mọi người cùng hát nào.
+188|Chiếc cặp đó rất đẹp, tôi thích màu của nó.
+189|Nhà tôi có mèo có chó, chúng đều là bạn của tôi.
+190|Chúng mình cùng đi nhé.
+191|Ngày mai chúng ta đi sở thú, được không?
+192|Bạn nhất định phải tin vào bản thân.
+193|Việc của mình mình tự làm.
+194|Bạn gái của bạn có đẹp như cô ấy không?
+195|Đũa không thể cầm như thế.
+196|Anh trai anh ấy cao bằng bạn.
+197|Chữ Hán này viết như thế này.
+198|Đứa bé này đáng yêu biết bao!
+199|Những bông hoa kia đẹp biết bao!
+200|Phòng học này rộng thật!
+201|Anh ấy rất cao, em trai anh ấy còn cao hơn.
+202|Bánh bao này vô cùng ngon.
+203|Con trai của cô Vương đặc biệt đáng yêu.
+204|Ở đó khá yên tĩnh.
+205|Hôm nay trời hơi nóng.
+206|Các bạn học đều đã đến.
+207|Lớp chúng tôi tổng cộng có hai mươi người.
+208|Trong thẻ chỉ có hai trăm đồng.
+209|Tôi vừa từ trường về đến nhà.
+210|Cô Bạch vừa từ nước ngoài trở về.
+211|Ngoài trời vẫn đang mưa.
+212|Đèn trên phố đột nhiên đều sáng lên.
+213|Cô ấy cứ nói mãi.
+214|Hiệu trưởng đã tan làm rồi.
+215|Bài văn này tôi phải viết lại một lần.
+216|Tôi thường thấy anh ấy học ở thư viện.
+217|Chữ Hán này hơi khó, tôi cứ viết sai mãi.
+218|Tháng này Bắc Kinh mưa suốt.
+219|Đội chúng tôi lại ghi thêm một bàn.
+220|Nếu ngày mai thời tiết tốt, tôi sẽ đi leo núi.
+221|Nếu bạn có thời gian, chúng ta cùng ra ngoài đi dạo nhé.
+222|Khi nói, anh ấy cố ý nâng cao giọng để mọi người đều nghe thấy.
+223|Tôi không cố ý làm hỏng máy tính.
+224|Muốn đạt thành tích tốt, mọi người phải cố gắng học tập.
+225|Vé máy bay gần hai nghìn đồng.
+226|Hôm nay hình như sắp mưa.
+227|Sau khi bạn đến Bắc Kinh, nhất định phải đến thăm thầy Vương.
+228|Năm nay có lẽ tôi sẽ đi Trung Quốc học tiếng Trung.
+229|Hôm nay tám giờ tôi mới dậy.
+230|Cô ấy mua hai quyển sách mà chỉ tốn một trăm đồng.
+231|Đã mười hai giờ rồi, chúng ta nên đi ngủ.
+232|Lớp trưởng bảy rưỡi đã đến lớp rồi.
+233|Anh ấy chỉ nghe một lần là hiểu câu rất dài này.
+234|Năm nay sinh nhật tôi đúng vào chủ nhật.
+235|Khi anh ấy bước vào, chúng tôi đang xem tivi.
+236|Khi bố về, mẹ đã nấu xong bữa tối.
+237|Bạn đi sang trái là thấy nhà vệ sinh.
+238|Bạn đi thẳng một trăm mét là tới.
+239|Bạn nhìn sang phía tây, có thấy Tây Sơn không?
+240|Anh ấy đi về phía thư viện.
+241|Bạn đi từ đây, năm phút là đến hiệu sách.
+242|Tuyến xe buýt này đi qua cổng trường chúng tôi.
+243|Cô ấy rất nhiệt tình với khách hàng.
+244|Việc này bạn đã nói với anh ấy chưa?
+245|Buổi tối tôi phải gọi điện cho bạn gái.
+246|Ngày kia là sinh nhật cô ấy, chúng ta tặng cô ấy quà gì đây?
+247|Chỗ này cách nhà ga hơi xa.
+248|Bây giờ còn một tuần nữa là đến kỳ nghỉ.
+249|Cạn ly vì sức khỏe của mọi người!
+250|Chúng tôi đều vui mừng vì thành tích tốt của bạn.
+251|Chủ nhật tôi muốn đi xem phim hoặc nghe hòa nhạc.
+252|Buổi chiều tôi đi đánh bóng hoặc đi leo núi.
+253|Bây giờ đã là mùa đông rồi, nhưng Bắc Kinh vẫn chưa lạnh lắm.
+254|Bạn không đi thì tôi đi một mình.
+255|Anh ấy đi hơi nhanh.
+256|Cô ấy chơi bóng rổ rất khá.
+257|Tôi đã đến Trung Quốc một lần. / Tôi chưa đến Trung Quốc.
+258|Anh ấy đã học qua một chút tiếng Trung. / Anh ấy chưa học tiếng Trung.
+259|Cửa đang đóng. / Cửa không đóng.
+260|Tivi đang bật. / Tivi không bật.
+261|Anh ấy mặc một chiếc áo khoác đen.
+262|Bọn trẻ vui vẻ hát trong lớp.
+263|Hôm nay lạnh thật!
+264|Chắc ông là thầy giáo nhỉ?
+265|Tôi đến từ hôm qua.
+266|Nếu bạn đến thì gọi điện cho tôi, tôi ra đón.
+267|Tôi đi siêu thị mua rất nhiều thứ, có rượu, trái cây, sữa, v.v.
+268|Bài tập hôm nay tôi làm xong ngay chẳng mấy chốc.
+269|Chúng tôi đi đến nhà ga, một lát sau xe buýt đã tới.
+270|Trước khi thi hãy làm thêm bài tập luyện tập chẳng hạn.
+271|Tôi đi siêu thị mua một ít trái cây, bánh mì, v.v.
+272|Thời tiết ngày càng nóng.
+273|Tôi ngày càng thích học tiếng Trung.
+274|Trước khi đến Trung Quốc, tôi mới chỉ học qua một chút tiếng Trung.
+275|Sau khi ăn trưa xong, tôi thường ngủ một lát.
+276|Trước khi tập thể dục bạn nên khởi động cơ thể một chút.
+277|Hôm nay trời nắng.
+278|Ngày mai thứ Sáu.
+279|Chỗ này thế nào?
+280|Anh ấy bốn mươi tuổi, con gái mười sáu.
+281|Tôi người Bắc Kinh, năm nay hai mươi lăm tuổi.
+282|Cô ấy cao, tóc vàng, rất xinh.
+283|Bạn đã viết sai hai chữ Hán.
+284|Câu này tôi chưa đọc hiểu.
+285|Quần áo tôi đã giặt sạch rồi.
+286|Bài này bạn đã học hiểu chưa?
+287|Bài này tôi chưa học hiểu.
+288|Bạn đã nghe rõ lời thầy chưa?
+289|Lời thầy tôi đã nghe rõ rồi.
+290|Bạn xem, anh ấy đang đi về phía này.
+291|A: Món quà này làm sao đưa cho anh ấy?
+292|B: Bạn mang đến cho anh ấy đi.
+293|Ngày mai tôi mang một cái máy ảnh đến.
+294|Hôm qua anh ấy đã mang đến một cái máy ảnh.
+295|A: Từ điển của bạn đâu?
+296|B: Xin lỗi, tôi không mang theo.
+297|Bạn đã leo lên tầng mười chín chưa?
+298|Tôi chưa leo lên tầng mười chín, đến tầng mười là không nổi nữa.
+299|Bố lấy máy tính từ trên xe xuống, mang vào phòng.
+300|Tôi đã đi một lần rồi.
+301|Chúng ta nghỉ một lát.
+302|Tôi lớn hơn em trai hai tuổi.
+303|Hôm qua rất nóng, hôm nay mát hơn một chút.
+304|Tiếng Trung của cô ấy lưu loát hơn tôi một chút.
+305|Ngày mai trời âm u.
+306|Anh ấy là người Trung Quốc.
+307|Bây giờ là tám giờ hai mươi phút.
+308|Anh ấy cao một mét tám.
+309|Anh ấy khoảng hơn ba mươi tuổi.
+310|Trên bàn để sách, bút và vở.
+311|Anh ấy mở cửa đi ra.
+312|Chúng ta ăn xong đi thư viện nhé.
+313|Chị hơn tôi hai tuổi.
+314|Ngoài phòng mát hơn bên trong một chút.
+315|Điện thoại của anh ấy đắt hơn của tôi.
+316|Hôm nay còn mát hơn hôm qua.
+317|Thành tích tiếng Trung của tôi không bằng lớp trưởng.
+318|Tàu hỏa không nhanh bằng máy bay.
+319|Anh trai bạn có cao bằng bạn không?
+320|Sân nhà cô ấy rộng bằng một sân bóng rổ.
+321|Sở thích của tôi giống chị.
+322|Ý nghĩ của anh ấy giống tôi.
+323|Điện thoại của anh trai khác với của tôi.
+324|Tôi giống cô ấy, đều là học sinh của trường này.
+325|Chị cũng đáng yêu như em gái.
+326|Anh trai và em trai không cao bằng nhau.
+327|Tôi đến Bắc Kinh từ hôm qua.
+328|Anh ấy mua điện thoại trên mạng.
+329|Chúng tôi đến bằng máy bay.
+330|Việc này là do thầy giáo nói với tôi.
+331|Tôi đưa cho em gái một quyển sách.
+332|Bố tặng tôi một chiếc ô tô.
+333|Bạn tôi cho tôi mượn một nghìn đồng.
+334|Chị tặng tôi một chiếc điện thoại.
+335|Ăn tối xong, chúng tôi ra ngoài đi dạo.
+336|Anh ấy về phòng lấy quần áo rồi đến lớp học.
+337|Bạn đi siêu thị mua đồ trước, rồi hãy về nhà.
+338|Tôi đi ăn trưa trước, sau đó về phòng nghỉ.
+339|Nơi đó tôi đã đi rồi, đã đi hai lần rồi.
+340|Em trai anh ấy biết nói tiếng Trung, nói rất lưu loát.
+341|Hôm qua rất lạnh, hôm nay còn lạnh hơn.
+342|Lớp trưởng học rất giỏi, lại còn thường giúp đỡ bạn học.
+343|Cô ấy không chỉ biết nói tiếng Trung mà còn nói rất tốt.
+344|Chuyến du lịch lần này bạn đi bằng tàu hỏa hay máy bay?
+345|Chúng ta đi vào thứ Bảy hay chủ nhật?
+346|Bạn đến bằng tàu hỏa hay bằng máy bay?
+347|Cuối tuần các bạn muốn đi chơi bóng chuyền hay bóng rổ?
+348|Chiếc áo này kiểu dáng đẹp, nhưng hơi đắt.
+349|Lần này đi nhà hàng, chúng tôi tiêu không nhiều mà ăn rất ngon.
+350|Công viên đó tuy không lớn nhưng rất đẹp.
+351|Tuy ngày mai có thể mưa, nhưng tôi vẫn muốn đến đó xem.
+352|Căn phòng này không rộng lắm, nhưng ở rất thoải mái.
+353|Ngày mai không mưa thì chúng ta ra ngoài chơi.
+354|Nếu buổi chiều bạn có thời gian thì chúng ta cùng đi siêu thị nhé.
+355|Nếu ngày mai thời tiết không tốt thì tôi không đi công viên nữa.
+356|Chỉ cần bạn chăm chỉ học thì nhất định sẽ đạt thành tích tốt.
+357|Chỉ cần bạn qua kỳ thi này, tôi sẽ tặng bạn một món quà.
+358|Hôm nay tôi bận quá, cơm trưa cũng chưa ăn.
+359|Học sinh đó bị ốm nên không đến lớp.
+360|Vì rất mệt nên hôm nay tôi không muốn nấu cơm.
+361|Vì ngày mai có kỳ thi nên tôi muốn đi ngủ sớm một chút.
+362|Anh ấy vừa thức dậy là đi rửa mặt ngay.
+363|Tôi cứ uống rượu là đỏ mặt.
+364|Đèn vẫn sáng. / Đèn không sáng.
+365|Máy tính đang bật. / Máy tính không bật.
+366|Bên ngoài đang có tuyết rơi. / Bên ngoài không có tuyết.
+367|Họ vừa nói vừa cười, chẳng mấy chốc đã đến trường.
+368|Anh ấy đã học qua tiếng Trung. / Anh ấy chưa học tiếng Trung.
+369|Tôi đã ăn sủi cảo rồi. / Tôi chưa ăn sủi cảo.
+370|Bạn định đến nhà thi đấu chơi bóng, đúng không?
+371|Có phải bạn đã lấy bút của tôi không?
+372|Có phải bạn có rất nhiều bạn Trung Quốc không?
+373|Ông là giám đốc phải không ạ?
+374|Trước đây bạn đã học qua tiếng Trung nhỉ?
+375|Mười một giờ rồi, nên đi ngủ thôi.
+376|Sắp mưa rồi.
+377|Chúng tôi sắp được nghỉ.
+378|Ngày mai họ sắp thi rồi.
+379|Ở đây cao hai mét, bạn dám nhảy xuống không?
+380|Tôi không dám bơi ở sông.
+381|Cô ấy bị bệnh, cần nghỉ ngơi.
+382|Chúng tôi không cần mua đồ ăn, trong nhà có nhiều rồi.
+383|Anh ấy thường giúp đỡ tôi.
+384|Anh ấy gật đầu một cái, tỏ ý đồng ý.
+385|Tôi muốn nghỉ xong là đi du lịch.
+386|Nào, chúng ta cùng cạn một ly.
+387|Sau khi đến Trung Quốc, chúng tôi chỉ gặp nhau một lần.
+388|Bệnh nhân khám xong là đi lấy thuốc.
+389|Tôi không mở được tệp của bạn, bạn có thể gửi lại cho tôi được không?
+390|Chữ trên bảng đen nhỏ quá, chúng tôi đều không nhìn thấy.
+391|Yên tâm đi, đứa bé đã lớn thế này rồi, có thể rời mẹ được rồi.
+392|Chúng tôi không thể hoàn thành nhiệm vụ này.
+393|Ai cũng thích cô ấy.
+394|Tôi ăn gì cũng được.
+395|Bạn đến lúc nào cũng được.
+396|Tôi chưa đi đâu cả.
+397|Bạn muốn đi bằng cách nào cũng không sao.
+398|Các bạn cứ ăn tự nhiên, muốn ăn gì thì ăn nấy.
+399|Ai muốn tham gia thi đấu thì người đó đăng ký.
+400|Họ đến lúc mấy giờ thì bắt đầu lúc đó.
+401|Bạn làm thế nào thì tôi làm thế ấy.
+402|Họ ai làm việc nấy, không ai giúp ai.
+403|Bạn học của lớp chúng tôi đến từ khắp các nước trên thế giới.
+404|Chào các bạn, chúc buổi chiều tốt lành!
+405|Ở đây có hoa đủ màu sắc.
+406|Chủ nhật nào tôi cũng đi leo núi.
+407|Chúng ta lúc nào cũng phải chú ý bảo vệ môi trường.
+408|Tôi khá thích bơi lội.
+409|Trước đây cô ấy học đã rất chăm chỉ, bây giờ càng chăm chỉ hơn.
+410|Phòng này không sạch, phòng kia còn sạch hơn một chút.
+411|Phong cảnh của công viên này khá đẹp.
+412|Ngày nào anh ấy cũng chỉ chơi mà không học.
+413|Hôm nay đến lớp chỉ có năm học sinh.
+414|Chuyến du lịch lần này chỉ tốn ba nghìn đồng.
+415|Cả lớp chỉ có anh ấy biết tin này.
+416|Tôi chỉ lấy một cây bút.
+417|Trong lớp ít nhất có năm mươi người.
+418|Cuộc họp vốn tổ chức vào thứ Hai, nhưng bây giờ đổi giờ rồi.
+419|Anh ấy mới dậy, bảo chúng tôi đợi một chút.
+420|Sao bạn mới đến đã muốn đi?
+421|Tôi đã từng học tiếng Trung một năm.
+422|Anh ấy không bao giờ uống rượu.
+423|Nghe tin này, anh ấy vội chạy về nhà.
+424|Nghe có người gọi tên mình, anh ấy vội mở cửa.
+425|Anh ấy rất khó chịu, chúng ta phải mau đưa anh ấy đến bệnh viện.
+426|Giám đốc gọi điện bảo tôi đến văn phòng của cô ấy ngay lập tức.
+427|Thấy một cụ già lên xe, tôi vội đứng dậy nhường chỗ.
+428|Giám đốc Lý thường đến công ty rất sớm.
+429|Tôi mãi không hiểu khi nào dùng câu chữ 把, thường nói là sai.
+430|Chúng ta làm xong bài tập rồi mới chơi game.
+431|Bạn rửa tay xong rồi hãy ăn trái cây.
+432|Mọi người phải giúp đỡ lẫn nhau.
+433|Tình nguyện viên phải cố gắng tự mình vượt qua khó khăn.
+434|Hiệu trưởng đích thân liên hệ với công ty thực tập của học sinh.
+435|Chúng ta phải quan tâm, chăm sóc lẫn nhau.
+436|Anh ấy bị bệnh, hôm nay có lẽ sẽ không đến học.
+437|Trời âm u thế này, có lẽ sắp mưa.
+438|Tôi hơi đau đầu, e rằng bị cảm.
+439|Anh ấy ra nước ngoài e rằng đã hơn ba năm rồi.
+440|Thầy không có ở văn phòng, tôi đi uổng công.
+441|Kỳ thi lần này không hề đơn giản như họ nói.
+442|Học sinh đương nhiên phải làm bài tập.
+443|Rốt cuộc anh ấy là thầy giáo hay học sinh?
+444|Tôi không biết ai làm, dù sao cũng không phải tôi.
+445|Cô ấy hoàn toàn không tin tôi.
+446|Dự báo thời tiết nói sẽ mưa, bạn xem quả nhiên mưa rồi.
+447|Bông hoa giấy này đẹp quá, quả thực giống như hoa thật.
+448|Anh ấy tuyệt đối không làm chuyện này, tôi tin anh ấy.
+449|Người khác đều học được, lẽ nào tôi lại không học được?
+450|Chúng tôi đi vào công viên từ cổng nam.
+451|Từ khi làm đường quốc lộ, giao thông ở đây thuận tiện hơn nhiều.
+452|Từ khi đến Trung Quốc, anh ấy đã thích món ăn Trung Quốc.
+453|Cổng lớn mở hướng nam.
+454|Anh ấy nhìn sang bên trái một chút.
+455|Mẹ nấu cơm cho chúng tôi mỗi ngày.
+456|Anh ấy mua cho tôi một bó hoa.
+457|Chúng ta phải học hỏi lớp trưởng.
+458|Nếu không thể đến lớp, bạn phải xin phép thầy cô.
+459|Vì nhiều lý do, mọi người không chấp nhận ý kiến của anh ấy.
+460|Vì chuyện này mà anh ấy mãi không nói chuyện với tôi.
+461|Mẹ kiên trì chạy bộ mỗi ngày vì sức khỏe.
+462|Vì công việc mới, anh ấy không ngừng học kiến thức mới.
+463|Tôi thấy bạn để điện thoại vào trong cặp rồi.
+464|Chiếc váy bị tôi làm bẩn rồi.
+465|Điện thoại bị tôi làm hỏng rồi.
+466|Xe của tôi bị bạn mượn đi rồi.
+467|Ngoài tiếng Anh, anh ấy còn biết nói tiếng Trung.
+468|Trừ anh ấy ra, chúng tôi đều là lưu học sinh.
+469|Tiền thuê nhà tính theo ngày hoặc theo tháng.
+470|Họ dựa theo bản đồ tìm được tất cả đồ vật, hoàn thành nhiệm vụ thuận lợi.
+471|Tuần này tôi rất bận, phải lên lớp, phải chuẩn bị thi, ngoài ra còn phải tham gia một số hoạt động của trường.
+472|Buổi tiệc lần này họ chuẩn bị rất nhiều đồ ăn, thức uống, ngoài ra còn chuẩn bị không ít quà tặng.
+473|Trong thư viện đặt từng hàng từng hàng giá sách.
+474|Thầy bảo học sinh đi vào lớp từng hai người một.
+475|Mẹ nhắc đi nhắc lại tôi phải chú ý an toàn.
+476|Ngày tháng cứ thế trôi qua từng ngày.
+477|Những quả táo này trông rất ngon.
+478|Cô ấy làm việc cả ngày, trông hơi mệt.
+479|Chiếc áo này nhìn rất đẹp.
+480|Chiếc ghế sofa đó trông rất chắc chắn.
+481|Thư viện chúng ta có rất nhiều sách, bạn có thể đọc nhiều hơn.
+482|Ở đây trái cây nhiều lắm, bạn lấy thêm một chút đi.
+483|Tiếng Trung càng học càng thú vị.
+484|Nhãn hiệu quần áo càng nổi tiếng, giá càng cao.
+485|Khóc có lợi cho cơ thể.
+486|Đến sớm một chút thì hợp hơn.
+487|Căng thẳng thì có ích gì?
+488|Lạnh quá không tốt, nóng quá cũng không tốt.
+489|Tôi dự định đi Thượng Hải.
+490|Cô ấy thích yên tĩnh.
+491|Tôi cảm thấy không khỏe.
+492|Cuối cùng anh ấy đã mua được vé tàu.
+493|Tôi chuyền bóng cho anh ấy nhưng anh ấy không bắt được.
+494|Quyển sách đó anh ấy lấy đi chưa?
+495|Anh ấy lấy một quyển sách từ trong cặp ra.
+496|Anh ấy lấy một quyển sách từ trong cặp ra.
+497|Anh ấy lấy một quyển sách từ trong cặp ra.
+498|Anh ấy chậm rãi đi ra khỏi lớp.
+499|Anh ấy ở bên kia cầu, chúng ta đi sang đi.
+500|Hôm qua tôi mua về một ít trái cây.
+501|Ở đây gần trường, chúng ta đi bộ về nhé.
+502|Cái bàn bên ngoài bạn đã khiêng vào chưa?
+503|Cái bàn tôi còn chưa khiêng vào.
+504|Những quyển sách này không thể để ở ngoài, nên mang vào.
+505|Lời thầy nói tôi đều nghe hiểu được.
+506|Chiếc áo này bẩn quá, giặt không sạch được nữa.
+507|Trận đấu ngày mai bạn tham gia được không?
+508|Tôi bị bệnh, ngày mai không đi học được.
+509|Tôi mệt lắm.
+510|Bên ngoài lạnh vô cùng.
+511|Trò chơi này bọn trẻ thích cực kỳ.
+512|Hôm nay họ bận chết đi được.
+513|Tôi đã tìm anh ấy hai lần.
+514|Tôi đã đến Trung Quốc một lần.
+515|Tôi đã đi Thượng Hải hai lần.
+516|Anh ấy đã đọc bài khóa ba lần.
+517|Tôi học tiếng Trung hai năm rồi.
+518|Tôi học tiếng Trung hai năm.
+519|Tôi đợi anh ấy hơn nửa tiếng.
+520|Tôi đã đợi anh ấy hơn nửa tiếng.
+521|Anh ấy bơi bốn mươi phút.
+522|Anh ấy bơi bốn mươi phút.
+523|Họ đến Trung Quốc được hai tháng rồi.
+524|Anh trai đi Bắc Kinh được một tuần rồi.
+525|Bố mẹ tôi kết hôn hai mươi năm rồi.
+526|Sức khỏe của bà nội rất tốt.
+527|Màu sắc chiếc áo này rất đẹp.
+528|Quyển sách đó tôi chưa đọc.
+529|Bộ phim này tôi đã xem ba lần rồi.
+530|Thầy đặt sách lên bàn rồi.
+531|Tôi đã tiễn bạn đến nhà ga.
+532|Bố đã tặng em gái chiếc điện thoại mới mua.
+533|Họ đã nộp bài tập cho thầy.
+534|Bạn xếp gọn những quyển sách trên giá lại.
+535|Anh ấy mang quần áo đã giặt về rồi.
+536|Bọn trẻ rửa tay sạch sẽ.
+537|Chiếc điện thoại đó đã bị tôi dùng hỏng từ lâu rồi.
+538|Từ điển của tôi bị em trai làm bẩn.
+539|Anh ấy hoàn toàn bị cô gái này mê hoặc.
+540|Ngày mai tôi đi Bắc Kinh bằng máy bay.
+541|Anh ấy đi siêu thị mua trái cây.
+542|Tôi đến Trung Quốc học tiếng Trung.
+543|Giám đốc bảo anh ấy giới thiệu về tình hình thị trường Trung Quốc.
+544|Công ty cử tôi đến Trung Quốc học tiếng Trung.
+545|Tôi mời anh ấy đến nhà tôi chơi.
+546|Mẹ bảo tôi về nước sớm một chút.
+547|Tôi chạy nhanh hơn anh ấy.
+548|Tôi nói tiếng Trung lưu loát hơn em gái.
+549|Chị tôi không cao hơn tôi.
+550|Quyển sổ này không to hơn quyển kia.
+551|Tôi chạy nhanh hơn anh ấy.
+552|Chị nói tiếng Trung lưu loát hơn tôi.
+553|Tôi ăn nhiều hơn anh ấy năm cái sủi cảo.
+554|Anh ấy mua ít hơn tôi một quả táo.
+555|Tôi về sớm hơn chị mười phút.
+556|Hôm qua anh trai đi ngủ muộn hơn hôm kia nửa tiếng.
+557|Anh ấy chơi bóng rổ rất giỏi.
+558|Cô ấy bơi rất nhanh.
+559|Cô ấy đi bộ đến mệt rồi.
+560|Tôi xem tivi hai tiếng.
+561|Bóng rổ anh ấy thích, bóng chuyền anh ấy cũng thích.
+562|Mì tôi cũng thích ăn, cơm tôi cũng thích ăn.
+563|Dạo này thời tiết hơi lạ, lúc lạnh lúc nóng.
+564|Trong buổi tiệc họ lúc hát lúc nhảy, chơi rất vui.
+565|Một mặt chúng ta phải thấy ưu điểm của họ, mặt khác cũng phải chỉ ra khuyết điểm của họ.
+566|Trong thực tập, một mặt họ có thể tăng kinh nghiệm làm việc, mặt khác có thể học kiến thức mới.
+567|Trong buổi tiệc mọi người vừa hát vừa nhảy, vui vô cùng.
+568|Chiếc áo này kiểu dáng vừa đẹp, giá lại rẻ.
+569|Các bạn học trước hết đọc một lần bài khóa, sau đó trả lời nghiêm túc các câu hỏi trên bảng.
+570|Trước hết chúng ta phải tìm phương pháp luyện tập khoa học, sau đó kiên trì luyện mỗi ngày.
+571|Các chuyên gia đã thảo luận về vấn đề này, đồng thời đưa ra biện pháp giải quyết.
+572|Cách này có thể bảo quản thực phẩm, hơn nữa bảo quản được rất lâu.
+573|Nơi đó tôi không chỉ từng đến mà còn đến mấy lần rồi.
+574|Không chỉ tôi biết nói tiếng Trung, chị tôi cũng biết nói tiếng Trung.
+575|Anh ấy nếu không ở văn phòng thì là ở phòng thí nghiệm.
+576|Những chiếc áo này đều không vừa, hoặc là quá rộng, hoặc là quá chật.
+577|Nếu không vui, tôi sẽ hát to.
+578|Chỉ có kiểm tra cẩn thận, chúng ta mới phát hiện vấn đề và giải quyết vấn đề.
+579|Chỉ có nghe nói nhiều bạn mới nâng cao được trình độ tiếng Trung.
+580|Vì sức khỏe không tốt nên bố dự định nghỉ hưu sớm.
+581|Anh ấy làm việc rất chăm chỉ, vì thế đã đạt được thành công lớn.
+582|Để giữ gìn sức khỏe, ngày nào anh ấy cũng kiên trì vận động.
+583|Để học tốt tiếng Trung, ngày nào tôi cũng xem phim truyền hình Trung Quốc.
+584|Anh ấy tan học là đến thư viện ngay.
+585|Anh ấy uống rượu là đỏ mặt.
+586|Tiếng Trung không hề đơn giản chút nào.
+587|Đôi giày thể thao này đi chẳng thoải mái chút nào.
+588|Hôm nay chẳng phải là chủ nhật sao?
+589|Lẽ nào bạn chưa từng đến Vạn Lý Trường Thành?
+590|Hôm nay là thứ Bảy à?
+591|Bạn định đi du lịch à?
+592|Đã mười một giờ rồi, bạn đừng xem tivi nữa.
+593|Đã ba ngày rồi, sao anh ấy vẫn chưa về?
+594|Chậm thì chậm vậy, anh ấy hoàn thành được nhiệm vụ là tốt rồi.
+595|Bận thì bận một chút, vài ngày nữa chúng ta sẽ được nghỉ.
+596|Chơi gì mà chơi, chúng ta mau làm việc đi.
+597|Thoải mái gì chứ, điều hòa ở văn phòng hỏng rồi.
+598|Hôm nay tan học tôi phải về nhà sớm một chút.
+599|Muộn rồi, tôi phải về nhà thôi.
+600|Dù bận đến mấy bạn cũng phải ăn uống cho tử tế đấy!
+601|Người ta cũng vì tốt cho bạn mà.
+602|Người ta hiện đang gặp khó khăn, chúng ta nên giúp đỡ.
+603|Bạn xem người ta thường xuyên tập luyện, sức khỏe tốt biết bao.
+604|Hôm nay cô giáo đặc biệt vui.
+605|Những chữ này cực nhỏ, tôi nhìn không rõ.
+606|Hiệu trưởng là người vô cùng có trách nhiệm.
+607|Tổng cộng có ba mươi người dự họp.
+608|Quyển sách này gồm mười lăm bài.
+609|Bạn phải uống thuốc đúng giờ.
+610|Các bạn sắp tốt nghiệp.
+611|Sắp vào học, anh ấy vội chạy vào lớp.
+612|Mùa xuân đến, thời tiết dần ấm lên.
+613|Bạn gọi lại cho anh ấy càng sớm càng tốt.
+614|Anh ấy nhiều lần bày tỏ mình sẽ không dự cuộc họp này.
+615|Tôi giải thích đi giải thích lại mà anh ấy vẫn không tin.
+616|Tôi đến rồi, anh ấy lại không đến.
+617|Các bạn đều ra ngoài hoạt động, anh ấy lại ngồi yên trong lớp.
+618|Tin này chưa chắc đáng tin, chúng ta chờ thêm đi.
+619|Đừng chờ nữa, anh ấy chưa chắc sẽ đến.
+620|Lời anh ấy nói tôi hầu như không nghe hiểu.
+621|Cô ấy dường như rất không hài lòng với biểu hiện của mình.
+622|Đây quả thật là lỗi của tôi.
+623|Gió không những không ngừng mà còn ngày càng mạnh.
+624|Anh ấy quả là có cách, vấn đề lập tức được giải quyết.
+625|Bài này rất đơn giản, các bạn không ngờ đều làm sai.
+626|Buổi tiệc ngày mai rốt cuộc bạn có đi không?
+627|Từ năm 1978 đến nay, Trung Quốc đã có thay đổi rất lớn.
+628|Chuyến bay của chúng tôi xuất phát đúng giờ từ Bắc Kinh.
+629|Đối với bất kỳ ngôn ngữ nào, sự ra đời của chữ viết đều vô cùng quan trọng.
+630|Về mỹ thuật và âm nhạc, cô ấy có nhiều nghiên cứu.
+631|Đối với vấn đề này, chúng ta còn phải thảo luận kỹ.
+632|Tôi đã đọc mấy quyển sách về bảo vệ môi trường.
+633|Về kỳ thi ngày mai, nhà trường đã có quy định cụ thể.
+634|Đây là một bộ phim về chiến tranh.
+635|Bạn đừng lo lắng cho tôi, tôi tự xử lý được.
+636|Nhà trường chia lớp theo trình độ tiếng Trung của học sinh.
+637|Dựa theo ý kiến của mọi người, chúng tôi đã sửa kế hoạch.
+638|Anh ấy với tư cách là đại diện giáo viên đã tham dự cuộc họp này.
+639|Là học sinh, bạn nên hoàn thành bài tập đúng giờ.
+640|Họ đồng ý và ủng hộ đề nghị của chúng tôi.
+641|Tiểu Vương, Tiểu Lý cùng ba bạn khác đều đã thi đỗ.
+642|Chúng ta phải chăm chú nghe giảng, ngoài ra còn phải tích cực hoàn thành bài tập.
+643|Tại sao miền Bắc tuyết rơi ngày càng ít, còn miền Nam tuyết rơi ngày càng nhiều?
+644|Nghe nói quan trọng, đọc viết cũng quan trọng, tóm lại bốn kỹ năng này đều quan trọng.
+645|Hai cô ấy dường như chưa từng gặp bao giờ.
+646|Cảnh sắc ở đây như tranh vẽ.
+647|Anh ấy nói tiếng Trung giống như người Trung Quốc.
+648|Thói ăn uống thả cửa này của bạn có hại cho sức khỏe, nhất định phải sửa.
+649|Cô ấy tâm trạng không tốt, vì một chuyện nhỏ mà cãi nhau ầm ĩ.
+650|Đây là đồ của người khác, chúng ta một cây kim sợi chỉ cũng không được lấy.
+651|Anh ấy kể từng chi tiết một về tình hình cho thầy nghe.
+652|Xem ra anh ấy là người tốt.
+653|Xem ra ngày mai sẽ không mưa nữa.
+654|Xem ra lần thi này anh ấy sẽ qua.
+655|Bạn đừng vội, thời gian còn kịp.
+656|Bây giờ mới sáu rưỡi, bạn đi ngay thì vẫn còn kịp.
+657|Không kịp rồi, chúng ta mau đi thôi.
+658|Thời gian còn sớm, sẽ không không kịp đâu.
+659|Trời mưa rồi, biết đâu hôm nay anh ấy không đến nữa.
+660|Việc này biết đâu chính là do anh ấy làm.
+661|Năm nay có đi được Trung Quốc hay không bây giờ vẫn chưa biết chắc.
+662|Nói chung, tuyển thủ đã tham gia thi đấu thì không thể rút lui.
+663|Nói chung, trong dịp quan trọng như thế này anh ấy sẽ không đến muộn.
+664|Nói chung, so với thanh niên, người già nhiều kinh nghiệm hơn.
+665|Những đôi giày thể thao này đôi sau đẹp hơn đôi trước.
+666|Màn biểu diễn của anh ấy lần sau hay hơn lần trước.
+667|Thời tiết ngày càng ấm áp.
+668|Từ năm ngoái đến nay, tôi vẫn sống ở Bắc Kinh.
+669|Từ khi học đại học, anh ấy luôn kiên trì học tiếng Trung.
+670|Từ khi có con, cô ấy ngày nào cũng bận rộn.
+671|Lớp chúng tôi gồm hai thầy cô và hai mươi học sinh.
+672|Bài văn này gồm ba phần.
+673|Bài thi này gồm mười câu trắc nghiệm và một câu viết.
+674|Về mặt này, tôi không có kinh nghiệm gì.
+675|Về lịch sử, anh ấy biết rất nhiều.
+676|Về sửa máy tính, cô ấy là chuyên gia.
+677|Dưới ảnh hưởng của anh ấy, tôi đã thích tiếng Trung.
+678|Trong bài khóa này, chúng ta đã học tổng cộng ba mươi từ mới.
+679|Anh ấy không đi cũng được.
+680|Sức khỏe tốt rất quan trọng.
+681|Tôi tham gia kỳ thi năng lực tiếng Trung để giành học bổng đi du học Trung Quốc.
+682|Cơm ăn hết sạch rồi.
+683|Bài tập tôi làm xong rồi.
+684|Quyển sách này tôi đã đọc ba lần rồi.
+685|Tôi có một chiếc khăn quàng đỏ rất đẹp.
+686|Hai chiếc áo sơ mi dài màu trắng kia của tôi để ở đâu rồi?
+687|Ông cụ cao, tóc bạc, đeo kính kia chính là hiệu trưởng của chúng tôi.
+688|Xin các bạn khi rời phòng học hãy đóng cửa sổ lại.
+689|Anh ấy đã nói với bố mẹ nguyện vọng của mình.
+690|Cuối cùng anh ấy đã nhớ ra tình hình lúc đó.
+691|Họ đã xây dựng được quan hệ bạn bè thân thiết.
+692|Xin để lại địa chỉ và số điện thoại của bạn.
+693|Các bạn hãy kiểm tra lại bài thi một lần nữa.
+694|Anh ấy phơi quần áo mùa đông một chút rồi cất vào hòm.
+695|Anh ấy đã quên hết từ mới đã học.
+696|Anh ấy không cầm nổi nữa, bạn giúp anh ấy cầm những thứ này đi.
+697|Bạn đừng quên mang theo hộ chiếu.
+698|Thầy đã phê bình anh ấy một trận.
+699|Anh ấy đã đọc bài văn mấy lần.
+700|Anh ấy đã suy nghĩ vấn đề này cẩn thận trong mấy ngày.
+701|Thầy Vương bị mời đi họp rồi.
+702|Đèn phòng học đã bị tắt từ lâu rồi.
+703|Bức tranh đó đã bị mua mất rồi.
+704|Phía trước có một chiếc xe chạy tới.
+705|Hôm qua nhà tôi có mấy vị khách đến, mang theo không ít quà.
+706|Phía đối diện có một cụ già đi tới.
+707|Từ trong phòng học có một thầy giáo đi ra.
+708|Lớp chúng tôi có một học sinh chuyển đi.
+709|Trên ban công gió thổi bay một chiếc váy.
+710|Trong sân có hai nhà dọn đi.
+711|Công ty đã điều động đi mấy nhân viên.
+712|Thầy khen anh ấy giúp đỡ bạn học.
+713|Mẹ luôn phê bình tôi không dọn phòng.
+714|Mọi người đều gọi ông ấy là tiên sinh.
+715|Các thầy cô đều nói cô ấy là học sinh giỏi.
+716|Giáo sư Vương nhận anh ấy làm nghiên cứu sinh.
+717|Các bạn đều bầu anh ấy làm lớp trưởng.
+718|Vấn đề này là có thể giải quyết được.
+719|Bài này là rất đơn giản.
+720|Chuyện như vậy là tuyệt đối không xảy ra.
+721|Không phải tôi không muốn đi mà là không có thời gian.
+722|Đây không phải sách của tôi mà là của anh ấy.
+723|Việc này người sai không phải là tôi mà là anh ấy.
+724|Chiếc áo mới này vừa đẹp vừa ấm.
+725|Anh ấy vừa biết học vừa biết chơi.
+726|Ông ấy vừa là thầy giáo vừa là bạn của chúng tôi.
+727|Trước hết chúng ta đọc một lần bài khóa, sau đó dựa theo bài khóa làm một bài tập.
+728|Đội bóng chúng tôi có nhiều vấn đề, trước hết là các thành viên không đoàn kết, thứ hai là thời gian luyện tập quá ít.
+729|Đánh giá một học sinh, trước hết xem phẩm chất, sau đó xem thành tích.
+730|Gió ngừng, trời đổ mưa, thế là mọi người lần lượt giương ô.
+731|Anh ấy không thích công việc này, thế là rời khỏi công ty.
+732|Còn lâu mới đến giờ họp, thế là chúng tôi đi dạo hiệu sách.
+733|Anh ấy không biết gì cả, thậm chí ngay cả chữ Hán đơn giản nhất cũng không viết được.
+734|Cô ấy bệnh rất nặng, thậm chí phải phẫu thuật.
+735|Mẹ thực sự rất giận, thậm chí không ăn cả bữa tối.
+736|Kỳ nghỉ hè hoặc là đi Thượng Hải, hoặc là đi Hàng Châu, dù sao cũng phải đi du lịch.
+737|Ba người chúng ta, hoặc bạn đi, hoặc tôi đi, hoặc anh ấy đi, ai đi cũng được.
+738|Tôi biết tiếng Trung rất hữu ích, nhưng tiếng Trung cũng quá khó.
+739|Anh ấy nói không thích bộ phim này, nhưng tôi thấy rất thú vị.
+740|Tôi phải ôn tập nghiêm túc, nếu không thi sẽ trượt.
+741|Nhớ mang thẻ, nếu không không vào được văn phòng.
+742|Trước giờ học nhất định phải chuẩn bị bài từ mới và bài khóa, nếu không sẽ không hiểu thầy giảng.
+743|Nếu có khó khăn, bạn nhất định phải nói với tôi.
+744|Nếu qua được kỳ thi này, tôi có thể nhận học bổng của trường.
+745|Nhỡ tôi không đến, bạn cứ đi trước.
+746|Nhất định phải mang theo hộ chiếu, nhỡ cần dùng mà không mang thì phiền lắm.
+747|Bất kể ngày mai có mưa hay không, tôi cũng phải đi thăm anh ấy.
+748|Dù khó đến đâu, tôi cũng sẽ kiên trì học tiếp.
+749|Dù việc học căng thẳng đến mấy, tôi vẫn kiên trì tập thể dục một tiếng mỗi ngày.
+750|Dù anh ấy nói thế nào cũng không ai tin.
+751|Đã là việc bạn quyết định rồi thì tôi không nói gì nữa.
+752|Đã ngoài trời mưa rồi thì ngày mai chúng ta đi vậy.
+753|Trình độ tiếng Trung của anh ấy rất cao, có thể thấy lúc du học anh ấy đã học chăm chỉ biết bao.
+754|Anh ấy luôn giúp tôi lúc tôi khó khăn, có thể thấy anh ấy là người bạn tốt biết bao.
+755|Dù khó hơn nữa, tôi cũng phải kiên trì học tiếp.
+756|Dù cơ hội không lớn, tôi vẫn muốn thử một lần.
+757|Bạn có việc thì bạn cứ đi trước.
+758|Bạn không sợ nhưng tôi sợ.
+759|Bạn muốn đi thì bạn đi.
+760|Tối nay dù không ngủ tôi cũng phải viết xong bài văn này.
+761|Anh ấy dù không ăn cơm cũng phải giúp tôi sửa máy tính.
+762|Anh ấy dù không nghỉ ngơi cũng phải chơi game điện thoại.
+763|Không có đứa trẻ nào không thích chơi.
+764|Hoạt động quan trọng như thế này, tôi không thể không tham gia.
+765|Thầy sẽ không từ chối yêu cầu của chúng tôi.
+766|Nhà chúng tôi không ai không thích hát.
+767|Tôi chưa đọc một quyển sách tiếng Trung nào.
+768|Tôi mệt đến mức một bước cũng không đi nổi.
+769|Thượng Hải tôi chưa đi lần nào.
+770|Khi mới đến Trung Quốc, anh ấy không nghe hiểu nổi một câu tiếng Trung.
+771|Anh ấy ngay cả tên của nhà văn này cũng chưa từng nghe.
+772|Tôi ngay cả chữ Hán đơn giản nhất cũng không viết ra được.
+773|Hôm nay lớp trưởng mời khách, chúng ta không ăn thì phí.
+774|Bộ phim này miễn phí, tại sao chúng ta không đi xem? Không xem thì phí.
+775|Tuy cuộc sống rất khó khăn, nhưng cũng không thể cứ sống qua ngày.
+776|Việc thực sự quá nhiều, làm được cái nào hay cái đó.
+777|Làm được bài nào hay bài đó, bạn nhất định sẽ làm xong.
+778|Mới chỉ bắt đầu thôi, có gì mà phải xúc động.
+779|Bạn đừng lo nữa, có gì phải sợ đâu.
+780|Có gì phải buồn, đây là kết quả chúng ta đã nghĩ đến từ lâu.
+781|Một là một, hai là hai, phải phân biệt rõ.
+782|Anh ấy là anh ấy, tôi là tôi, ý kiến khác nhau là chuyện bình thường.
+783|Hôm qua là hôm qua, hôm nay là hôm nay, bạn phải nộp bài tập.
+784|Việc này rất quan trọng, bạn làm cũng phải làm, không làm cũng phải làm.
+785|Bạn ăn cũng phải ăn, không ăn cũng phải ăn, không được lãng phí lương thực.
+786|Bạn đừng lãng phí thời gian, cứ nói thẳng là được.
+787|Bạn đừng giận, sau này đừng nói chuyện với anh ấy là được.
+788|Còn hàng hiệu nữa chứ, tôi nghe còn chưa từng nghe.
+789|Còn là chuyên gia nổi tiếng nữa chứ, trình độ còn chưa bằng tôi.
+790|Còn là nhà thơ nổi tiếng nữa chứ, bài thơ này tôi đọc còn chẳng hiểu.
+791|Bạn cứ ăn đi, đừng để phần tôi.
+792|Không có việc gì, bạn cứ nghỉ ngơi đi!
+793|Bạn cứ bận việc của bạn đi, tôi chơi với con một lát.
+794|Bảo bạn làm thì bạn cứ làm, đừng hỏi nhiều.
+795|Bảo bạn ăn thì bạn cứ ăn, chuyện khác đừng quản.
+796|Bảo bạn yên lặng thì bạn cứ yên lặng, đừng nói nhiều thế.
+797|Anh ấy bị ốm, dù thế nào tôi cũng phải đến thăm.
+798|Hoạt động quan trọng như vậy, dù thế nào bạn cũng phải đến một chút.
+799|Hết thời gian rồi, dù thế nào cũng phải đi thôi.
+800|Giữa bạn bè nên tin tưởng lẫn nhau.
+801|Chúng tôi là bạn tốt nhiều năm, không phân biệt đôi bên.
+802|Mười năm sau, tình hình phát triển của hai thành phố khác nhau đến thế.
+803|Anh ấy luyện tập chăm chỉ như vậy là để có một cơ thể khỏe mạnh.
+804|Việc này xảy ra quá đột ngột.
+805|Bạn gái anh ấy xinh lắm!
+806|Bức tranh này treo cao thêm một chút nữa.
+807|Cô ấy thích vận động, đặc biệt là bơi lội.
+808|Những người tham gia cuộc thi chèo thuyền phần lớn là nữ sinh.
+809|Học sinh lớp chúng tôi phần lớn rất ham học.
+810|Trẻ em phần lớn thích ăn đồ ngọt.
+811|Thỉnh thoảng tôi lại nhớ đến những chuyện đã qua.
+812|Sang năm chúng tôi sẽ ra nước ngoài khảo sát.
+813|Bộ phim truyền hình sắp bắt đầu.
+814|Hai mươi năm trôi qua, anh ấy vẫn chưa kết hôn.
+815|Sau khi lớn lên, tôi thường nhớ về quê hương.
+816|Ở nước ngoài, tôi luôn nhớ người thân trong nước.
+817|Mười năm đã trôi qua, anh ấy vẫn sống ở đó.
+818|Anh ấy xưa nay không thích nói chuyện.
+819|Anh ấy không hay xin nghỉ, chỉ thỉnh thoảng đến muộn một lần.
+820|Chúng ta tuyệt đối không để những chuyện tương tự xảy ra lần nữa.
+821|Tôi lén tặng anh ấy một món quà.
+822|Cô ấy lén nhìn ra ngoài qua cửa sổ.
+823|Đừng trách anh ấy, dù sao anh ấy vẫn còn nhỏ.
+824|Lần đầu đi thi, khó tránh khỏi hơi căng thẳng.
+825|Hôm nay đi học tôi suýt nữa thì đến muộn.
+826|Cách làm này cũng khá mới lạ, trước giờ chưa từng thấy.
+827|Đừng khuyên tôi, tôi nhất định phải đi.
+828|Không ngờ việc này lại là do cô ấy làm.
+829|Tôi thì không nhớ nổi nhiều từ mới như vậy.
+830|Rõ ràng là bạn làm, tại sao lại nói là người khác làm?
+831|Quyển sách này cuối cùng cũng học xong.
+832|Theo thời gian trôi qua, tôi dần hiểu cách làm của anh ấy.
+833|Khi mùa đông đến, căn phòng ngày càng lạnh.
+834|Bố mẹ gửi anh ấy sang Trung Quốc du học.
+835|Cấm mang sách ra khỏi phòng đọc.
+836|Câu này để bạn trả lời nhé.
+837|Việc này do lớp trưởng phụ trách.
+838|Với trình độ của anh ấy, qua kỳ thi này không có vấn đề gì.
+839|Dựa vào kinh nghiệm để phán đoán thường không chính xác.
+840|Phải dựa vào sự thật mà làm việc.
+841|Cảnh sát dựa vào manh mối đã bắt được kẻ xấu.
+842|Anh ấy muốn sống theo cách mình thích.
+843|Theo quy định của nhà trường, học sinh phải đi học đúng giờ, không được đến muộn.
+844|Anh ấy học tập chăm chỉ, nhờ đó đã thực hiện được ước mơ làm phiên dịch.
+845|Bạn mau làm bài tập đi, xong rồi chúng ta đi công viên chơi.
+846|Bạn phải nghĩ kỹ, một khi đã chọn thì không được bỏ cuộc.
+847|Để anh ấy đích thân thử tại hiện trường cũng được.
+848|Học thêm một ngôn ngữ cũng tốt, sau này có thể nhờ đó tìm việc làm.
+849|Nghĩ đi nghĩ lại, vẫn là Tiểu Vương phù hợp nhất.
+850|Mọi người thảo luận đi thảo luận lại, cuối cùng vẫn chưa giải quyết được.
+851|Cô ấy là hướng dẫn viên du lịch, thường xuyên bay đi bay lại khắp nơi trên thế giới.
+852|Cô ấy đang nói thì bỗng bật khóc.
+853|Tôi nằm trên giường xem tivi, đang xem thì ngủ thiếp đi.
+854|Cả buổi sáng không ăn không uống, tôi đói chết mất.
+855|Đứa bé này nói chuyện không phân biệt lớn nhỏ, chẳng có chút lễ phép nào.
+856|Vì sao cuộc đời cần có một chuyến du lịch nói đi là đi?
+857|Nói làm là làm, chỉ có làm mới tìm được cách.
+858|Tan học rồi, các bạn vừa nói vừa cười đi ra khỏi lớp.
+859|Nông thôn ở đây có núi có sông, không khí tốt, nông dân đã có cuộc sống tốt đẹp.
+860|Công viên ngày lễ có nam có nữ, có già có trẻ, rất náo nhiệt.
+861|Bạn lại đạt hạng nhất, thật không tưởng tượng nổi!
+862|Không xong rồi, trong phòng nước tràn vào rồi.
+863|Hỏng rồi hỏng rồi, không xong rồi, máy tính hỏng rồi.
+864|Phần thưởng thế này tôi thật không dám nhận.
+865|Xin quá khen, tôi chỉ làm việc tôi nên làm thôi.
+866|Xin ông đừng nói thế, tôi thật sự không dám nhận.
+867|Làm phiền người khác chi bằng bạn tự đi cho xong.
+868|Thôi đi, anh ta không thể giúp người khác đâu.
+869|Thôi đi, ai nghĩ được như thế?
+870|Bạn có gì cứ nói thẳng, không cần sợ.
+871|Không cần nghe anh ta, anh ta chẳng hiểu gì cả.
+872|Các con đều đi làm rồi, bà không cần lo nữa.
+873|Từ góc độ này mà xét, nhiều vấn đề đều có thể giải quyết.
+874|Xét thành tích thi của anh ấy, bình thường anh ấy hoàn toàn không học nghiêm túc.
+875|Xét theo kinh nghiệm trước đây, việc này về cơ bản không có vấn đề.
+876|Cho đến nay anh ấy vẫn chưa mắc lỗi nào.
+877|Báo cáo của tôi đến đây là hết, cảm ơn!
+878|Đến hôm qua, dự án này đã hoàn thành được một nửa.
+879|Mấy việc trước mắt này cũng đủ làm anh ấy bận rồi.
+880|Anh ấy thật là thông minh, không ngờ nắm bắt được cơ hội này.
+881|Quyển sách này khó thật, anh ấy chắc chắn không đọc hiểu.
+882|Nói về thành tích, anh ấy tuyệt đối đứng nhất.
+883|Nói về việc này, bạn không làm sai điều gì.
+884|Nói về kỳ thi lần này, chỉ cần bình thường cố gắng là qua được.
+885|Quần áo cái to cái nhỏ, không có cái nào vừa.
+886|Trong nhà người già thì già, người nhỏ thì nhỏ, chúng ta phải giúp cô ấy.
+887|Các tòa nhà ở đây cái cao cái thấp, không đồng đều lắm.
+888|Theo tôi, kỳ thi tiếng Trung lần này thật sự quá khó.
+889|Theo nhiều người, việc này không đơn giản như vậy.
+890|Theo các thầy cô, mỗi học sinh đều có ưu điểm của riêng mình.
+891|Ở cửa có một người đứng.
+892|Trên khán đài có nhiều lãnh đạo ngồi.
+893|Các bạn phải nghiêm túc đối với kỳ thi này.
+894|Chúng tôi phải đi siêu thị thu mua một lô thực phẩm.
+895|Hôm qua anh ấy đã chăm chú làm xong bài tập trong lớp học.
+896|Để qua kỳ thi, hôm qua cô ấy ôn bài ở nhà cả ngày.
+897|Hôm kia tôi tình cờ gặp trên đường người bạn cũ nhiều năm không gặp.
+898|Chiều nay chúng tôi đã rất nghiêm túc thảo luận về bản báo cáo hôm qua trong lớp.
+899|Đứa bé này lại bắt đầu chơi game.
+900|Cậu bé bật khóc to.
+901|Công việc này từ tháng trước đã bắt đầu làm.
+902|Đừng căng thẳng, bạn cứ nói tiếp đi.
+903|Bạn kiên trì như thế này nhất định sẽ thành công.
+904|Tiếng Trung của bạn khá tốt, tôi đề nghị bạn tiếp tục học.
+905|Trong ba năm qua, tôi đã giữ được thói quen tập thể dục một tiếng mỗi ngày.
+906|Loại thuốc này uống được hay không phải nghe bác sĩ.
+907|Những thứ này bạn không được cầm, rất nguy hiểm.
+908|Lời nói vô nguyên tắc như thế này không được nói.
+909|Nghe nói phải tiêm, cô ấy sợ kinh khủng.
+910|Muộn thế này mà đứa bé chưa về nhà, cô Trương lo muốn chết.
+911|Việc này đã làm tổn thương sâu sắc trái tim cô ấy, mọi người đừng nhắc lại nữa.
+912|Lần đầu bị người khác từ chối, tâm trạng tôi tệ vô cùng.
+913|Anh ấy buồn đến mức ăn không nổi cơm.
+914|Cô ấy tức đến nỗi không nói nên lời.
+915|Cô ấy buồn quá bật khóc.
+916|Sáng tôi không ăn cơm, đói đến đau bụng.
+917|Trong phòng nóng đến nhức đầu.
+918|Con giành chức vô địch, bố mẹ vui đến mức không khép miệng lại được.
+919|Giữa hai nước có quan hệ hữu hảo lâu dài.
+920|Giữa họ có một hiểu lầm rất sâu sắc.
+921|Trong sách có ghi tên của anh ấy.
+922|Trên đôi đũa này khắc họa tiết rất đẹp.
+923|Trên hóa đơn có ghi tên các mặt hàng.
+924|Anh ấy luôn vứt đồ lung tung khắp nơi.
+925|Trời mưa, cô ấy vội thu những thứ bên ngoài vào.
+926|Sao bạn lại quên mất việc này?
+927|Hai bên đã ký hợp đồng.
+928|Anh ấy đã dùng hết số tiền trong người để đóng học phí.
+929|Bố mẹ tôi đã dùng tiền tiết kiệm để mua nhà.
+930|Bánh ăn hết rồi.
+931|Quần áo mặc rách rồi.
+932|Vé bán hết rồi.
+933|Cô Lý bị bệnh nên nằm viện.
+934|Quyển sách này cô ấy mượn mà không đọc.
+935|Cô ấy có cách giải quyết vấn đề.
+936|Thầy bảo cô ấy về sớm một chút.
+937|Việc này khiến cô ấy ăn không nổi cơm.
+938|Cách làm của anh ấy khiến mọi người không còn dám tin anh ấy nữa.
+939|Kỳ thi ngày mai khiến tôi không ngủ được.
+940|So với kỳ thi lần trước, lần này không khó đến thế.
+941|So với người khác, suy nghĩ của tôi quá đơn giản.
+942|So với kiến thức ngữ pháp, tôi thấy kiến thức ngữ âm khó hơn.
+943|Cô ấy cao hơn tôi năm xăng-ti-mét.
+944|Anh ấy đến sớm hơn tôi mười phút.
+945|Chị lớn hơn tôi mười tuổi.
+946|Việc này hoặc là anh trai làm, hoặc là em trai làm.
+947|Bạn hoặc là tham gia kỳ thi này, hoặc là sang năm học lại môn này.
+948|Mặc dù kỳ thi lần này rất khó, nhưng nhiều người đã qua.
+949|Mặc dù ngoài trời đang mưa nhưng anh ấy nhất định phải đi siêu thị mua đồ.
+950|Mặc dù anh ấy không chấp nhận ý kiến của tôi, nhưng có ý kiến tôi vẫn phải nêu với anh ấy.
+951|Một khi thi không đạt, tôi sẽ phải hoãn tốt nghiệp.
+952|Một khi tàu điện ngầm xây xong, tình trạng tắc đường sẽ được giảm nhẹ rất nhiều.
+953|Tiếng Trung một khi đã học thì không thể bỏ được nữa.
+954|Nếu anh ấy không đi, tôi cũng không đi nữa, nếu không một mình tôi đi thì quá nguy hiểm.
+955|Nếu ngày mai mưa, chúng ta sẽ không đi leo núi nữa, nếu không sẽ bị cảm lạnh.
+956|Nếu bạn không mang túi, tôi sẽ mang một cái, nếu không đồ mua về không có chỗ để.
+957|Trừ phi bạn đồng ý với tôi, tôi mới đi cùng bạn.
+958|Trừ phi bạn chăm chỉ học, mới có khả năng đỗ đại học.
+959|Trừ phi tâm trạng tốt, anh ấy mới đồng ý yêu cầu của chúng tôi.
+960|Trừ phi đi máy bay, nếu không chắc chắn không kịp.
+961|Trừ phi bạn kiểm tra cẩn thận, nếu không rất dễ sai.
+962|Anh ấy bị bệnh nên không đến lớp.
+963|Cô ấy hoàn thành nhiệm vụ đúng hạn nên được công ty khen thưởng.
+964|Kỳ thi lần này quá khó, vì vậy nhiều học sinh không qua.
+965|Dù thời tiết không tốt, người leo Vạn Lý Trường Thành cũng không ít.
+966|Anh ấy dù bị ốm vẫn kiên trì làm việc.
+967|Tôi dù ngủ muộn thế nào, sáng sáu giờ cũng nhất định tỉnh.
+968|Tôi đỗ xe bên ngoài để lúc đi cho tiện.
+969|Cô ấy gửi cho bạn tin nhắn này là để nhắc bạn chú ý an toàn.
+970|Tiết này thầy không giảng gì cả, là để chúng tôi có thời gian luyện nói nhiều hơn.
+971|Chúng ta phải ra khỏi nhà sớm một chút để kịp đi chuyến xe buýt đầu tiên.
+972|Cô ấy đi bộ đến chỗ làm mỗi ngày để rèn luyện sức khỏe.
+973|Hãy để lại số điện thoại để tiện liên lạc với bạn.
+974|Không có sự giúp đỡ của bạn thì không có thành công của tôi.
+975|Không có nước thì không có sự tồn tại của sự sống.
+976|Không có sự nỗ lực thường ngày thì không có thành tích hôm nay.
+977|Việc này khó đến mấy cũng phải kiên trì.
+978|Mưa to đến mấy tôi cũng phải đi làm.
+979|Bài khóa này dài đến mấy cũng phải đọc xong.
+980|Tôi quyết định đi Trung Quốc du học, dù tiếng Trung có khó đến mấy tôi cũng phải học.
+981|Vì bị bệnh nên tôi không đi học, không ngờ vừa tan học thầy đã đến thăm tôi.
+982|Cô ấy luôn không muốn nói ra sự thật, tuy tôi không biết suy nghĩ thật của cô ấy nhưng tôi tôn trọng lựa chọn của cô ấy.
+983|Từ hôm nay, tôi sẽ không bao giờ mắc lỗi này nữa.
+984|Anh ấy không hề liên lạc với tôi nữa.
+985|Tôi không hề gặp lại cô ấy.
+986|Bạn cuối cùng cũng đến, làm tôi sốt ruột muốn chết!
+987|Bạn nhất định phải chú ý sức khỏe nhé, ngày nào cũng thiếu ngủ thì không được đâu!
+988|Bạn không thể làm mọi người thất vọng!
+989|Cô ấy hoàn toàn không ngờ mình sẽ thất bại.
+990|Anh ấy dù thế nào cũng không đoán được ai sẽ đến thăm mình.
+991|Lời anh ấy nói tôi dù thế nào cũng không nghe hiểu.
+992|Tối qua tôi dù thế nào cũng không ngủ được.
+993|Anh ấy đùa như vậy, làm tôi tức đến nỗi khóc không được mà cười cũng không xong.
+994|Vừa thấy có nhiều người đến thế, anh ấy căng thẳng đến mức ngồi không yên đứng không xong.
+995|Đi không được, ở cũng không xong, thật không biết phải làm sao.
+996|Khi anh ấy đau lưng thì đứng cũng không được, ngồi cũng không xong.
+997|Con đã lớn, mắng cũng không được, đánh cũng không được.
+998|Chuyện này khiến anh ấy lo đến mức ăn không được, ngủ cũng không xong.
+999|Tốt là nó, xấu cũng là nó, bạn không có lựa chọn nào khác.
+1000|Thành công là nó, thất bại cũng là nó, lựa chọn này tôi tuyệt đối không hối hận.
+1001|Chờ một tiếng là nó, chờ hai tiếng cũng là nó, chỉ có thể đi chuyến xe này về nhà.
+1002|Ngày mai tôi đi siêu thị dạo, dù sao rảnh cũng là rảnh.
+1003|Những bộ quần áo đó cô ấy không thích nữa, để đó cũng là để đó, chi bằng cho người khác.
+1004|Dù sao chờ cũng là chờ, chi bằng chúng ta nghỉ ngơi một chút.
+1005|Nghĩ là nghĩ, làm là làm, kết quả hoàn toàn khác nhau.
+1006|Cãi nhau là cãi nhau, mọi người vẫn là bạn tốt.
+1007|Bạn bè là bạn bè, làm ăn là làm ăn, không thể miễn phí.
+1008|Dù nói thế nào, bạn làm như vậy là không đúng.
+1009|Dù nói thế nào, việc này cuối cùng cũng làm xong.
+1010|Bạn nói gì vậy, tôi đâu có giỏi đến thế?
+1011|A: Anh ấy nói lần này chắc chắn thi đỗ hạng nhất.
+1012|B: Xem anh ấy khoác lác kìa.
+1013|Bạn giỏi thật! Cả máy tính bạn cũng biết sửa à?
+1014|Việc khó như vậy mà anh ấy cũng có cách, thật là giỏi!
+1015|Nhìn gì mà nhìn, nhìn nữa là đến muộn đấy!
+1016|Ăn gì mà ăn, ăn nữa là béo chết đấy!
+1017|Tiền bạc gì chứ, lời bạn nói khách sáo quá.
+1018|Phiền phức gì đâu, giữa chúng ta không cần khách sáo thế.
+1019|Hợp với không hợp gì chứ, quần áo mặc được là được.
+1020|Tiếng Trung rất thú vị. Năm ngoái công ty cử anh ấy sang Trung Quốc học tiếng Trung, bây giờ còn muốn để anh ấy ở lại Trung Quốc làm việc.
+1021|Cửa hàng có thể dùng nó để mua đồ, trao đổi với bạn bè, nó khiến cuộc sống ngày càng tiện lợi.
+1022|Đó cũng là một trong những món người miền Bắc thích mua sau khi du lịch miền Nam.
+1023|Lớn lên, mãi đến mười sáu tuổi mới rời đi. Đó cũng là thành phố tôi thích nhất.
+1024|Và ngữ pháp, trong thời gian ngắn không dễ nhận ra (những thay đổi này), lâu ngày sẽ lộ ra.
+1025|Anh ấy rất vui, vì thiết kế của anh ấy đoạt giải.
+1026|Hôm nay thời tiết lạnh khác thường.
+1027|Mới đi làm, việc được giao cho tôi toàn là công việc cơ bản.
+1028|Ở đây toàn là rác, không có chỗ đứng.
+1029|Mọi người cùng ra tay, dọn rác trên đường.
+1030|Đây là kết quả chúng ta cùng nhau nỗ lực.
+1031|Thầy luôn quan tâm đến việc học của chúng tôi.
+1032|Hình như tôi đã gặp anh ấy ở đâu đó, nhưng nhất thời không nhớ ra.
+1033|Sớm muộn gì anh ấy cũng biết sự thật.
+1034|Anh ấy vừa tan học đã về nhà.
+1035|Tôi không kìm được nhớ lại cảnh lần đầu tiên gặp cô ấy.
+1036|Sắp muộn rồi, anh ấy vội ra khỏi nhà, bữa sáng cũng chưa ăn.
+1037|Việc này là tôi tận mắt thấy, không thể là giả.
+1038|Tôi chuẩn bị xong hết rồi, bạn không cần đặc biệt chạy đến giúp tôi.
+1039|Hôm nay là ngày đi làm đầu tiên của David, anh ấy cố ý mang đôi giày da mới.
+1040|Bà vui vẻ cười như một đứa trẻ.
+1041|Khi làm việc anh ấy dường như không biết mệt là gì.
+1042|Tôi mới không cần tiền của bố mẹ, tôi muốn tự kiếm tiền.
+1043|Lúc tôi định ra ngoài tìm anh ấy thì anh ấy vừa hay trở về.
+1044|Mùa đông miền Bắc cực kỳ lạnh, vậy mà anh ấy cứ muốn đến đó du lịch vào Giáng sinh.
+1045|Anh trai rất cẩu thả, còn em trai thì hoàn toàn ngược lại.
+1046|Anh ấy sinh năm 1995.
+1047|Gấu trúc lớn chủ yếu sinh sống ở khu vực Tây Nam Trung Quốc.
+1048|Anh ấy thích đi dạo dọc theo hồ.
+1049|Bạn đi dọc con đường này, một lát là tới.
+1050|Tôi đi theo con đường anh ấy chỉ, rất nhanh đã tìm được nhà anh ấy.
+1051|Giống như bạn, tôi cũng là học sinh.
+1052|Bạn phải giữ quan hệ tốt với bạn học.
+1053|Thời gian du lịch đã định, còn về vấn đề chi phí thì cần thảo luận thêm.
+1054|Nhà trường quyết định tháng sau tổ chức đại hội thể thao, còn thời gian cụ thể xin chờ thông báo của nhà trường.
+1055|Siêu thị sẽ tổ chức chương trình ưu đãi trong dịp lễ, còn chi tiết có thể tra trên mạng.
+1056|Do nhu cầu công việc của công ty, cô ấy phải đi công tác ở Trung Quốc.
+1057|Hôm qua cô ấy xin nghỉ vì bệnh.
+1058|Anh ấy đến muộn vì ra khỏi nhà quá muộn.
+1059|Trừ anh ấy ra, mọi người đều đến.
+1060|Ngoài việc này ra, những việc khác tôi đều đồng ý với bạn.
+1061|Ngoài chiếc vali này ra, không còn hành lý nào khác.
+1062|Theo chuyên gia giới thiệu, thông tin này không chính xác.
+1063|Theo thống kê, đa số gia đình có một đến hai con.
+1064|Nghe nói anh ấy vẫn chưa quyết định bỏ cuộc.
+1065|Cô ấy lương thiện mà lạc quan.
+1066|Tôi và anh ấy đều là nhân viên mới.
+1067|Thành hay không đều tùy vào bạn!
+1068|Hôm nay tôi vốn định ra sân đá bóng, không ngờ bên ngoài đổ mưa.
+1069|Chúng tôi hẹn cùng đi chơi Vạn Lý Trường Thành, nhưng anh ấy quên mất.
+1070|Nếu thời gian này bạn không tiện, chúng ta đổi giờ khác.
+1071|Theo như tôi biết, việc này không phải sự thật.
+1072|Mọi việc bạn đã làm tôi đều ủng hộ.
+1073|Bộ phim này chính là điều tôi quan tâm.
+1074|Đừng giận, tôi chỉ đùa thôi mà.
+1075|Cuối cùng tôi cũng hiểu rõ vấn đề này rồi!
+1076|Chuyện gì, bạn nói nhanh lên nào!
+1077|Mỗi người dân thành phố đều đã đóng góp ít nhiều cho sự phát triển của thành phố này.
+1078|Mỗi doanh nghiệp đều có một bộ tiêu chuẩn quản lý giám sát chất lượng cao thấp khác nhau.
+1079|Mẹ lúc nào cũng nhớ đứa con đang du học nước ngoài.
+1080|Đứa bé này mà không quản thì sẽ không còn phép tắc gì nữa.
+1081|Anh ấy luôn kiên nhẫn nghe cô ấy nói chuyện này chuyện nọ.
+1082|Anh ta thật là phiền phức, lúc nào cũng chê cái này cái nọ.
+1083|Anh ấy né trái tránh phải, cuối cùng đã sút bóng vào khung thành.
+1084|Lần đầu ra ngoài, anh ấy phấn khích ngó trái nhìn phải, mắt không đủ để nhìn.
+1085|Anh ấy nghĩ đi nghĩ lại, cảm thấy việc này không thể kết thúc như vậy.
+1086|Chiếc áo này không đẹp lắm, đổi cái khác đi.
+1087|Anh ấy không mấy bận tâm đến những chuyện nhỏ này.
+1088|Hôm nay hình như anh ấy không khỏe lắm.
+1089|Cô ấy nhảy múa không giỏi lắm.
+1090|A: Chiếc áo này thế nào?
+1091|B: Không ra gì.
+1092|Tôi khó khăn lắm mới giành được cơ hội này cho bạn, sao bạn lại không nắm lấy?
+1093|Bạn khó khăn lắm mới đi đến bước này, sao có thể nói bỏ là bỏ?
+1094|Tôi khó khăn lắm mới thuyết phục được anh ấy đến dự thi, bạn không được để anh ấy đi.
+1095|Bây giờ xem ra, đó đúng là một cách rất hay.
+1096|Thực sự hết cách, đó cũng là một cách.
+1097|A: Nếu tìm được nguyên nhân thất bại thì cũng là một chuyện đáng mừng.
+1098|B: Cũng đúng.
+1099|Tức là, anh ta là một người không trung thực.
+1100|Tức là, trách nhiệm không ở bạn, bạn tuyệt đối đừng trách mình.
+1101|Việc này cứ thế bỏ qua đi.
+1102|Anh ấy không đi thì thôi, đừng làm khó anh ấy.
+1103|A: Không được, tôi phải hỏi anh ta cho rõ.
+1104|B: Thôi đi, bạn nói không lại anh ta đâu.
+1105|Anh ấy ngã rất nặng, người chỗ xanh chỗ tím.
+1106|Mọi người người một câu, tôi một câu, làm anh ấy ngược lại không còn chủ ý.
+1107|Hai người đang nói chuyện thì bất ngờ anh một cái tôi một cái đánh nhau.
+1108|Trời tối lại còn mưa, anh ấy bước thấp bước cao vội vã trở về.
+1109|Anh ấy nói chuyện câu đông câu tây, hoàn toàn không có trọng tâm.
+1110|Anh ấy làm việc lúc này một chút lúc kia một chút, vừa không có kế hoạch vừa không kiên nhẫn.
+1111|Tức giận vì một chuyện nhỏ như vậy thì không đáng.
+1112|Anh ấy đã nỗ lực rất lâu vì cuộc thi này.
+1113|Đây là cuộc họp được triệu tập để thảo luận vấn đề cải thiện môi trường.
+1114|Nghe tiếng chuông, anh ấy lập tức vào lớp.
+1115|Ở nông thôn Trung Quốc, xây nhà là một việc lớn.
+1116|Học kỳ mới có quá nhiều học sinh, nhà trường đang xây nhà ăn trong khuôn viên.
+1117|Thầy vừa vào lớp, các bạn nhanh chóng yên lặng lại.
+1118|Hứng thú của anh ấy với công việc dần nhạt đi.
+1119|Chúng ta cất giấu món quà trước đã.
+1120|Sau khi bác sĩ cấp cứu, cuối cùng anh ấy đã tỉnh lại.
+1121|Đôi giày này làm chân trầy rách.
+1122|Tiếng ồn bên ngoài làm tôi tỉnh giấc.
+1123|Anh ấy làm mọi người cười đau cả bụng.
+1124|Anh ấy làm bố tức đến mức cả đêm không ngủ.
+1125|Đứa bé làm mẹ cảm động rơi nước mắt.
+1126|Chiếc cốc bị cô ấy lỡ tay làm vỡ.
+1127|Xe đạp bị kẻ trộm lấy mất.
+1128|Việc này suýt nữa thì tôi quên mất.
+1129|Thời tiết ở đây thay đổi liên tục, lúc nắng lúc mưa.
+1130|Cuộc sống là như vậy, lúc khiến người ta thất vọng, lúc khiến người ta tràn đầy tin tưởng.
+1131|Cảm xúc của cô ấy rất không ổn định, lúc tích cực lúc tiêu cực.
+1132|Tuổi đã cao, sức khỏe lúc tốt lúc xấu.
+1133|Sản lượng của công ty này lúc tăng lúc giảm.
+1134|Cảm xúc của anh ấy dao động, lúc vui lúc buồn.
+1135|Anh ấy không những không giúp tôi mà còn gây phiền phức cho tôi.
+1136|Mùa hè đã qua, thời tiết không những không mát mà còn nóng hơn.
+1137|Anh ấy không những không động viên tôi mà còn mắng tôi một trận.
+1138|Không phải đọc xong là được, còn phải viết thêm một bài văn.
+1139|Việc này không phải bạn muốn làm là làm được, vẫn phải nghe ý kiến của ông chủ.
+1140|Người lớn còn làm không được, trẻ con càng không làm được.
+1141|Ngay cả người già cũng thích xem, bọn trẻ càng thích không tả nổi.
+1142|Bạn hoặc là cùng nhóm với anh ấy, hoặc là một mình một nhóm, mau quyết định đi.
+1143|Đứng trước khó khăn, chúng ta hoặc bị nó dọa sợ, hoặc chiến thắng nó.
+1144|Các bạn trong lớp hoặc đang làm bài tập, hoặc đang khe khẽ thảo luận.
+1145|Anh ấy tuy nhỏ tuổi nhưng nhiều kinh nghiệm.
+1146|Tuy tôi không được thưởng, nhưng vẫn tràn đầy tin tưởng vào bản thân.
+1147|Anh ấy tuy thất bại nhưng vẫn mỉm cười đối mặt.
+1148|Cô ấy tuy bị bệnh nhưng vẫn kiên trì đến lớp.
+1149|Mọi người phải nghiêm túc đối với kỳ thi, nếu không sẽ ảnh hưởng đến việc tốt nghiệp.
+1150|Bạn không cần lo quá, nếu không tôi sẽ đi cùng bạn.
+1151|Ngoài trời mưa rồi, nếu không chúng ta ngày mai đi nhé.
+1152|Hễ nghe tin vui, anh ấy đều chia sẻ với bạn bè.
+1153|Hễ hợp tác với anh ấy đều có thể hoàn thành nhiệm vụ thuận lợi.
+1154|Hễ là điều đúng, chúng ta đều nên kiên trì.
+1155|Cho dù học sinh giỏi nhất cũng không thể trả lời câu hỏi này.
+1156|Dù bạn muốn giảm cân ngay cũng không thể ngày nào cũng không ăn.
+1157|Cho dù anh ấy sai bạn cũng không thể mắng, anh ấy còn nhỏ mà.
+1158|Nền tảng của thành công là phấn đấu, thành quả của phấn đấu là thành công, vì vậy chỉ người không ngừng nỗ lực mới có cơ hội leo lên đỉnh cao thành công.
+1159|Khoe bộ quần áo mới của mình một chút.
+1160|Vấn đề của chính mình, mới có thể đạt được thành công bước tiếp theo.
+1161|Không đến sớm, không đến muộn, đúng lúc chuẩn bị ra ngoài thì anh ấy đến.
+1162|Không đi sớm, không đi muộn, đúng lúc cần anh ấy thì anh ấy lại đi.
+1163|Đúng là trẻ con, nhìn nó vui chưa kìa.
+1164|Nhìn anh ấy đắc ý chưa, chẳng biết mình là ai nữa.
+1165|Nhìn anh ấy bị dọa chưa, chẳng biết nói gì nữa.
+1166|Bạn đừng có bỏ cuộc sống tốt đẹp mà đi gây rắc rối ở đây.
+1167|Anh ấy có việc học tốt không học, cứ nhất định chạy ra ngoài làm thuê.
+1168|Nói đi nói lại, vẫn chưa có ý kiến thống nhất.
+1169|Hỏng thì hỏng, có gì to tát đâu?
+1170|Thua thì thua, có gì phải buồn.
+1171|Cái này cũng không ăn, cái kia cũng không uống, kết quả là sức khỏe ngày càng kém.
+1172|Cái kia cũng không hợp, cái này cũng không đúng, tôi thật không hiểu cô ấy rốt cuộc muốn gì.
+1173|Sức khỏe của bố cần nghỉ dưỡng một thời gian.
+1174|Chúng ta vẫn cần kiên nhẫn chờ đợi.
+1175|Khi nào chúng ta xuất phát?
+1176|Bất kể bạn có thắc mắc gì, đều có thể đến văn phòng tìm tôi.
+1177|Người này không tồn tại, tương lai cũng sẽ không xuất hiện, mãi mãi không.
+1178|Nếu có thể rút ra bài học từ thất bại, thì thất bại cũng là thành công.
+1179|Nước mưa chảy dọc theo tóc tôi nhỏ xuống.
+1180|Chúng ta cứ đi theo con đường này, đi đến đâu hay đến đó.
+1181|Công nhân, nông dân và binh sĩ đều tham gia cuộc họp lần này.
+1182|Hiện đang cần gấp than, dầu mỏ, điện lực và các nguồn năng lượng khác.
+1183|Anh ấy vốn không đồng ý, nhưng sau đó nghĩ lại, lại thấy đó là một cơ hội tốt.
+1184|Nhân dân tệ tăng giá sẽ ảnh hưởng đến xuất khẩu của Trung Quốc, từ đó ảnh hưởng đến tăng trưởng kinh tế.
+1185|Nếu không nhờ thầy giúp, tôi cũng không thể viết tốt bài văn này.
+1186|Nếu không phải anh ấy hoãn về nước thì cũng không lỡ buổi phỏng vấn.
+1187|Chúng ta có thể miêu tả Bắc Kinh như một cuốn sách của những giấc mơ.
+1188|Vì đã làm việc tốt, có đóng góp, nên anh ấy được người mình yêu quý mến.
+1189|Anh ấy có một thân bản lĩnh, khá có tài.
+1190|Ở đây tuy không nghe thấy tiếng cãi nhau, nhưng không phải là một bầu không khí hòa thuận.
+1191|Anh ta coi thường cô ấy, luôn tỏ vẻ lơ đãng với cô ấy.
+1192|Đây là suy nghĩ của tôi, bạn thích nghe thì nghe, không thì thôi.
+1193|Anh ấy nói chuyện nửa thật nửa giả, bạn đừng hoàn toàn tin.
+1194|Đột nhiên nghe tin ngày mai nghỉ, tôi cứ nửa tin nửa ngờ.
+1195|Cô ấy mua đồ thích chọn đi chọn lại.
+1196|Để mua được một tấm vé tàu, tôi chạy ngược chạy xuôi, mệt toát mồ hôi.
+1197|Kẻ gây ra bi kịch này không phải bạn cũng không phải tôi, mà là người khác.
+1198|Chúng tôi không phải kẻ thù cũng không phải bạn bè, chỉ là hôm đó gặp một lần.
+1199|Cửa phòng sách của chú đóng, tiếng nói bên trong lúc to lúc nhỏ.
+1200|Anh ấy rất căng thẳng, tim đập lúc nhanh lúc chậm.
+1201|Mấy đứa trẻ sợ đến vừa khóc vừa la.
+1202|Thư là bạn trai viết, cô ấy mừng đến vừa nhảy vừa múa.
+1203|Tiếng chim kêu lúc dài lúc ngắn.
+1204|Thành tích của anh ấy lúc tốt lúc xấu, thầy giáo cũng hết cách.
+1205|Suốt dọc đường ông chủ tự nói tự làm, lải nhải mãi.
+1206|Nghĩ đến việc bạn phá hoại công việc của chúng tôi, tôi nên để bạn tự làm tự chịu mới phải.
+1207|Anh ấy chạy một hơi hơn nửa tiếng, chỉ mong một bước về đến nhà.
+1208|Tôi ghét ngành này, chỉ mong sớm rời đi.
+1209|Bữa tối chưa bắt đầu ăn anh ấy đã say, sau đó thì càng khỏi phải nói.
+1210|Đừng nhắc nữa, tôi hoàn toàn không quen người đó, anh ta cứ kéo tôi không cho đi.
+1211|Anh ấy là thầy giáo, ngoài ra tôi không biết gì khác.
+1212|Tôi chỉ mang một chiếc cặp, ngoài ra không mang gì cả.
+1213|Suy cho cùng cuộc đời là hành trình của một người.
+1214|Suy cho cùng, trưởng thành là một hạnh phúc.
+1215|A: Gì cơ? Nhà chúng ta xảy ra chuyện?
+1216|B: Chứ còn gì nữa, cảnh sát đã đến rồi.
+1217|A: Trẻ con lớn nhanh thật!
+1218|Tôi sẵn lòng làm việc này, điều đó khỏi phải nói, chỉ là tôi không biết còn làm được bao lâu.
+1219|Lãnh đạo mới đến tôi đều đã gặp, thật sự không còn gì để nói!
+1220|Dù thế nào, anh ấy không có lựa chọn nào khác.
+1221|Nghe đến đây, anh ấy dù thế nào cũng không đồng ý.
+1222|Nhiều trẻ em Trung Quốc học thư pháp từ nhỏ, từ đó có thể thấy vị trí quan trọng của thư pháp trong giáo dục Trung Quốc.
+1223|Chẳng có gì phải tiếc nuối.
+1224|Để tiện rút ra, anh ấy gửi tiền theo hình thức không kỳ hạn.
+1225|Anh ấy kiên trì viết bút lông mỗi ngày.
+1226|Anh ấy ăn bát lớn, tôi ăn bát nhỏ.
+1227|Người mới trồng cúc nên tưới nước như thế nào?
+1228|Anh ấy đắp một tờ báo lên mặt rồi ngủ thiếp đi.
+1229|Anh ấy ở công ty chúng tôi chủ yếu chạy dự án.
+1230|Cô bé đó khóc không ngừng, nói là không tìm thấy mẹ.
+1231|Anh ấy nói không dứt trước mặt chúng tôi.
+1232|Năm ngoái cô ấy mất chồng, sau đó bố mẹ cũng qua đời.
+1233|Tiền không kiếm được, lại còn để chồng bỏ đi.
+1234|Đây là lần đầu tiên tôi cảm thấy mình bị một người thu hút.
+1235|Không ngờ anh ấy lại bị một học sinh tiểu học lừa.
+1236|Hành vi này của anh ta không được xã hội loài người dung thứ.
+1237|Hành vi như thế này của lãnh đạo thường không được mọi người tin tưởng.
+1238|So với người khác, suy nghĩ của tôi quá đơn giản.
+1239|So với hát, anh ấy thích nhảy hơn.
+1240|Quá trình tự hoàn thiện của con người quan trọng hơn kết quả.
+1241|Ở công trường, an toàn của công nhân cao hơn mọi thứ, lớn hơn mọi thứ.
+1242|Anh ta thật sự còn hơn cả kẻ cướp!
+1243|Trong giới thượng lưu, anh ta giả làm quý ông còn hơn cả quý ông thật.
+1244|Anh ấy vừa nghe thầy giảng vừa chăm chú ghi chép.
+1245|Anh ấy vừa làm bài tập vừa xem tivi, làm việc chẳng chú tâm chút nào.
+1246|Chúng tôi gặp nhau một lần ba năm trước, sau đó không còn gặp lại.
+1247|Cô ấy hai mươi tuổi kết hôn, sau đó chồng bị bệnh, cô ấy chăm sóc bốn năm.
+1248|Lúc đầu anh ấy không hiểu, sau đó mới hiểu quy tắc trò chơi.
+1249|Lúc đầu chúng tôi không muốn tham gia, chỉ vì ngại từ chối nên mới đến đó.
+1250|Đừng nói là sinh viên đại học, ngay cả học sinh tiểu học cũng viết tốt hơn anh ta.
+1251|Bây giờ tôi nghèo đến mức cơm cũng không đủ ăn, chưa nói đến mua quần áo mới.
+1252|Đừng nói là bố, ngay cả thầy giáo cũng không nói ra được tên loại cây này.
+1253|Ngay cả gia đình hơi khá giả cũng không chịu nổi việc cô ấy tiêu tiền như vậy, chưa nói đến gia đình bình thường.
+1254|Bắc Kinh lớn như vậy, vả lại bạn lại lần đầu đến, làm sao có thể tìm thấy nhà tôi ngay được?
+1255|Lúc đó trời đã tối, vả lại người lại ngồi trên xe, chắc chắn nhìn không rõ.
+1256|Ngay cả anh ấy cũng không biết, huống chi là tôi.
+1257|Tôi ngay cả kỳ thi lần trước cũng chưa qua, huống chi lần này.
+1258|Anh ấy ngay cả mấy chữ này cũng không biết viết, huống chi viết bài văn.
+1259|Nét mặt, ánh mắt của anh ấy, thậm chí từng cử chỉ, đều bị người khác nhìn thấy rõ mồn một.
+1260|Anh ấy quen thuộc Bắc Kinh, cũng quen thuộc Paris, thậm chí cả thế giới.
+1261|Anh ấy làm việc nghiêm cẩn và chăm chỉ, lại rất có trách nhiệm, được lãnh đạo tin tưởng.
+1262|Con phố này vừa bẩn vừa lộn xộn, luôn ẩm ướt, hơn nữa quanh năm khó tránh có mùi lạ.
+1263|Cô ấy không thể chịu đựng suy nghĩ này, thậm chí một giây cũng không chịu nổi.
+1264|Cô bé này luôn giữ dáng vẻ đó, thậm chí bàn tay cũng không cao lên chút nào.
+1265|Anh ấy thà đói bụng đi học còn hơn ăn đồ ăn vặt.
+1266|Anh ấy thà tự mình gánh chịu còn hơn đổ trách nhiệm cho người khác.
+1267|Thay vì đi leo núi, chi bằng ở nhà xem tivi.
+1268|Thay vì lãng phí thời gian ở đây, chi bằng chúng ta ôn tập nghiêm túc.
+1269|Thay vì giặt đồ cả buổi ở đây, tôi thà đi mua đồ mới.
+1270|Thay vì cùng nhóm với anh ta, tôi thà một mình làm dự án này.
+1271|Đại đa số mọi người dùng cảm giác để suy nghĩ, còn tôi lại dùng suy nghĩ để cảm nhận.
+1272|Người miền Bắc đón Tết thường ăn sủi cảo, còn tập quán của người miền Nam là ăn bánh trôi.
+1273|Tôi có lòng tốt khuyên anh ấy, anh ấy lại trách tôi, thật nực cười!
+1274|Nghe y tá nói vậy, anh ấy ngược lại thả lỏng ra.
+1275|Nếu bạn giải quyết được mấy vấn đề này, bạn nhất định sẽ thành công.
+1276|Nếu không cẩn thận, liệu có lại xảy ra tranh chấp không?
+1277|Nếu không có chút kiến thức âm nhạc nào, sẽ gặp khó khăn.
+1278|Giả sử mọi thứ có thể bắt đầu lại, thì tôi tuyệt đối sẽ không chọn con đường này.
+1279|May mà bạn nhắc tôi, nếu không tôi đã quên rồi.
+1280|May mà có bạn giúp, nếu không tôi thật không biết làm thế nào.
+1281|Mặc cho họ đẩy thế nào cũng không đẩy được.
+1282|Dù anh ta là người có chức vị cao đến đâu cũng không quản được tôi.
+1283|Vì không phải chuyện vẻ vang nên không dám nói ra.
+1284|Anh ấy đã thích nghi với cuộc sống ở nước ngoài nên không định về nước nữa.
+1285|Xét thấy anh ấy biểu hiện tốt, nhà trường quyết định cho phép anh ấy quay lại học.
+1286|Xét thấy anh ấy hoàn toàn không có kinh nghiệm xử lý vấn đề này, công ty quyết định cử tôi đến giúp anh ấy.
+1287|Anh ấy ngủ quên, dẫn đến lỡ tiết học đầu tiên.
+1288|Anh ấy vì học không nghiêm túc nên thi đứng cuối lớp.
+1289|Sự việc diễn ra quá nhanh, đến nỗi mọi người khó phản ứng kịp.
+1290|Bài khóa này anh ấy đọc rất nhiều lần, đến nỗi thuộc lòng cả bài.
+1291|Bộ phim này sở dĩ hay là vì nội dung rất thú vị.
+1292|Mẹ sở dĩ giận là vì anh ấy không chịu nhận lỗi của mình.
+1293|Đó đành rằng là thói quen của chúng ta, nhưng cũng cần có lý do khác.
+1294|Lời anh ấy đành rằng an ủi tôi nhưng cũng làm tôi buồn.
+1295|Thành công của một người, thông minh đành rằng quan trọng nhưng nỗ lực còn quan trọng hơn.
+1296|Mạng internet đành rằng mang lại tiện lợi cho chúng ta nhưng cũng mang lại phiền phức.
+1297|Cho dù thành tích của bạn tốt cũng không được kiêu ngạo.
+1298|Trong ánh mắt anh ấy chứa đầy, nếu không phải xúc động thì ít nhất cũng là thương cảm.
+1299|Tuy nói anh ấy còn nhỏ nhưng cũng không thể quá tùy hứng.
+1300|Tuy nói tiếng Trung rất khó, nhưng nó rất thú vị.
+1301|Tuy nói đây là chuyện nhỏ, nhưng chúng ta nên coi trọng.
+1302|Ý kiến của chúng ta dù không thống nhất cũng nên thông cảm cho nhau.
+1303|Việc này dù không tốt cũng là chuyện giữa họ, cứ để họ tự xử lý.
+1304|Chính phủ đặt tên họ cho con phố này để tưởng nhớ những chiến sĩ đã hy sinh trong chiến tranh.
+1305|Thầy giáo dùng phương pháp giảng dạy mới để huy động tính tích cực của học sinh.
+1306|Ra ngoài hãy trông đồ cho kỹ để khỏi bị mất.
+1307|Bạn viết điều này ra để khỏi quên sau này.
+1308|Đây là quyết định của tôi, tức là không liên quan đến bạn.
+1309|Anh ấy nói đây là sách mới mua của anh ấy, tức là anh ấy không muốn cho chúng tôi mượn.
+1310|Đã chơi thì chơi cho thỏa thích, đừng lúc nào cũng nghĩ đến công việc.
+1311|Đã uống thì uống cho đủ, hôm nay không say không về.
+1312|Đi thì đi, đừng dùng điều này đe dọa tôi!
+1313|Nói mấy câu thì cứ nói, đừng để ý quá.
+1314|Phản đối.
+1315|Tổn thất.
+1316|Chỉ cần luyện tập nhiều, trình độ tiếng Trung của bạn sẽ tiến bộ, thành tích cũng sẽ tăng, tự nhiên cũng sẽ nhận được học bổng.
+1317|Nhưng nói đi cũng phải nói lại, không thể vì bị bệnh mà mất hy vọng.
+1318|Nhưng nói đi cũng phải nói lại, tại sao chúng ta không thể xử lý sự việc theo hướng có lợi hơn cho chúng ta?
+1319|Đi không được mà không đi cũng không xong, khiến chúng tôi không biết làm sao cho phải.
+1320|Cười không được mà không cười cũng không xong, thật khiến người ta khó xử.
+1321|Đi cũng được, không đi cũng được, dù sao cũng chẳng phải chuyện gì to tát.
+1322|Vui cũng được, buồn cũng được, câu chuyện này sắp kết thúc rồi.
+1323|Dù bạn hay tôi cũng đều không giúp được gì.
+1324|Dù thích hay giận, rốt cuộc cũng chỉ là một loại cảm xúc.
+1325|Anh ấy lắp rồi tháo, tháo rồi lắp, sửa cả ngày.
+1326|Em bé viết rồi xóa, xóa rồi viết, đang chăm chỉ tập viết chữ Hán.
+1327|Chiếc áo vừa mua đó, đẹp không tả nổi.
+1328|Nghe thấy giọng bố, cô ấy vui mừng khôn xiết.
+1329|Không hiểu sao, nước mắt tôi cứ trào ra không ngừng.
+1330|Không biết ai nói, anh ta mới là hung thủ.
+1331|Nói thì nói vậy, nhưng cô ấy vẫn chưa quen.
+1332|Nói thì nói vậy, nhưng nếu đối phương thực sự làm như thế, chúng ta cũng không làm được gì.
+1333|Nhìn vẻ buồn bã của bạn, tưởng lần này bạn thực sự không khá lên nổi.
+1334|Nhìn bộ dạng của bạn kìa, lại còn khá đắc ý.
+1335|Tôi chỉ vì nể mặt cô ấy mới đồng ý.
+1336|Ba vị khách vì nể mặt cụ già lại ngồi xuống.
+1337|Làm gì có ai quá đáng như bạn? Lợi lộc đều bị bạn chiếm hết.
+1338|Làm gì có ai thẳng thắn như bạn? Hãy chừa chút thể diện cho anh ấy chứ.
+1339|Có ai sống như anh ta không? Lúc nào cũng nói xấu người khác sau lưng.
+1340|Gì mà của bạn của tôi, đều là của mọi người.
+1341|Gì mà tốt với xấu, cái chúng ta mua đều như nhau.
+1342|Bạn nghĩ đi đâu thế! Tôi chắc chắn sẽ không nói với người khác.
+1343|Đẹp hay không không quan trọng, tôi hài lòng là được.
+1344|Đắt hay không không quan trọng, chất lượng tốt là được.
+1345|Cô ấy muốn thành tích có thành tích, muốn hình ảnh có hình ảnh.
+1346|Anh ta muốn bằng cấp không có bằng cấp, muốn gan không có gan.
+1347|Ngoài khả năng ghi nhớ kém, tôi còn có những khuyết điểm khác, những khuyết điểm này ở mức độ lớn khiến tôi trở nên dốt nát.
+1348|Còn câu đố, tôi cũng chưa bao giờ đòi hỏi mình phải giải.
+1349|“Khoảnh khắc không thể quên suốt đời.”
+1350|Gió, mạnh hơn. Tuyết, dày hơn. Mỗi bước chúng ta tiến lên, càng gian nan hơn.
+1351|… Cỏ xanh rồi, hoa nở rồi, băng tuyết trên mặt sông cũng bắt đầu tan.

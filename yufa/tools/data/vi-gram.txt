@@ -1,0 +1,573 @@
+1|Từ phương vị 上 下 里 外 前 后 左 右 东 南 西 北 (thêm 边 thành 上边, 前边…), đứng sau danh từ chỉ vị trí: 桌子上 (trên bàn).
+2|Động từ năng nguyện 会 (biết, sẽ) và 能 (có thể), đặt trước động từ chính. 会 chỉ kỹ năng học được, 能 chỉ khả năng hay điều kiện cho phép.
+3|Động từ năng nguyện 想 (muốn, định) và 要 (muốn, cần phải) đặt trước động từ: 我想去, 我要买.
+4|Đại từ nghi vấn 多, 多少, 几, 哪, 哪儿/哪里, 哪些, 什么, 谁, 怎么. Từ hỏi đứng đúng vị trí của thông tin cần biết.
+5|Đại từ nhân xưng 我, 你, 您 (kính trọng), 他, 她; số nhiều thêm 们: 我们, 你们, 他们, 她们.
+6|Đại từ chỉ thị 这 (này), 那 (kia), 这儿/这里, 那儿/那里, 这些, 那些, 别的 (cái khác), 有的 (một số).
+7|Số từ cơ bản: 一 đến 九, 零, 二 và 两 (hai), 百, 千, 半. 两 dùng trước lượng từ, 二 dùng khi đếm số.
+8|Danh lượng từ 杯 (cốc), 本 (quyển), 个 (chung), 家 (nhà, hiệu), 间 (gian), 口 (người trong nhà), 块 (miếng, đồng), 页 (trang). Mẫu: số + lượng từ + danh từ.
+9|Phó từ mức độ 非常, 很, 太, 真, 最 đứng trước tính từ: 很好, 太贵了, 最大.
+10|Phó từ phạm vi, cùng làm: 都 (đều), 一块儿 và 一起 (cùng nhau).
+11|Phó từ thời gian 马上 (ngay), 先 (trước), 有时 (đôi khi), 在/正/正在 (đang) đặt trước động từ.
+12|Phó từ tần suất, lặp lại: 常/常常 (thường), 再 (lại, nữa, việc chưa xảy ra).
+13|Phó từ liên kết 还 (còn, vẫn) và 也 (cũng), đứng trước động từ hoặc tính từ.
+14|Phó từ phủ định: 不 (không), 没/没有 (không, chưa, phủ định quá khứ), 别 (đừng).
+15|Giới từ 从 chỉ điểm xuất phát về thời gian, nơi chốn: 从北京来, 从八点开始.
+16|Giới từ 在 chỉ nơi chốn, thời gian của hành động: 在家学习.
+17|Giới từ 跟 và 和 chỉ đối tượng cùng làm: 我跟朋友去.
+18|Giới từ 比 dùng so sánh: A 比 B + tính từ. Ví dụ: 他比我高.
+19|Liên từ nối từ hoặc cụm từ: 跟, 和 (và), 还是 (hay là, trong câu hỏi lựa chọn).
+20|Trợ từ kết cấu 的 (nối định ngữ với danh từ) và 地 (nối trạng ngữ với động từ): 我的书; 高兴地说.
+21|Trợ từ động thái 了 sau động từ, biểu thị hành động đã hoàn thành: 我吃了饭.
+22|Trợ từ ngữ khí: 吧 (đề nghị, phỏng đoán), 了 (cuối câu, tình huống mới), 吗 (câu hỏi có/không), 呢 (hỏi rút gọn).
+23|Cụm số lượng: số từ + lượng từ, ví dụ 三个, 一本, 两杯.
+24|Danh từ, đại từ hoặc cụm danh từ làm chủ ngữ: 学生来了.
+25|Động từ, tính từ hoặc cụm của chúng làm vị ngữ: 我学习汉语; 天气很好.
+26|Danh từ, đại từ hoặc cụm danh từ làm tân ngữ, sau động từ: 我喝茶.
+27|Danh từ, tính từ, cụm số lượng làm định ngữ, đứng trước danh từ: 红衣服; 三本书.
+28|Phó từ, tính từ, từ chỉ thời gian, nơi chốn làm trạng ngữ, đứng trước vị ngữ: 他明天来.
+29|Câu chủ vị loại 1, vị ngữ là động từ: chủ ngữ + động từ + tân ngữ: 我看书.
+30|Câu chủ vị loại 2, vị ngữ là tính từ, thường có 很, không dùng 是: 天气很好.
+31|Câu không đủ chủ vị: 谢谢! 好! 下雨了.
+32|Câu trần thuật: nêu sự việc hay ý kiến, kết thúc bằng dấu chấm.
+33|Bốn loại câu hỏi: có/không (吗), đặc chỉ (什么, 谁…), lựa chọn (还是), chính phản (V不V).
+34|Câu cầu khiến: đề nghị, yêu cầu, ngăn cấm: 请进; 别说话.
+35|Câu cảm thán, thường có 多, 太, 真: 太好了!
+36|Câu chữ 是: (1) đồng nhất, phân loại, (2) nói rõ đặc điểm, (3) tồn tại.
+37|Câu chữ 有 loại 1: (1) sở hữu: 我有一本书; (2) tồn tại: 桌子上有一杯茶. Phủ định: 没有.
+38|Câu so sánh loại 1: (1) A 比 B + tính từ; (2) A 没有 B + tính từ (A không bằng B).
+39|Câu phức song song: không từ nối, hoặc 一边……一边……, …… 也 ……: 他一边吃饭一边看电视.
+40|Thể biến đổi: 了 ở cuối câu biểu thị tình huống mới: 下雨了; 他十岁了.
+41|Thể hoàn thành: 了 sau động từ: 我买了一本书.
+42|Thể tiến hành: 在/正/正在 + động từ, có thể thêm 呢 cuối câu: 他在看书呢.
+43|Cách nói tiền: 块 (khẩu ngữ), 元 (viết), 毛/角 (hào), 分: 三块五毛.
+44|Cách nói năm, tháng, ngày, thứ theo thứ tự từ lớn đến nhỏ: 二〇二五年十月三号, 星期一.
+45|Hỏi bằng 吗 ở cuối câu trần thuật: 你是学生吗?
+46|Hỏi bằng đại từ nghi vấn; từ hỏi đứng ở vị trí thông tin cần biết.
+47|Hỏi lựa chọn bằng 还是: 你喝茶还是喝咖啡?
+48|Hỏi chính phản: lặp khẳng định và phủ định: 你去不去? 好不好?
+49|Hai nghĩa: 可能 (có khả năng) và 可以 (được phép, có thể).
+50|该 và 应该: nên, phải theo lẽ thường: 你应该休息.
+51|愿意: bằng lòng, sẵn sàng làm việc gì: 我愿意帮你.
+52|Lặp động từ làm nhẹ hành động, thử làm: AA, A一A, A了A, ABAB: 看看, 休息休息.
+53|Đại từ nghi vấn khác: 多久 (bao lâu), 为什么, 怎么样, 怎样.
+54|Đại từ nhân xưng khác: 别人, 大家, 它/它们, 咱/咱们 (gồm cả người nghe), 自己.
+55|Đại từ chỉ cách thức 那么, 那样, 这么, 这样 (như vậy): 这么大.
+56|Lặp tính từ để nhấn mạnh miêu tả: AA (高高), AABB (干干净净).
+57|Số lớn: 千, 万 (mười nghìn), 亿 (trăm triệu).
+58|Danh lượng từ thêm: 层 (tầng), 封 (bức thư), 件 (cái áo, việc), 条 (con, sợi), 位 (vị).
+59|Động lượng từ đếm số lần: 遍, 次, 场, 回, 下.
+60|Lượng từ thời gian 分钟, 年, 天, 周 đứng sau động từ chỉ thời lượng: 学了两年.
+61|Phó từ mức độ khác: 多, 多么, 好, 更, 十分, 特别, 挺, 有(一)点儿: 挺好, 有点儿热.
+62|Phó từ phạm vi: 全 (toàn bộ), 一共 (tổng cộng), 只 (chỉ).
+63|Phó từ thời gian khác: 刚/刚刚 (vừa), 还 (vẫn còn), 忽然 (đột nhiên), 一直 (suốt), 已经 (đã).
+64|Phó từ tần suất, lặp lại: 重新, 经常, 老/老是, 又 (lại, đã lặp).
+65|Phó từ 就: thì, liền, chỉ việc tiếp ngay sau điều kiện hay sự việc trước.
+66|Phó từ cách thức 故意: cố ý, cố tình.
+67|Phó từ tình thái: 必须 (nhất định phải), 差不多 (gần như), 好像 (hình như), 也许 (có lẽ).
+68|Phó từ ngữ khí: 才 (mới), 都 (đã), 就 (đã sớm), 正好 (vừa đúng).
+69|Giới từ 当 mở đầu mốc thời gian: 当……的时候 (khi…).
+70|Giới từ 往 chỉ hướng chuyển động: 往前走.
+71|Giới từ 向 chỉ hướng hoặc đối tượng: 向老师问好.
+72|Giới từ 从 chỉ lộ trình đi qua: 从这儿走.
+73|Giới từ 对 chỉ đối tượng: 对我很好; 对……感兴趣.
+74|Giới từ 给 chỉ người nhận hoặc hưởng lợi: 给妈妈打电话.
+75|Giới từ 离 chỉ khoảng cách giữa hai điểm: 学校离家很近.
+76|Giới từ 为 chỉ mục đích hoặc người hưởng lợi: 为你高兴.
+77|Liên từ 或 và 或者 (hoặc), dùng trong câu trần thuật: 你可以坐车或者走路.
+78|Liên từ nối phân câu: 不过, 但, 但是 (nhưng), 而且 (mà còn), 那 (vậy), 如果 (nếu), 虽然 (tuy), 只要 (chỉ cần).
+79|Trợ từ kết cấu 得 nối động từ với bổ ngữ trạng thái hoặc khả năng: 说得很好.
+80|Trợ từ động thái 过 sau động từ: đã từng trải qua: 我去过北京.
+81|Trợ từ động thái 着 sau động từ: trạng thái hay hành động đang tiếp diễn: 门开着.
+82|Trợ từ ngữ khí khác: 啊 (nhấn, cảm thán), 吧 (đề nghị, phỏng đoán), 的 (khẳng định).
+83|Trợ từ khác: 的话 (nếu mà…), 等 (vân vân).
+84|Thán từ 喂: alô, này, dùng gọi người hoặc mở đầu điện thoại.
+85|Cấu trúc cụm từ cơ bản: liên hợp, chính phụ, động tân, động bổ, chủ vị.
+86|Cấu trúc khác: cụm chữ 的 (卖书的), cụm liên động.
+87|Cụm danh từ: dùng như danh từ, làm chủ ngữ, tân ngữ.
+88|Cụm động từ: dùng như động từ, thường làm vị ngữ.
+89|Cụm tính từ: dùng như tính từ, làm vị ngữ hoặc định ngữ.
+90|Cụm cố định 不一会儿: không lâu sau, một lát sau.
+91|Cụm cố định 什么的: những thứ như vậy, vân vân (khẩu ngữ).
+92|Cụm cố định 越来越: càng ngày càng: 天气越来越冷.
+93|Cấu trúc 还是……吧: đề nghị, khuyên chọn phương án tốt hơn: 还是你去吧.
+94|Cấu trúc 又……又……: vừa… vừa…, hai tính chất cùng có: 又大又好.
+95|Cấu trúc (在)……以前/以后/前/后: trước, sau một mốc thời gian.
+96|Danh từ, số từ hoặc cụm số lượng làm vị ngữ, nói về tuổi, ngày, giá: 今天星期二; 我十岁.
+97|Bổ ngữ kết quả: động từ + 错/懂/干净/好/会/清楚/完: 做完, 听懂.
+98|Bổ ngữ xu hướng đơn: động từ + 来/去/上/下/进/出/回/过/起: 走进来.
+99|Bổ ngữ trạng thái: động từ + 得 + tính từ, miêu tả cách thức, mức độ: 他说得很好.
+100|Bổ ngữ số lượng động tác: động từ + số + động lượng từ: 去了三次.
+101|Tính từ + bổ ngữ số lượng: 大三岁, 高一点儿, nói mức chênh lệch.
+102|Câu vị ngữ danh từ, thường chỉ ngày, tuổi, giá: 明天星期五.
+103|Câu chữ 有 loại 2: biểu thị đánh giá, đạt tới, hoặc so sánh (没有).
+104|Câu tồn hiện loại 1: nơi chốn + 有/是/động từ + 着 + người hoặc vật: 桌子上有一本书.
+105|Câu liên động: hai động tác liên tiếp cùng chủ ngữ: 他去商店买东西.
+106|Câu so sánh loại 2: A 比 B + tính từ + bổ ngữ số lượng / 更 / 还.
+107|Câu so sánh loại 3: A 跟 B 一样 (giống), A 跟 B 一样 + tính từ.
+108|Câu 是……的 loại 1: nhấn mạnh thời gian, nơi chốn, cách thức, người làm của việc đã xảy ra: 我是昨天来的.
+109|Câu hai tân ngữ: chủ ngữ + động từ + tân ngữ 1 + tân ngữ 2: 他给我一本书.
+110|Câu phức nối tiếp: 先……，再/然后……
+111|Câu phức tăng tiến: 不但……，而且……: không chỉ… mà còn…
+112|Câu phức lựa chọn: (是)……，还是……
+113|Câu phức chuyển ý: 虽然……，但是/可是……: tuy… nhưng…
+114|Câu phức giả thiết: 如果……，就……; ……的话，就……: nếu… thì…
+115|Câu phức điều kiện 只要……，就……: chỉ cần… thì…
+116|Câu phức nhân quả: 因为……，所以……: vì… nên…
+117|Câu rút gọn 一……就……: vừa… là…
+118|Thể tiếp diễn: động từ + 着, trạng thái hoặc động tác kéo dài.
+119|Thể từng trải: động từ + 过: 我去过中国.
+120|Số thứ tự: 第 + số từ: 第一, 第三天.
+121|Số ước chừng: số + 多/几/来: 十几个, 三百多; hai số liền kề: 三四个.
+122|Nhấn mạnh bằng 就: 就是他.
+123|Nhấn mạnh bằng 是……的 (xem câu 是……的).
+124|Hỏi bằng 好吗/可以吗/行吗/怎么样, xin ý kiến sau lời đề nghị.
+125|Hỏi bằng 什么时候, 什么样, 为什么, 怎么样, 怎样.
+126|Hỏi rút gọn bằng 呢: 我很好，你呢?
+127|Hỏi bằng 是不是 để xác nhận điều đã đoán: 你是不是累了?
+128|Hỏi bằng 吧 cuối câu, gần như chắc chắn: 你是学生吧?
+129|Khẩu ngữ 该……了: đến lúc phải làm gì rồi: 该走了.
+130|Cấu trúc 要/快要/就要……了 diễn tả việc sắp xảy ra: 要下雨了 (sắp mưa rồi). 快要 và 就要 nhấn mạnh sự gấp gáp hơn; 就要 có thể đi với từ chỉ thời điểm cụ thể (明天就要走了).
+131|Tiền tố 第- (tạo số thứ tự: 第一), 老- (thân mật: 老王, hoặc đứng trước 虎, 鼠: 老虎) và 小- (gọi thân mật: 小李). Chúng gắn vào đầu từ để tạo từ mới.
+132|Hậu tố 儿 (-r, tạo âm uốn lưỡi/ chỉ nhỏ), 家 (người làm nghề: 作家, 专家), 们 (số nhiều của người: 朋友们), 头 (danh từ: 石头, 木头), 子 (danh từ: 桌子, 孩子). Hậu tố gắn sau gốc từ.
+133|Động từ năng nguyện 敢 nghĩa là dám, đặt trước động từ: 你敢跳吗? (bạn dám nhảy không?). Phủ định: 不敢 (không dám).
+134|Động từ năng nguyện 需要 nghĩa là cần, phải; có thể mang tân ngữ hoặc động từ: 需要休息 (cần nghỉ ngơi). Phủ định: 不需要.
+135|Động từ ly hợp (dạng động–tân) như 帮忙, 点头, 放假, 见面, 结婚…. Có thể chen thành phần khác vào giữa (帮我的忙, 点了一下头) và không mang thêm tân ngữ trực tiếp.
+136|Động từ ly hợp dạng động–bổ như 打开, 看见, 离开, 完成. Có thể dùng dạng khả năng bằng cách chen 得/不 vào giữa: 打不开 (không mở được), 看不见 (không thấy).
+137|Cách dùng không nghi vấn của đại từ nghi vấn. (1) Chỉ chung (bất kỳ): 谁都 (ai cũng), 什么都 (cái gì cũng); hai đại từ giống nhau hô ứng: 想吃什么就吃什么. (2) Phiếm chỉ: 好像在哪儿见过 (hình như đã gặp ở đâu đó).
+138|Các từ chỉ định 各 (các), 各位 (quý vị), 各种 (các loại), 每 (mỗi), 任何 (bất kỳ): 各国 (các nước), 每天 (mỗi ngày), 任何人 (bất kỳ ai).
+139|Danh lượng từ: 把 (cái có cán), 行 (hàng), 架 (chiếc máy bay, đàn), 群 (đàn, nhóm), 束 (bó), 双 (đôi), 台 (máy), 张 (tờ, tấm), 支 (cây, chiếc), 只 (con), 种 (loại). Đặt sau số từ, trước danh từ.
+140|Động lượng từ: 顿 (bữa, lần – ăn, mắng, đánh), 口 (miếng, ngụm), 眼 (cái nhìn): 吃一顿饭, 咬一口, 看一眼. Đặt sau động từ để chỉ số lần.
+141|Lượng từ lặp lại AA mang nghĩa “mỗi” hoặc “từng”: 个个 (ai cũng), 张张 (tờ nào cũng), 件件 (món nào cũng). Thường làm chủ ngữ và đi với 都.
+142|Phó từ chỉ mức độ 比较 (tương đối), 更加 (càng thêm), 还 (còn… hơn), 相当 (khá, tương đối): 比较喜欢, 更加努力, 相当好.
+143|Phó từ chỉ phạm vi 光 (chỉ, chỉ có), 仅/仅仅 (chỉ), 就 (chỉ), 至少 (ít nhất): 光玩儿不学习 (chỉ chơi không học), 至少三个 (ít nhất ba cái).
+144|Phó từ chỉ thời gian 本来 (vốn dĩ), 才 (vừa mới), 曾经 (đã từng), 从来 (từ trước đến nay), 赶紧/赶快 (mau chóng), 立刻 (lập tức), 连忙 (vội vàng), 始终 (từ đầu đến cuối), 已/早已 (đã).
+145|Phó từ chỉ tần suất, lặp lại: 通常 (thường thường), 往往 (thường là), 总 và 总是 (luôn luôn). Đặt trước động từ: 总是迟到 (luôn đến muộn).
+146|Phó từ liên kết 再 (rồi mới, sau đó) nối hai hành động nối tiếp: 做完作业再玩 (làm xong bài rồi mới chơi).
+147|Phó từ chỉ cách thức: 互相/相互 (lẫn nhau), 尽量 (cố hết sức), 亲自 (đích thân). Đặt trước động từ: 互相帮助 (giúp đỡ lẫn nhau).
+148|Phó từ tình thái 大概 (có lẽ, đại khái) và 恐怕 (e rằng): biểu thị suy đoán: 大概不会来了 (có lẽ sẽ không đến nữa).
+149|Phó từ ngữ khí: 白 (uổng công), 并 (hoàn toàn không – đi với phủ định), 当然 (đương nhiên), 到底 (rốt cuộc), 反正 (dù sao), 根本 (hoàn toàn), 果然 (quả nhiên), 简直 (quả thực), 绝对 (tuyệt đối), 难道 (chẳng lẽ), 其实 (thực ra), 千万 (nhất định), 确实 (quả thực), 只好 (đành phải), 终于 (cuối cùng).
+150|Giới từ 由 chỉ nơi chốn, điểm xuất phát hoặc đường đi: 由南门进入 (đi vào từ cổng nam).
+151|Giới từ 自从 chỉ mốc thời gian bắt đầu của một việc kéo dài đến hiện tại: 自从来到中国 (kể từ khi đến Trung Quốc).
+152|Giới từ 朝 chỉ phương hướng: 朝南开 (mở hướng nam), 朝左边看 (nhìn về bên trái).
+153|Giới từ 为 chỉ đối tượng được phục vụ, vì ai: 为我们做饭 (nấu cơm cho chúng tôi).
+154|Giới từ 向 chỉ đối tượng của hành động: 向班长学习 (học hỏi lớp trưởng), 向老师请假 (xin phép thầy cô).
+155|Giới từ 由于 và 因为 chỉ nguyên nhân: 因为这件事 (vì việc này). 由于 mang sắc thái trang trọng hơn.
+156|Giới từ 为了 chỉ mục đích: 为了健康 (vì sức khỏe), 为了学好中文 (để học tốt tiếng Trung).
+157|Giới từ 把, 被, 叫, 让 dùng trong câu chữ 把 (xử trí) và câu bị động: 把手机放在书包里 (để điện thoại vào cặp), 裙子被我弄脏了 (váy bị tôi làm bẩn).
+158|Giới từ 除了 loại trừ hoặc bổ sung: 除了他,我们都是留学生 (trừ anh ấy ra, chúng tôi đều là lưu học sinh); 除了英文还会中文 (ngoài tiếng Anh còn biết tiếng Trung).
+159|Giới từ 按 và 按照 nghĩa là theo, căn cứ vào: 按月计算 (tính theo tháng), 按照地图 (theo bản đồ).
+160|Liên từ nối vế câu: 并且 (hơn nữa), 不光/不仅 (không chỉ), 另外 (ngoài ra), 要是 (nếu), 因此 (vì thế), 由于 (do), 只有 (chỉ có).
+161|Từ tượng thanh 哈哈 mô phỏng tiếng cười to: 哈哈大笑 (cười ha hả).
+162|Các loại cấu trúc khác: (1) cụm giới tân (在桌子上), (2) cụm phương vị (桌子上), (3) cụm kiêm ngữ (让学生进教室), (4) cụm đồng vị (我们两个). Chúng làm thành phần câu như trạng ngữ, định ngữ, vị ngữ.
+163|Lặp lại số lượng từ (số + lượng + số + lượng), như 一个一个, 两个两个, nghĩa là từng cái một, theo từng nhóm: 一个一个地进来 (lần lượt từng người vào).
+164|Cấu trúc bốn chữ 不A不B: diễn tả không… cũng không… (vừa phải) hoặc nghĩa tương phản: 不多不少 (không nhiều không ít), 不快不慢 (không nhanh không chậm).
+165|看起来 nghĩa là xem ra, trông có vẻ, dùng để phán đoán dựa trên bề ngoài: 看起来很好吃 (trông có vẻ ngon).
+166|看上去 nghĩa là trông có vẻ, nhìn qua thì: 看上去很不错 (nhìn qua rất tốt).
+167|有的是 nghĩa là có rất nhiều, không thiếu: 书有的是 (sách có nhiều lắm), 时间有的是 (thời gian còn dư).
+168|Cấu trúc 除了……（以外）, ……还/也/都……: ngoài… ra còn (bổ sung) hoặc trừ… ra đều (loại trừ): 除了英文,他还会说中文.
+169|Cấu trúc 从……起 chỉ điểm bắt đầu: 从今天起 (từ hôm nay trở đi), 从明年起 (từ năm sau).
+170|Cấu trúc 对……来说 nghĩa là đối với… mà nói, đứng ở đầu câu hoặc trước vị ngữ để nêu góc nhìn: 对我来说,这很难 (đối với tôi mà nói, việc này rất khó).
+171|Cấu trúc 一……也/都+不/没…… nhấn mạnh phủ định hoàn toàn: 一个人也没有 (không có một ai), 一点儿都不累 (một chút cũng không mệt).
+172|Cấu trúc 越……越……: càng… càng…: 中文越学越有意思 (tiếng Trung càng học càng thú vị).
+173|Chủ ngữ có thể là động từ hoặc cụm động từ, tính từ hoặc cụm tính từ: 哭对身体不好 (khóc có hại cho cơ thể), 早一点儿来比较合适 (đến sớm một chút thì hợp hơn).
+174|Tân ngữ có thể là động từ, cụm động từ, tính từ hoặc cụm chủ–vị: 打算去上海 (dự định đi Thượng Hải), 喜欢安静 (thích yên tĩnh).
+175|Định ngữ có thể là động từ, cụm động từ hoặc cụm chủ–vị đứng trước danh từ, thường kèm 的: 我买的书 (quyển sách tôi mua).
+176|Bổ ngữ kết quả 2: động từ + 到/住/走, chỉ kết quả: 买到 (mua được), 接住 (bắt được/giữ được), 带走 (mang đi).
+177|Bổ ngữ xu hướng phức hợp: động từ + 出来/出去/过来/过去/回来/回去/进来/进去/起来/上来/上去/下来/下去, chỉ hướng của động tác: 拿出一本书来 (lấy ra một quyển sách).
+178|Bổ ngữ khả năng 1: động từ + 得/不 + động từ/tính từ; động từ + 得/不 + 了: 听得懂 (nghe hiểu được), 洗不干净 (giặt không sạch), 吃不了 (ăn không hết).
+179|Bổ ngữ mức độ 1: tính từ/động từ tâm lý + 得很/极了/死了, chỉ mức độ rất cao: 累得很 (rất mệt), 冷极了 (lạnh cực kỳ), 饿死了 (đói chết đi được).
+180|Bổ ngữ số lượng 3 (bổ ngữ động lượng): khi có tân ngữ, đặt tân ngữ chỉ người thường trước bổ ngữ: 找了他两次 (tìm anh ấy hai lần); tân ngữ địa điểm thường đứng trước: 来过中国一次.
+181|Bổ ngữ thời lượng 4, chỉ thời gian kéo dài của động tác: 学了两年 (học hai năm); khi có tân ngữ: 学中文学了两年 hoặc 学了两年中文.
+182|Bổ ngữ thời lượng 5, chỉ khoảng thời gian từ khi động tác kết thúc đến hiện tại: 他们来中国两个月了 (họ đến Trung Quốc được hai tháng rồi).
+183|Câu có vị ngữ là cụm chủ–vị: 奶奶身体非常好 (bà nội sức khỏe rất tốt). Chủ ngữ lớn (奶奶) và cụm chủ–vị (身体非常好) làm vị ngữ.
+184|Câu chữ 把 (nghĩa xử trí): chủ ngữ + 把 + tân ngữ + động từ + thành phần khác. Gồm: ...把…放在/到… (chỉ vị trí), ...把…送给… (chuyển giao), ...把…+động từ+bổ ngữ (kết quả, xu hướng, trạng thái).
+185|Câu bị động 1: chủ ngữ + 被/叫/让 + tác nhân + động từ + thành phần khác: 我的词典叫弟弟弄脏了 (từ điển của tôi bị em trai làm bẩn). 被 có thể lược tác nhân.
+186|Câu liên động 2: (1) hành động trước là cách thức của hành động sau (坐飞机去北京); (2) hành động sau là mục đích của hành động trước (去超市买水果).
+187|Câu kiêm ngữ 1 (sai khiến): chủ ngữ + 叫/派/请/让 + tân ngữ 1 + động từ + tân ngữ 2: 公司派我来中国学习 (công ty cử tôi sang Trung Quốc học).
+188|Câu so sánh 4: (1) A比B+动词+得+tính từ (我比他跑得快), (2) A不比B+tính từ, (3) A+động từ+得+比+B+tính từ, (4) A比B+多/少/早/晚+động từ+số lượng.
+189|Câu lặp động từ: chủ ngữ + động từ + tân ngữ + động từ + bổ ngữ: 他打篮球打得很好 (anh ấy chơi bóng rổ rất giỏi). Dùng khi động từ có cả tân ngữ và bổ ngữ.
+190|Cấu trúc (也)……,也……: nối hai vế song song, nghĩa là cũng… cũng…: 篮球他喜欢,排球他也喜欢 (bóng rổ anh ấy thích, bóng chuyền anh ấy cũng thích).
+191|一会儿……,一会儿……: lúc thì… lúc thì…, diễn tả hai trạng thái thay đổi nhanh: 一会儿冷,一会儿热 (lúc lạnh lúc nóng).
+192|一方面……,另一方面……: một mặt… mặt khác…: nêu hai khía cạnh song song của một vấn đề.
+193|又……,又……: vừa… vừa…, diễn tả hai đặc điểm hay hành động đồng thời: 又唱歌又跳舞 (vừa hát vừa nhảy), 又好看又便宜 (vừa đẹp vừa rẻ).
+194|首先……,然后……: trước hết… sau đó…, diễn tả hai bước nối tiếp nhau theo thứ tự.
+195|……,并且……: hơn nữa…, bổ sung thông tin thứ hai ở mức cao hơn hoặc cùng loại: 讨论了这个问题,并且提出了办法.
+196|不仅/不光……,还/而且……: không chỉ… mà còn…: 不光我会说中文,而且我姐姐也会说 (không chỉ tôi biết nói tiếng Trung mà chị tôi cũng biết).
+197|不是……,就是……: nếu không phải… thì là…, nêu hai khả năng chắc chắn một trong hai: 不是在办公室,就是在实验室 (nếu không ở văn phòng thì ở phòng thí nghiệm).
+198|……X是X,就是/不过……: X thì X (thừa nhận) nhưng…, chuyển ý: 好是好,就是太贵了 (tốt thì tốt, nhưng đắt quá).
+199|要是……,就……: nếu… thì…, câu giả thiết: 要是不开心,我就唱歌 (nếu không vui thì tôi sẽ hát).
+200|只有……,才……: chỉ có… mới…, điều kiện duy nhất: 只有多听多说,才能提高 (chỉ có nghe nói nhiều mới tiến bộ).
+201|(由于)……,所以/因此……: vì… nên…, quan hệ nhân quả: 由于身体不好,所以他打算退休.
+202|为了……,……: để…, chỉ mục đích: 为了保持健康,他每天运动 (để giữ gìn sức khỏe, ngày nào anh ấy cũng tập thể dục).
+203|Câu phức rút gọn …了…(就)…: sau khi… thì…: 下了课就去图书馆 (tan học là đến thư viện ngay).
+204|Cách biểu thị số ước lượng 2: (1) 大概/大约/几 (khoảng, vài), (2) hai số liền nhau (三四个: ba bốn cái), (3) 左右/前后 (khoảng, chừng): 三点左右 (khoảng ba giờ).
+205|Dùng 一点儿也不…… để nhấn mạnh phủ định hoàn toàn: 中文一点儿也不简单 (tiếng Trung hoàn toàn không đơn giản).
+206|Dùng câu hỏi tu từ để nhấn mạnh, thường có 不是……吗 hoặc 难道……吗: 难道你没去过长城吗? (lẽ nào bạn chưa từng đến Vạn Lý Trường Thành?)
+207|Dùng 是 để nhấn mạnh: 是……的 (nhấn mạnh thời gian, nơi chốn, cách thức: 我是昨天来的) hoặc 是 đặt trước thành phần cần nhấn mạnh.
+208|Dùng ngữ điệu lên cao để hỏi: câu trần thuật nhưng đọc lên giọng cuối câu thành câu hỏi: 今天是星期六? (hôm nay là thứ Bảy à?)
+209|都……了: nhấn mạnh thời gian đã khá muộn hoặc việc đã xảy ra đủ lâu: 都十一点了 (đã mười một giờ rồi), 都三天了 (đã ba ngày rồi).
+210|X就X(点儿)吧: chấp nhận tình huống và coi là không sao: 慢就慢吧 (chậm thì cứ chậm đi), 忙就忙点儿吧 (bận thì bận chút đi).
+211|X什么(啊): phản bác, phủ nhận X một cách mạnh mẽ: 玩儿什么 (chơi gì mà chơi), 舒服什么啊 (thoải mái gì chứ).
+212|Động từ năng nguyện 得 (děi) nghĩa là phải, cần phải: 我得早点儿回家 (tôi phải về nhà sớm). Phủ định thường dùng 不用 hoặc 不必, không dùng 不得.
+213|Đại từ nhân xưng 人家: (1) người khác: 人家也是为你好 (người ta cũng vì tốt cho bạn); (2) bản thân người nói (làm nũng): 人家不高兴了.
+214|Danh lượng từ: 打 (tá – 12 cái), 袋 (túi), 根 (cây, sợi, que), 卷 (cuộn), 棵 (cây), 批 (đợt, lô): 一打鸡蛋, 一袋米, 一根绳子, 一棵树, 一批货.
+215|Lượng từ mượn: (1) danh lượng từ mượn danh từ: 碗 (bát), 脸 (mặt), 手 (tay), 屋子 (căn phòng), 桌子 (cái bàn): 一碗饭, 一脸汗; (2) động lượng từ mượn dụng cụ: 刀 (nhát dao), 针 (mũi kim).
+216|Phó từ chỉ mức độ: 格外 (đặc biệt), 极 (cực kỳ), 极其 (vô cùng): 格外开心 (đặc biệt vui), 极小 (cực nhỏ).
+217|Phó từ phạm vi 共 nghĩa là tổng cộng: 共有三十人 (tổng cộng có ba mươi người).
+218|Phó từ chỉ thời gian: 按时 (đúng giờ), 即将 (sắp), 急忙 (vội vàng), 渐渐 (dần dần), 尽快 (nhanh nhất có thể).
+219|Phó từ lặp lại: 一再 và 再三 nghĩa là nhiều lần, hết lần này đến lần khác: 一再表示 (nhiều lần bày tỏ), 再三解释 (giải thích đi giải thích lại).
+220|Phó từ liên kết 却 nghĩa là nhưng lại, biểu thị chuyển ý: 我来了,他却没来 (tôi đến rồi, anh ấy lại không đến).
+221|Phó từ phủ định 未必 nghĩa là chưa chắc: 他未必会来 (anh ấy chưa chắc sẽ đến).
+222|Phó từ tình thái 几乎 (hầu như) và 似乎 (dường như): 几乎都没听懂 (hầu như không nghe hiểu), 似乎很不满意 (dường như không hài lòng).
+223|Phó từ ngữ khí: 的确 (quả thật), 反而 (ngược lại), 还 (vẫn còn, lại còn), 竟然 (không ngờ), 究竟 (rốt cuộc): 风不但没停,反而越来越大 (gió không những không ngừng mà còn mạnh hơn).
+224|Giới từ 自 nghĩa là từ, chỉ thời gian hoặc nơi chốn: 自1978年以来 (từ năm 1978 đến nay), 自北京出发 (xuất phát từ Bắc Kinh).
+225|Giới từ 对于 nghĩa là đối với, về: 对于任何语言来说 (đối với bất kỳ ngôn ngữ nào), 对于音乐,她很有研究 (về âm nhạc, cô ấy có nghiên cứu).
+226|Giới từ 关于 nghĩa là về, liên quan đến, thường đứng đầu câu hoặc làm định ngữ: 关于环境保护的书 (sách về bảo vệ môi trường).
+227|Giới từ 替 nghĩa là thay, cho: 别替我担心 (đừng lo lắng cho tôi).
+228|Giới từ 根据 nghĩa là căn cứ, theo: 根据学生的水平分班 (chia lớp theo trình độ học sinh).
+229|Giới từ 作为 nghĩa là với tư cách là: 作为学生 (với tư cách là học sinh).
+230|Liên từ nối từ hoặc cụm từ: 并 (và), 以及 (cũng như): 同意并支持 (đồng ý và ủng hộ), 小王、小李以及另外三名同学 (Tiểu Vương, Tiểu Lý cùng ba bạn khác).
+231|Liên từ nối vế câu: 此外 (ngoài ra), 而 (mà), 而是 (mà là), 既然 (đã… thì), 可见 (có thể thấy), 甚至 (thậm chí), 假如 (giả sử), 总之 (tóm lại).
+232|Trợ từ 似的 đặt sau từ hoặc cụm từ, nghĩa là tựa như, giống như: 像画儿似的 (như tranh vẽ).
+233|Thán từ 啊 có nhiều thanh điệu: ā (ngạc nhiên, khen), á (hỏi lại), ǎ (nghi ngờ), à (đồng ý, hiểu ra).
+234|Cấu trúc bốn chữ 大A大B: diễn tả hành động mạnh, mức độ cao hoặc quy mô lớn: 大吃大喝 (ăn uống thả cửa), 大吵大闹 (cãi nhau ầm ĩ).
+235|Cấu trúc bốn chữ 一A一B: nhấn mạnh từng đơn vị nhỏ một: 一针一线 (một cây kim sợi chỉ), 一五一十 (đâu ra đấy, kể từng li từng tí).
+236|看来 nghĩa là xem ra, có vẻ như, dùng để suy đoán từ tình hình: 看来明天不会下雨了 (xem ra ngày mai sẽ không mưa nữa).
+237|来得及/来不及: kịp / không kịp. 来得及 chỉ còn đủ thời gian; 来不及 chỉ không còn kịp nữa: 现在去还来得及 (bây giờ đi còn kịp).
+238|说不定 nghĩa là có thể, biết đâu chừng: 说不定他今天不来了 (biết đâu hôm nay anh ấy không đến).
+239|一般来说 nghĩa là nói chung, thông thường mà nói, nêu nhận định chung: 一般来说,选手参加了比赛是不能退出的.
+240|Cấu trúc 一+lượng từ+比+一+lượng từ: càng ngày càng…, cái sau hơn cái trước: 一次比一次精彩 (lần sau hay hơn lần trước), 一双比一双好看.
+241|(自)……以来: từ… đến nay, chỉ khoảng thời gian kéo dài từ một mốc đến hiện tại: 自去年以来, 上大学以来.
+242|由……组成: do… tạo thành, gồm có: 我们班由两位老师和二十位学生组成 (lớp chúng tôi gồm hai thầy cô và hai mươi học sinh).
+243|在……方面: về mặt…, về phương diện…: 在历史方面,他知道得很多 (về lịch sử, anh ấy biết rất nhiều).
+244|在……上/下/中: trong phạm vi, điều kiện hoặc quá trình nào đó: 在他的影响下 (dưới ảnh hưởng của anh ấy), 在这篇课文中 (trong bài khóa này), 在工作上 (trong công việc).
+245|Cụm chủ–vị làm chủ ngữ: 他不去也可以 (anh ấy không đi cũng được), 身体健康很重要 (sức khỏe tốt rất quan trọng).
+246|Chủ ngữ là đối tượng chịu tác động (chủ ngữ thụ sự): 饭都吃光了 (cơm đã ăn hết rồi), 作业我做完了. Không cần 被 vẫn mang nghĩa bị động.
+247|Nhiều định ngữ: thứ tự thường là sở hữu → chỉ thị/số lượng → tính từ → danh từ: 我那两件白色长衬衫 (hai chiếc áo sơ mi dài màu trắng kia của tôi).
+248|Bổ ngữ xu hướng 3, nghĩa kết quả (nghĩa mở rộng): 上 (đóng, gắn: 关上窗户), 出 (nhận ra, nói ra: 说出愿望), 起 (nhớ ra: 想起), 下 (cố định, ghi lại: 写下).
+249|Câu chữ 把 2: (1) 把+tân ngữ+động từ lặp (一+动/了+动: 检查检查, 晒了晒), (2) 把+tân ngữ+(给)+động từ+了/着, (3) 把+tân ngữ+động từ+bổ ngữ động lượng/thời lượng.
+250|Câu bị động 2: chủ ngữ + 被 + động từ + thành phần khác (tác nhân có thể lược bỏ): 教室的灯早就被关上了 (đèn phòng học đã bị tắt từ lâu).
+251|Câu tồn hiện 2: (1) xuất hiện: từ chỉ nơi chốn + động từ + bổ ngữ xu hướng/kết quả + (了) + số lượng + người/vật (前边开来一辆车); (2) biến mất: 昨天走了三位客人.
+252|Câu kiêm ngữ 2: (1) biểu thị yêu ghét: 表扬/批评 + tân ngữ 1 + động từ + tân ngữ 2 (老师表扬他帮助同学); (2) biểu thị gọi tên, nhận định: 叫/称/选 + tân ngữ 1 + 做/为/当/是 + tân ngữ 2.
+253|Câu 是……的 2: nhấn mạnh quan điểm, thái độ của người nói: 这个问题是可以解决的 (vấn đề này là có thể giải quyết được).
+254|不是……,而是……: không phải… mà là…: 我不是不想去,而是没时间 (không phải tôi không muốn đi mà là không có thời gian).
+255|既……,又/也……: vừa… vừa…, hai đặc điểm cùng tồn tại: 既好看,又暖和 (vừa đẹp vừa ấm).
+256|首先……,其次……: trước hết… thứ hai…, liệt kê theo thứ tự quan trọng hoặc thời gian.
+257|……,于是……: thế là…, vì vậy…, diễn tả việc sau xảy ra do việc trước: 天太热了,于是我们去游泳了 (trời nóng quá nên chúng tôi đi bơi).
+258|……,甚至……: thậm chí…, nhấn mạnh mức độ cao hơn: 他什么都不会,甚至连最简单的汉字也不会写.
+259|或者……,或者……: hoặc là… hoặc là…, nêu các lựa chọn: 或者你去,或者我去 (hoặc bạn đi hoặc tôi đi).
+260|……,然而……: tuy nhiên…, nhưng…, chuyển ý mạnh, trang trọng hơn 但是: 中文很有用,然而也太难了.
+261|……,否则……: nếu không thì…, nêu hậu quả nếu điều trên không xảy ra: 我要认真复习,否则考试不及格 (tôi phải ôn kỹ, nếu không thi sẽ trượt).
+262|假如……,(就)……: giả sử… thì…, giống 如果/要是 nhưng trang trọng hơn: 假如明天下雨,我们就不去了.
+263|万一……,(就)……: nhỡ mà…, lỡ như…, nêu khả năng rất nhỏ nhưng không mong muốn: 万一我没来,你就先去吧.
+264|不管……,都/也……: bất kể…, đều…: 不管明天是否下雨,我都要去 (bất kể ngày mai có mưa hay không tôi đều phải đi).
+265|无论……,都/也……: dù… cũng…, trang trọng hơn 不管: 无论学习多紧张,我都每天锻炼.
+266|既然……,就……: đã… thì…, dựa vào sự thật đã có để đưa ra kết luận: 既然下雨了,就明天再去吧.
+267|……,可见……: có thể thấy…, rút ra kết luận từ sự việc trước: 他中文水平很高,可见他学习很努力.
+268|哪怕……,也/还……: cho dù… cũng…, nhượng bộ ở mức cao: 哪怕再难,我也要学下去 (dù khó đến mấy tôi cũng sẽ học tiếp).
+269|……,好……: để…, nêu mục đích (vế sau): 你把地址写下来,好让我去找你 (bạn viết địa chỉ ra để tôi tìm đến).
+270|Câu phức rút gọn không có từ nối: hai vế đặt sát nhau, quan hệ dựa vào ngữ cảnh: 你有事你先走 (bạn có việc thì cứ đi trước), 你不怕我怕 (bạn không sợ nhưng tôi sợ).
+271|Câu rút gọn 不……也……: dù không… cũng phải…: 不睡觉也要写完 (dù không ngủ cũng phải viết xong).
+272|Số ước lượng 3: số từ + 来 + lượng từ, nghĩa là khoảng, hơn: 十来个人 (khoảng mười người), 三十来岁 (khoảng ba mươi tuổi).
+273|Cách biểu thị số thập phân, phân số, phần trăm, bội số: 0.5 (零点五), 1/2 (二分之一), 50% (百分之五十), 两倍 (gấp hai lần).
+274|Dùng câu hỏi tu từ để nhấn mạnh: dùng hình thức hỏi nhưng ý khẳng định hoặc phủ định mạnh: 这不是你的书吗? (đây chẳng phải sách của bạn sao?), 谁不知道? (ai mà chẳng biết?).
+275|Dùng phủ định kép để nhấn mạnh (khẳng định mạnh): 没有孩子不喜欢玩儿 (không có đứa trẻ nào không thích chơi), 不可能不参加 (không thể không tham gia).
+276|Dùng 一+lượng từ(+danh từ)+也/都+不/没…… nhấn mạnh phủ định tuyệt đối: 一本中文书也没看过 (chưa đọc một quyển sách tiếng Trung nào), 一步路都走不动 (không đi nổi một bước).
+277|Dùng 连……也/都……: ngay cả… cũng…, nhấn mạnh trường hợp cực đoan: 连最简单的汉字都写不出来 (đến chữ Hán đơn giản nhất cũng không viết được).
+278|不X白不X: không… thì uổng, không… cũng phí (cơ hội đáng tận dụng): 不吃白不吃 (không ăn thì phí), 不看白不看.
+279|动词+一X是一X: làm được cái nào hay cái đó, được bao nhiêu hay bấy nhiêu: 能做一件是一件 (làm được cái nào hay cái đó), 过一天是一天 (sống qua ngày).
+280|(没)有什么(好)X的: có gì mà… đâu, không cần…: 没有什么好激动的 (có gì mà phải xúc động), 有什么好害怕的.
+281|X是X,Y是Y: X là X, Y là Y, nhấn mạnh phân biệt rõ ràng: 一是一,二是二 (rạch ròi), 他是他,我是我.
+282|X也得X,不X也得X: dù muốn hay không cũng phải…: 你吃也得吃,不吃也得吃 (bạn ăn cũng phải ăn, không ăn cũng phải ăn).
+283|X就是了: cứ… là được, khuyên nhủ hoặc trấn an: 直接说就是了 (cứ nói thẳng là được), 别跟他说话就是了.
+284|还X呢: còn… nữa chứ (giọng mỉa mai, phủ định): 还名牌儿呢,我听都没听过 (còn hàng hiệu nữa chứ, tôi nghe còn chưa từng nghe).
+285|你X你的吧: bạn cứ… việc của bạn đi, không cần bận tâm: 你吃你的吧 (bạn cứ ăn đi), 你休息你的吧.
+286|让/叫你X你就X: bảo bạn… thì bạn cứ…, ra lệnh hoặc yêu cầu nghe theo: 让你做你就做 (bảo bạn làm thì cứ làm).
+287|说什么/怎么(着)也得X: dù thế nào cũng phải…: 我说什么也得去看看他 (dù thế nào tôi cũng phải đến thăm anh ấy).
+288|Đại từ chỉ thị 彼此 (lẫn nhau, đôi bên) và 如此 (như vậy, như thế): 彼此信任 (tin tưởng lẫn nhau), 如此简单 (đơn giản như vậy).
+289|Danh lượng từ: 册 (quyển, tập), 朵 (đóa), 幅 (bức, tấm), 届 (khóa, kỳ), 颗 (hạt, viên), 匹 (con ngựa, tấm vải), 扇 (cánh, tấm): 一幅画 (một bức tranh), 一朵花.
+290|Phó từ chỉ mức độ: 过于 (quá mức), 可 (thật là, nhấn mạnh), 稍/稍微 (hơi, một chút), 尤其 (đặc biệt là): 过于突然 (quá đột ngột), 可漂亮了 (đẹp lắm).
+291|Phó từ phạm vi 大都 nghĩa là phần lớn, đa số: 大都是女生 (phần lớn là nữ sinh).
+292|Phó từ thời gian: 不时 (thỉnh thoảng), 将/将要 (sẽ, sắp), 仍旧/依旧 (vẫn như cũ), 时常 (thường xuyên), 时刻 (luôn luôn), 一向 (từ trước đến nay).
+293|Phó từ tần suất: 偶尔 (thỉnh thoảng) và 再次 (một lần nữa): 偶尔迟到 (thỉnh thoảng đến muộn), 再次发生 (lại xảy ra lần nữa).
+294|Phó từ cách thức 偷偷 nghĩa là lén lút, âm thầm: 偷偷送礼物 (lén tặng quà).
+295|Phó từ ngữ khí: 毕竟 (dù sao), 不免 (khó tránh), 差(一)点儿 (suýt nữa), 倒是 (ngược lại), 干脆 (dứt khoát), 就 (chính là, thì), 居然 (không ngờ), 可 (nhấn mạnh), 明明 (rõ ràng), 总算 (cuối cùng cũng).
+296|Giới từ 随着 nghĩa là cùng với, theo đà, nêu điều kiện thay đổi: 随着时间的推进 (theo thời gian trôi), 随着冬天的到来.
+297|Giới từ 将 (văn viết) tương đương 把: 将他送到中国 (đưa anh ấy đến Trung Quốc), 禁止将书带出 (cấm mang sách ra ngoài).
+298|Giới từ 由 (loại 2) chỉ tác nhân, người phụ trách: 这件事由班长负责 (việc này do lớp trưởng phụ trách).
+299|Giới từ 凭 nghĩa là dựa vào, căn cứ vào: 凭他的水平 (dựa vào trình độ của anh ấy), 凭经验判断.
+300|Giới từ 依据 nghĩa là căn cứ vào: 依据事实办事 (làm việc theo sự thật), 依据线索.
+301|Giới từ 依照 nghĩa là theo, dựa theo: 依照学校的规定 (theo quy định của nhà trường).
+302|Liên từ: 从而 (nhờ đó, do đó), 加上 (cộng thêm), 完了 (xong rồi, sau đó), 一旦 (một khi): 努力学习,从而实现了理想 (chăm chỉ học tập, nhờ đó thực hiện được ước mơ).
+303|Trợ từ 也好 diễn tả “cũng được”, “cũng tốt”, hoặc dùng lặp lại (X也好,Y也好) nghĩa là dù… hay…: 多学一门语言也好.
+304|Cấu trúc A来A去: lặp đi lặp lại hành động, thường cho kết quả cuối: 想来想去 (nghĩ đi nghĩ lại), 讨论来讨论去.
+305|Cấu trúc A着A着: đang… thì bỗng…: 说着说着就哭了 (đang nói thì bật khóc), 看着看着就睡着了.
+306|Cấu trúc 没A没B: không có… không có…: 没大没小 (không phân biệt lớn nhỏ), 没吃没喝 (không ăn không uống).
+307|Cấu trúc 说A就A: nói… là… ngay: 说走就走 (nói đi là đi), 说干就干 (nói làm là làm).
+308|Cấu trúc 有A有B: có… có…, vừa… vừa…: 有说有笑 (vừa nói vừa cười), 有山有水 (có núi có sông).
+309|不得了: (1) nghiêm trọng, ghê gớm (không xong rồi): 房间里进水了,不得了了; (2) sau 得, chỉ mức rất cao: 高兴得不得了 (vui không tả xiết).
+310|不敢当: không dám nhận, xin quá khen, lời khiêm tốn khi được khen hoặc tôn trọng: 这样的奖励我真是不敢当.
+311|得了: (1) được rồi, thôi đi; (2) dùng để ngăn lại hoặc bác bỏ: 得了吧,他不可能帮助别人的 (thôi đi, anh ta không thể giúp ai đâu).
+312|用不着: không cần, khỏi phải: 用不着害怕 (khỏi phải sợ), 用不着听他的.
+313|从……来看: xét từ… thì…, nêu góc nhìn: 从这个角度来看 (nhìn từ góc độ này), 从成绩来看.
+314|到……为止: cho đến…, chấm dứt ở…: 到目前为止 (cho đến nay), 到此为止 (đến đây là hết).
+315|够……的: khá, đủ… rồi (nhấn mạnh mức độ cao): 够他忙的了 (cũng đủ khiến anh ấy bận rồi), 真够聪明的 (thật là thông minh).
+316|拿……来说: lấy… mà nói, dùng ví dụ minh họa: 拿成绩来说,他绝对是第一 (nói riêng về thành tích thì anh ấy tuyệt đối đứng nhất).
+317|A的A,B的B: kẻ A thì A, kẻ B thì B, diễn tả tình trạng không đồng nhất: 大的大,小的小 (cái to cái nhỏ không đều), 老的老,少的少 (người già người trẻ).
+318|在……看来: theo như… thấy, theo quan điểm của…: 在我看来 (theo tôi), 在很多人看来.
+319|Tân ngữ chỉ chủ thể hoặc đối tượng: (1) tân ngữ thi sự (chủ thể của hành động): 门口站着一个人 (ở cửa có một người đứng); (2) tân ngữ thụ sự: 吃了一顿饭.
+320|Nhiều trạng ngữ: thứ tự thông thường: thời gian → địa điểm → cách thức: 他昨天在教室里认真地写完了作业 (hôm qua anh ấy chăm chú làm xong bài ở trong lớp).
+321|Bổ ngữ xu hướng 4, nghĩa thời gian: (1) bắt đầu: 动词+上/起来 (哭起来: bật khóc); (2) tiếp diễn: 动词+下去/下来 (说下去: nói tiếp).
+322|Bổ ngữ khả năng 2: 动词+得/不得, nghĩa là có thể/không thể (về mặt lý lẽ hoặc điều kiện): 吃不得 (không được ăn), 拿不得 (không được cầm).
+323|Bổ ngữ mức độ 2: (1) 形容词/心理动词+得+不得了/慌/厉害 (害怕得厉害: sợ kinh khủng); (2) 动词/形容词+坏/透+了 (担心坏了: lo muốn chết, 恨透了: hận thấu xương).
+324|Bổ ngữ trạng thái 2: động từ/tính từ + 得 + cụm từ (cụm động từ, cụm chủ–vị, cụm cố định): 跑得气喘吁吁 (chạy đến thở dốc), 高兴得跳起来 (vui đến nhảy cẫng lên).
+325|Câu chữ 有 3: (1) biểu thị tồn tại, có: 有着 + tân ngữ (有着长期的友好关系: có quan hệ hữu hảo lâu dài); (2) biểu thị đính kèm: 动词+有+tân ngữ (写有名字: có ghi tên).
+326|Câu chữ 把 3: (1) 把+tân ngữ+trạng ngữ+động từ (把东西到处乱扔), (2) 把+tân ngữ+一+động từ, (3) 把+tân ngữ+động từ+了, (4) 把+tân ngữ 1+động từ+tân ngữ 2.
+327|Câu bị động ý niệm (không có 被): chủ ngữ là vật chịu tác động, nghĩa bị động tự rõ: 蛋糕吃光了 (bánh đã ăn hết), 衣服穿破了 (quần áo mặc rách).
+328|Câu liên động 3: hai động từ có quan hệ nhân quả, chuyển ngoặt hoặc điều kiện: 李老师生病住院了 (cô Lý bị bệnh nên nằm viện), 借了没看 (mượn rồi mà không đọc).
+329|Câu kiêm ngữ 3 (gây khiến): 叫/令/使/让 + đại từ nhân xưng + cụm động từ: 这件事令她吃不下饭 (việc này khiến cô ấy ăn không nổi).
+330|Câu so sánh 5: (1) 跟……相比 (so với…), (2) A+tính từ+B+số lượng bổ ngữ: 跟上次相比,这次没那么难 (so với lần trước, lần này không khó đến vậy).
+331|或是……,或是……: hoặc là… hoặc là…, dùng để nêu lựa chọn, văn viết nhiều hơn 或者.
+332|尽管……,但是/可是……: mặc dù… nhưng…: 尽管外面下雨,可是他一定要去 (mặc dù ngoài trời mưa nhưng anh ấy nhất định đi).
+333|一旦……,就……: một khi… thì…, giả thiết điều kiện khó tránh hoặc quan trọng: 一旦不及格,我就要延期毕业.
+334|要是……,(就)……,否则……: nếu… thì…, nếu không thì…: 要是明天下雨,我们就不去爬山了,否则会感冒的.
+335|除非……,才……: trừ phi… mới…, điều kiện bắt buộc: 除非你答应,我才和你去 (trừ khi bạn đồng ý, tôi mới đi cùng).
+336|除非……,否则/不然……: trừ phi… nếu không thì…: 除非坐飞机去,否则肯定来不及 (trừ phi đi máy bay, nếu không chắc chắn không kịp).
+337|……,因而……: vì thế, do đó, dùng trong văn viết: 他生病了,因而没来上课.
+338|即使……,也……: cho dù… cũng…, giả định nhượng bộ: 即使天气不好,爬长城的人也不会少.
+339|……,为的是……: …, là để…, giải thích mục đích: 我把车停在外面,为的是走的时候方便.
+340|……,以便……: …, để tiện…, để có thể…: 请提前报名,以便我们安排座位 (xin hãy đăng ký sớm để chúng tôi tiện sắp xếp chỗ).
+341|没有……就没有……: không có… thì không có…: 没有你的帮助就没有我的成功.
+342|再……也……: dù… đến đâu cũng…: 再难也要坚持 (khó đến mấy cũng phải kiên trì), 雨下得再大我也要去.
+343|Câu phức hai tầng 1: (câu đơn + câu phức hoặc câu phức + câu đơn), dùng để diễn đạt các ý lồng vào nhau: 我决定去中国留学,即使中文再难我也要去学.
+344|Dùng 再也不/没 để nhấn mạnh phủ định tuyệt đối từ nay: 再也不会出这种错了 (sẽ không bao giờ mắc lỗi này nữa), 再也没联系过 (không hề liên lạc nữa).
+345|Dùng phó từ 可 để nhấn mạnh (khẩu ngữ): 你可来了 (bạn cuối cùng cũng đến rồi), 可得注意身体 (nhất định phải chú ý sức khỏe), 可不行 (không được đâu).
+346|Dùng 怎么都/也+不/没 để nhấn mạnh phủ định dù thế nào: 怎么也没想到 (làm sao cũng không ngờ tới), 怎么都不愿意.
+347|X也不是,Y也不是: làm X cũng không phải, làm Y cũng không phải, tả tình thế khó xử: 哭也不是,笑也不是 (khóc không được mà cười cũng không xong), 坐也不是,站也不是.
+348|X也X不得,Y也Y不得: làm X cũng không được, làm Y cũng không được: 站也站不得,坐也坐不得 (đứng cũng không được ngồi cũng không xong), 骂也骂不得,打也打不得.
+349|X是它,Y也是它: dù X hay Y thì cũng là nó, nhấn mạnh không còn lựa chọn khác: 好是它,坏也是它 (tốt hay xấu cũng chỉ có nó).
+350|X着也是X着: dù sao cũng đang… rồi, chẳng làm gì cũng thế, ý là nên tranh thủ làm việc khác: 闲着也是闲着 (rảnh cũng là rảnh), 放着也是放着 (để đó cũng là để đó, chi bằng cho người khác).
+351|X归X,Y归Y: X là X, Y là Y, tách bạch hai việc: 想归想,做归做 (nghĩ là nghĩ, làm là làm), 吵归吵 (cãi nhau là cãi nhau).
+352|不管怎样说: dù nói thế nào đi nữa, thế nào thì…, dùng để chốt lại kết luận: 不管怎样说,你这么做就是不对的.
+353|看你X的 / 瞧他X的: nhìn bạn…, giọng trách móc hoặc nửa đùa: 看你说的 (nhìn bạn nói kìa, ý khiêm tốn hoặc không đồng tình), 瞧他得意的.
+354|真有你/他/她的: bạn/anh/cô ấy thật giỏi, thật có tài, lời khen ngạc nhiên: 真有你的! (bạn giỏi thật đấy!)
+355|X什么X: X gì mà X, ngăn người khác không làm hoặc chê trách: 看什么看 (nhìn gì mà nhìn), 吃什么吃 (ăn gì mà ăn).
+356|什么X不X(的): X gì mà X, bác bỏ lời khách sáo: 什么钱不钱的 (tiền bạc gì chứ), 什么麻烦不麻烦 (phiền phức gì đâu).
+357|Phương thức liên kết trong đoạn: (1) dùng đại từ nhân xưng thay thế; (2) dùng đại từ chỉ thị thay thế; (3) dùng các đại từ xen kẽ nhau, để khỏi lặp lại danh từ đã nhắc.
+358|Phương thức liên kết có thành phần lược bớt: (1) lược chủ ngữ, (2) lược tân ngữ, khi ý đã rõ từ ngữ cảnh.
+359|Tiền tố loại phụ: 超- (siêu: 超市), 多- (đa: 多媒体), 反- (phản: 反作用), 无- (vô: 无数), 亚- (á: 亚军), 准- (chuẩn: 准时).
+360|Hậu tố loại phụ: -化 (hóa: 现代化), -式 (kiểu: 中式), -型 (loại: 大型), -性 (tính: 积极性). Dùng gắn sau danh từ, tính từ để tạo danh từ hoặc động từ mới.
+361|Đại từ chỉ thị 本 (này, hiện tại: 本人, 本校) và 此 (này: 此外, 此时), dùng trong văn viết.
+362|Danh lượng từ: 餐 (bữa), 串 (chùm, xâu), 滴 (giọt), 副 (bộ, cặp), 股 (luồng, làn), 集 (tập phim), 枝 (cành, cây): 一餐饭, 一串钥匙, 一滴水, 一副眼镜.
+363|Động lượng từ: 番 (phen, lần), 声 (tiếng), 趟 (chuyến): 研究一番 (nghiên cứu một phen), 叫了一声 (gọi một tiếng), 去一趟 (đi một chuyến).
+364|Phó từ chỉ mức độ 特 (đặc biệt, rất) và 异常 (khác thường): 特高兴 (rất vui), 异常寒冷 (lạnh khác thường).
+365|Phó từ phạm vi: 尽 và 净 (toàn là, chỉ toàn), 一齐/一同 (cùng nhau, đồng loạt): 尽是些基础工作 (toàn là công việc cơ bản), 净是垃圾 (toàn là rác).
+366|Phó từ thời gian: 时时 (luôn luôn), 一时 (nhất thời), 早晚 (sớm muộn): 时时关注 (luôn luôn quan tâm), 一时想不起来 (nhất thời không nhớ ra).
+367|Phó từ 便 (văn viết) tương đương 就: 一下课便回家 (hễ tan học là về nhà ngay).
+368|Phó từ cách thức: 不禁 (không kìm được), 赶忙 (vội vàng), 亲眼 (tận mắt), 特地/特意 (đặc biệt, cố ý): 不禁回忆起 (không kìm được nhớ lại).
+369|Phó từ 仿佛 nghĩa là dường như, hình như, như thể: 仿佛孩子似的 (như một đứa trẻ).
+370|Phó từ ngữ khí: 才 (nhấn mạnh phủ định: 才不要), 刚好/恰好 (vừa hay), 偏 (cứ khăng khăng, lại): 我刚要出门他就回来了.
+371|Giới từ 于 (văn viết) chỉ thời gian, nơi chốn: 出生于1995年 (sinh năm 1995), 生活于中国西南 (sống ở tây nam Trung Quốc).
+372|Giới từ 沿(着) nghĩa là dọc theo: 沿着湖散步 (đi dạo dọc bờ hồ), 沿这条路走.
+373|Giới từ 同 và 与 chỉ đối tượng, nghĩa là với, cùng: 同你一样 (giống bạn), 与同学搞好关系 (giữ quan hệ tốt với bạn bè).
+374|Giới từ 至于 nghĩa là còn về, đến nỗi: 至于费用问题 (còn về vấn đề chi phí), dùng để chuyển sang đề tài mới.
+375|Giới từ 因 (văn viết) chỉ nguyên nhân: 因公司的业务需要 (do nhu cầu công việc của công ty), 因病请假 (xin nghỉ vì bệnh).
+376|Giới từ 除 (văn viết) tương đương 除了, chỉ loại trừ: 除他以外,所有人都来了 (ngoại trừ anh ấy, mọi người đều đến).
+377|Giới từ 据 nghĩa là theo, căn cứ vào, dùng để dẫn nguồn: 据专家介绍 (theo chuyên gia giới thiệu), 据统计 (theo thống kê).
+378|Liên từ 而, 同, 与 nối từ hoặc cụm từ: 善良而乐观 (lương thiện mà lạc quan), 我同他都是 (tôi và anh ấy đều là), 与 (và).
+379|Liên từ: 不料 (không ngờ), 可 (nhưng), 若 (nếu, văn viết): 本想去踢球,不料下雨了 (định đi đá bóng, không ngờ trời mưa).
+380|Trợ từ kết cấu 所: dùng trước động từ tạo cụm danh từ hoặc nhấn mạnh quan hệ: 据我所知 (theo như tôi biết), 你所做的每件事 (mọi việc bạn đã làm).
+381|Trợ từ ngữ khí: 罢了 (mà thôi), 啦 (= 了+啊), 嘛 (nhấn mạnh điều hiển nhiên): 只是开个玩笑罢了 (chỉ là đùa thôi mà).
+382|Cấu trúc cơ bản: số từ + tính từ + lượng từ (ví dụ 一大碗, 两小杯), tính từ chỉ kích cỡ chen vào giữa số từ và lượng từ.
+383|Cấu trúc bốn chữ 或A或B: hoặc… hoặc…, diễn tả mức độ không cố định: 或大或小 (hoặc lớn hoặc nhỏ), 或高或低 (hoặc cao hoặc thấp).
+384|Cấu trúc bốn chữ 无A无B: không… không…: 无时无刻 (mọi lúc mọi nơi), 无法无天 (không còn phép tắc).
+385|Cấu trúc bốn chữ A这A那: chỉ việc nói hoặc làm cái này cái kia lung tung: 说这说那 (nói chuyện này chuyện nọ), 嫌这嫌那 (chê cái này cái kia).
+386|Cấu trúc bốn chữ 左A右B: trái… phải…, chỉ động tác liên tục, nhiều hướng: 左躲右闪 (né trái tránh phải), 左瞧右看 (ngó nghiêng).
+387|不怎么: không… lắm, không mấy…: 不怎么好看 (không đẹp lắm), 不怎么在乎 (không mấy bận tâm).
+388|不怎么样: không ra gì, không tốt lắm: 她跳舞跳得不怎么样 (cô ấy nhảy không giỏi lắm).
+389|好(不)容易: khó khăn lắm mới (nghĩa như nhau dù có 不): 好不容易争取来的机会 (cơ hội khó khăn lắm mới giành được).
+390|那倒(也)是: đúng là thế, quả thật là vậy, thừa nhận ý kiến của người khác: 那倒是个很好的办法 (đúng thế, đó là cách rất hay).
+391|就是说 / 这就是说: nói cách khác, tức là, dùng để giải thích hoặc kết luận: 这就是说,责任不在你 (tức là trách nhiệm không phải ở bạn).
+392|算了: thôi, bỏ đi, cho qua: 这件事就这样算了吧 (việc này cứ thế bỏ qua đi).
+393|A一+lượng từ,B一+lượng từ: liệt kê nhiều thứ, mỗi thứ một phần: 青一块,紫一块 (chỗ xanh chỗ tím), 你一句,我一句 (anh một câu tôi một câu).
+394|东一A,西一A: chỗ này một… chỗ kia một…, chỉ sự lộn xộn, không có trật tự: 东一句,西一句 (câu đông câu tây), 东一脚,西一脚.
+395|为了……而……: vì… mà…, nêu mục đích rồi hành động: 为了这次比赛而努力 (nỗ lực vì cuộc thi này).
+396|Tân ngữ loại 2: (1) tân ngữ nơi chốn (进教室: vào lớp), (2) tân ngữ kết quả (盖房子: xây nhà).
+397|Bổ ngữ xu hướng 5, nghĩa trạng thái: động từ/tính từ + 下来/下去/起来/过来: 安静下来 (yên tĩnh lại), 淡下去 (nhạt dần), 好起来 (khá lên).
+398|Câu chữ 把 4 (nghĩa gây khiến): (1) chủ ngữ phi sinh vật + 把 + tân ngữ + động từ + thành phần khác (这双鞋把脚磨破了: đôi giày làm trầy chân), (2) chủ ngữ + 把 + tân ngữ (người) + động từ + thành phần khác.
+399|Câu bị động 4: chủ ngữ + 被/叫/让 + tân ngữ + 给 + động từ + thành phần khác, thêm 给 để nhấn mạnh: 自行车叫小偷儿给偷走了 (xe đạp bị kẻ trộm lấy mất).
+400|时而……,时而……: lúc thì… lúc thì…, chỉ trạng thái luân phiên: 时而晴天,时而下雨 (lúc nắng lúc mưa).
+401|一时……一时……: lúc thì… lúc thì…, chỉ sự thay đổi thất thường: 身体一时好一时坏 (sức khỏe lúc tốt lúc xấu).
+402|……便……: … thì liền…, văn viết tương đương 就: 他一下课便回家了; 天一亮便出发 (trời vừa sáng đã lên đường).
+403|不但不/不但没有……,反而……: không những không… mà còn…: 他不但不帮我,反而给我添麻烦 (anh ấy không những không giúp tôi mà còn gây thêm phiền phức).
+404|不是……,还/还是……: không chỉ… mà còn…, hoặc không phải… mà vẫn phải…: 不是读完了就可以了,还应该写一篇作文.
+405|连……都/也……,……更……: ngay cả… cũng… huống chi…: 连小孩都知道,大人更知道 (đến trẻ con cũng biết, người lớn càng biết).
+406|要么……,要么……: hoặc là… hoặc là…, buộc phải chọn một: 要么跟他一组,要么自己一组.
+407|虽……,但/可/却/也……: tuy… nhưng…: 他年纪虽小,但经验不少 (anh ấy tuy nhỏ tuổi nhưng nhiều kinh nghiệm).
+408|……,要不然/不然……: nếu không thì…: 要认真对待考试,要不然会影响毕业.
+409|凡是……,都……: hễ là… thì đều…: 凡是听到高兴的事,他都和朋友分享 (hễ nghe tin vui là anh ấy đều chia sẻ với bạn).
+410|就算/就是……也……: cho dù… cũng…, giả thiết nhượng bộ: 就算成绩最好的同学也无法回答.
+411|不……不……: không… thì không…, hai vế phụ thuộc nhau: 不到长城非好汉 (không lên Trường Thành không phải hảo hán); 不见不散 (không gặp không về).
+412|Câu phức hai tầng 2: gồm hai câu phức lồng nhau, thường dùng trong văn nghị luận: 成功的基础是奋斗,奋斗的收获是成功,所以……
+413|Dùng 非……不可 để nhấn mạnh: nhất định phải…, không… không được: 我非去不可 (tôi nhất định phải đi), 非得 + động từ.
+414|X到Y头上来了: …đến đầu Y rồi, chỉ việc gì đó ập lên người, thường là bất ngờ hoặc xúc phạm: 欺负到我头上来了 (bắt nạt đến cả đầu tôi rồi).
+415|X就X吧: X thì X vậy, chấp nhận, bất cần: 去就去吧 (đi thì đi), 输就输吧.
+416|X是X: X là X (thừa nhận) rồi nhưng…: 好是好,就是贵了点 (tốt thì tốt, nhưng hơi đắt).
+417|不X不……,一X……: không… thì không…, hễ… thì…: 不见不散; 一看就懂 (nhìn là hiểu).
+418|好你个X: được lắm cái đồ…, giọng trách mắng: 好你个小子 (được lắm nhóc con).
+419|动词+什么(就)是什么: …gì thì là cái đó, ý chấp nhận bất kể: 给什么吃什么 (cho gì ăn nấy), 有什么说什么.
+420|早(也)不X,晚(也)不X: không sớm không muộn lại… đúng lúc…, nêu sự trùng hợp trớ trêu: 早不来,晚不来,偏偏这时候来.
+421|看/瞧+把+tân ngữ(chủ thể)+X得: nhìn xem… đến mức…, giọng cảm thán: 看把他乐得 (nhìn anh ấy vui chưa kìa), 瞧把他得意得.
+422|放着X不Y: có X mà không… , chê trách việc bỏ qua thứ tốt: 放着好日子不过 (có cuộc sống tốt không sống), 放着好好的学不上.
+423|X来X去,都是/就是……: X đi X lại, cuối cùng vẫn là…: 说来说去,就是没有统一的意见 (nói đi nói lại vẫn không có ý kiến thống nhất).
+424|X了就X了,(没)有……: X thì đã X rồi, có gì…: 坏了就坏了,有什么大不了的 (hỏng thì hỏng, có gì to tát đâu), 输了就输了.
+425|这/那也不X,那/这也不Y: cái này cũng không…, cái kia cũng không…, tả sự kén chọn hoặc bất mãn: 这也不吃,那也不喝 (cái này cũng không ăn, cái kia cũng không uống).
+426|Động từ năng nguyện 需 (văn viết) nghĩa là cần, phải: 仍需耐心等待 (vẫn cần kiên nhẫn chờ đợi).
+427|Đại từ nghi vấn 何 (văn viết) nghĩa là gì, nào, tại sao: 何时 (khi nào), 有何疑问 (có thắc mắc gì), 何必 (cần gì).
+428|Đại từ chỉ thị 该 (ấy, đó: 该公司), 另 (khác: 另一个), 兹 (nay, đây: 兹证明).
+429|Danh lượng từ: 栋 (tòa nhà), 粒 (hạt), 枚 (cái, chiếc), 则 (mẩu tin), 盏 (ngọn đèn); lượng từ ghép 人次 (lượt người).
+430|Phó từ 亦 (văn viết) nghĩa là cũng: 亦是成功 (cũng là thành công).
+431|Giới từ 顺着 nghĩa là men theo, theo: 雨水顺着头发滴下来 (nước mưa chảy dọc theo tóc), 顺着这条路走.
+432|Liên từ 及 (văn viết) nghĩa là và, cùng với: 工人、农民及士兵 (công nhân, nông dân và binh sĩ).
+433|Liên từ: 继而 (tiếp đó, sau đó), 要不是 (nếu không phải là): 他本来不同意,继而一想,又觉得是个机会.
+434|Trợ từ kết cấu 之 (văn viết) tương đương 的: 梦之书 (cuốn sách của giấc mơ), 所爱之人 (người mình yêu).
+435|Cấu trúc cơ bản: số từ + lượng từ + sự vật trừu tượng: 一身本领 (một thân bản lĩnh), 一团和气 (một bầu không khí hòa nhã).
+436|Cấu trúc bốn chữ 爱A不A: thích thì…, không thích thì thôi: 爱理不理 (lơ đãng), 爱听不听 (thích nghe thì nghe, không thì thôi).
+437|Cấu trúc bốn chữ 半A半B: nửa… nửa…: 半真半假 (nửa thật nửa giả), 半信半疑 (nửa tin nửa ngờ).
+438|Cấu trúc bốn chữ 东A西B: chỗ này chỗ kia, chỉ hành động ở nhiều nơi hoặc lộn xộn: 东奔西跑 (chạy ngược chạy xuôi), 东挑西选.
+439|Cấu trúc bốn chữ 非A非B: không phải… cũng không phải…: 非敌非友 (không phải địch không phải bạn), 非你非我.
+440|Cấu trúc bốn chữ 忽A忽B: lúc… lúc…, thay đổi đột ngột: 忽高忽低 (lúc cao lúc thấp), 忽快忽慢.
+441|Cấu trúc bốn chữ 连A带B: cả… lẫn…, vừa… vừa…: 连说带笑 (vừa nói vừa cười), 连滚带爬 (vừa lăn vừa bò).
+442|Cấu trúc bốn chữ 时A时B: lúc… lúc…: 时长时短 (lúc dài lúc ngắn), 时好时坏 (lúc tốt lúc xấu).
+443|Cấu trúc bốn chữ 自A自B: tự mình… tự mình…: 自说自话 (tự nói tự làm), 自作自受 (tự làm tự chịu).
+444|巴不得: mong sao, ước gì, rất mong: 巴不得早点儿离开 (mong sao được rời đi sớm).
+445|别提了: đừng nhắc nữa, chẳng nói nổi, thể hiện cảm xúc mạnh: 别提了,我根本不认识那个人 (đừng nhắc nữa, tôi hoàn toàn không quen người đó).
+446|除此之外: ngoài ra, ngoài điều này: 除此之外,什么都没带 (ngoài ra không mang gì cả).
+447|归根到底: suy cho cùng, cuối cùng thì: 归根到底,成长是一种幸福.
+448|可不是: có chứ sao, đúng vậy, chứ còn gì nữa, đồng tình mạnh với lời người khác.
+449|没说的: không có gì để nói, quá tốt hoặc chắc chắn: 真是没说的 (thật là tuyệt hảo, không còn gì để nói).
+450|无论如何: dù thế nào đi nữa, nhất định: 无论如何,他没有别的选择.
+451|由此可见: từ đó có thể thấy, rút ra kết luận từ sự việc trước: 由此可见书法在中国教育中的重要地位.
+452|不知……好: không biết… thì tốt, diễn tả sự phân vân: 不知怎么办好 (không biết làm sao thì tốt). Liên quan: 与此同时 (đồng thời với việc này, cùng lúc đó).
+453|所谓……就是……: cái gọi là… chính là…, dùng để định nghĩa: 所谓成功,就是…. Liên quan: 这样一来 (như vậy thì, kết quả là).
+454|无非/不过/只不过/只是……而已/罢了: chẳng qua chỉ là…, chỉ là… thôi: 他无非想试试而已. Liên quan: 综上所述 (tổng hợp những điều đã nêu trên).
+455|以……为……: lấy… làm…, coi… là…: 以学习为主 (lấy học tập làm chính), 以他为榜样. Liên quan: 总的来说/总而言之 (nói chung, tóm lại).
+456|因……而……: vì… mà…, do… nên…: 因病而退休 (vì bệnh mà nghỉ hưu), 因此而高兴. Liên quan: 无非/不过/只不过/只是……而已/罢了.
+457|Tân ngữ loại 3: (1) tân ngữ cách thức, (2) tân ngữ công cụ (写毛笔: viết bút lông), (3) tân ngữ chất liệu, (4) tân ngữ mục đích: 存了个活期 (gửi tiết kiệm không kỳ hạn).
+458|Bổ ngữ mức độ 3: (1) tính từ/động từ+得+不行 (累得不行: mệt không chịu nổi); (2) tính từ/động từ+得+要命/要死 (疼得要命: đau muốn chết).
+459|Bổ ngữ trạng thái 3: bổ ngữ do 个 dẫn: 哭个不停 (khóc không ngừng), 说个没完 (nói không dứt), 玩个痛快 (chơi cho thật đã).
+460|Câu chữ 把 5 (nghĩa gây khiến, có 了): chủ ngữ + 把 + tân ngữ (chủ thể) + động từ + 了, diễn tả điều không mong muốn xảy ra với người nói: 把老公跑了 (để chồng bỏ đi mất).
+461|Câu bị động 5: (1) 被……所……, (2) 为……所……, kiểu văn viết trang trọng: 被他所欺骗 (bị anh ta lừa), 为人所知 (được người ta biết đến).
+462|Câu so sánh 6: (1) 比起……(来) (so với…), (2) A+tính từ+于+B (văn viết: 高于, 低于), (3) A+比+danh từ+还+danh từ (比石头还硬: cứng hơn cả đá).
+463|一面……,一面……: vừa… vừa…, hai động tác diễn ra cùng lúc: 一面听老师讲课,一面记笔记.
+464|……,此后……: …, sau đó…, kể từ đó…: 我们三年前见过一面,此后再也没有见过.
+465|起初……,……才……: lúc đầu…, sau đó mới…: 他起初没明白,后来才理解了规则.
+466|别说……,连……也/都……: chưa nói đến…, ngay cả… cũng…: 我现在穷得连饭都吃不起了,别说买新衣服了 (tôi nghèo đến cơm cũng không đủ ăn, chưa nói đến mua áo mới).
+467|……,况且……: …, vả lại…, hơn nữa…, đưa thêm lý do: 北京这么大,况且你又是第一次来,怎么能一下子找到我家呢?
+468|连……,更不用说……: đến… còn…, huống chi…: 连他都不会,更不用说我了 (anh ấy còn không biết, huống chi là tôi).
+469|……,乃至……: …, thậm chí…, mở rộng phạm vi: 脸色、眼神,乃至一举一动 (nét mặt, ánh mắt, thậm chí từng cử chỉ).
+470|……,且……: …, hơn nữa…, văn viết: 严谨而认真,且十分负责 (nghiêm cẩn, chăm chỉ, lại rất có trách nhiệm).
+471|……,甚至于……: …, thậm chí…, nhấn mạnh mức độ cao hơn: 不能忍受,甚至于一秒钟也受不了.
+472|或……,或……: hoặc… hoặc…, nêu các khả năng: 或大或小, 或多或少 (nhiều hay ít).
+473|宁可/宁愿……,也……: thà… cũng…, chọn cái chịu thiệt để không phải chọn điều tệ hơn: 宁可饿着肚子,也不吃垃圾食品.
+474|与其……,不如……: thà… chứ không…, nêu lựa chọn tốt hơn ở vế sau: 与其去爬山,不如在家看电视 (thay vì đi leo núi, chi bằng ở nhà xem tivi).
+475|与其……,宁可/宁愿……: thay vì… thà…, so sánh hai điều không tốt và chọn cái chịu được: 与其跟他一组,我宁愿一个人做.
+476|……,而……(则)……: …, còn…, dùng để đối chiếu: 北方人过春节吃饺子,而南方人则吃汤圆 (người miền Bắc ăn sủi cảo dịp Tết, còn người miền Nam ăn bánh trôi).
+477|……,……倒/反倒……: …, nhưng ngược lại…, bất ngờ: 我好心劝他,他倒怪我 (tôi có lòng tốt khuyên anh ấy, anh ấy ngược lại trách tôi).
+478|倘若/若……,……: nếu như…, giả sử…, văn viết, trang trọng hơn 如果: 倘若你能解决,就一定会成功.
+479|倘若/假设/假使/若……,就/那(么)……: nếu…, giả sử… thì…: 假使一切能重新开始,那么我绝不会选择这条路.
+480|幸亏……,要不然/不然/要不/否则……: may mà…, nếu không thì…: 幸亏你提醒我,要不然我就忘了 (may mà bạn nhắc, không thì tôi quên rồi).
+481|别管……,都……: bất kể…, đều…, khẩu ngữ, tương đương 不管: 别管天气怎么样,我都去.
+482|任……,也……: mặc cho…, dù…, cũng…: 任他们怎么推,也推不动 (dù họ đẩy thế nào cũng không đẩy được).
+483|(因)……,故……: (vì)… nên…, văn viết: 因不是体面的事,故不敢说出来 (vì không phải chuyện hay ho nên không dám nói).
+484|鉴于……,……: xét thấy…, căn cứ vào…, dùng trong văn bản chính thức: 鉴于他的表现良好,学校决定允许他回来.
+485|(由于)……,以致……: do… nên dẫn đến…, thường cho kết quả không tốt: 睡过头了,以致错过了第一节课 (ngủ quên nên lỡ tiết đầu).
+486|……,以至于……: …, đến nỗi…, kết quả của mức độ cao: 事情发展得太快,以至于大家都难以反应 (sự việc diễn ra quá nhanh đến nỗi mọi người không kịp phản ứng).
+487|之所以……,是因为/是由于……: sở dĩ… là vì…: 这部电影之所以好看,是因为内容有趣.
+488|固然……,也……: đành rằng… nhưng cũng…, thừa nhận một điều rồi bổ sung: 他的话固然给我安慰,也使我难过.
+489|……固然……,但是/可是/不过……: … thì đúng là… nhưng…: 聪明固然重要,但是努力更重要 (thông minh quả thật quan trọng nhưng nỗ lực còn quan trọng hơn).
+490|即便……,也……: cho dù… cũng…, giống 即使 nhưng văn viết: 即便成绩好,也不能骄傲.
+491|虽说……,但是/可是/不过……: tuy nói là… nhưng…, khẩu ngữ hơn 虽然: 虽说中文很难,可是它很有趣.
+492|纵然……,也……: cho dù…, dù… cũng…: 意见纵然不一致,也应当互相理解.
+493|……,以……: …, nhằm…, để…, nêu mục đích (văn viết): 命名这条街,以纪念战士 (đặt tên con đường này để tưởng nhớ các chiến sĩ).
+494|……,以免/免得……: …, để khỏi…, kẻo…: 看好东西,以免丢失 (trông đồ cho kỹ kẻo bị mất).
+495|……,也就是说……: …, nói cách khác…, tức là…: 这是我的决定,也就是说不关你的事.
+496|(要+)动词+就+动词+个+补语: muốn thì cứ… cho thật…: 要玩儿就玩儿个痛快 (đã chơi thì chơi cho thỏa), 喝就喝个够.
+497|动词(+tân ngữ 1)+就+động từ (+tân ngữ 1),别……: đã làm thì làm cho ra, đừng…: 吃就吃饱,别剩下 (ăn thì ăn no, đừng bỏ thừa).
+498|Câu phức ba tầng trở lên: gồm nhiều tầng quan hệ lồng nhau, thường dùng trong văn nghị luận, ví dụ có nhiều vế nguyên nhân, kết quả, chuyển ý nối tiếp.
+499|Câu hỏi tu từ 3: 何必……呢 / 何苦……呢: cần gì phải…, hà tất…: 何必这么着急呢? (hà tất phải vội thế).
+500|(不过/但/可是)话又说回来,……: nhưng nói đi thì cũng phải nói lại…, chuyển ý để cân nhắc mặt khác: 话又说回来,不能因为生病就失去希望.
+501|X(也)不是,不X也不是: làm X cũng không phải, không làm cũng không xong, tả cảnh khó xử: 走也不是,不走也不是 (đi không được mà ở cũng không xong).
+502|X也好/也罢,Y也好/也罢: dù X hay Y, cũng…: 去也好,不去也好 (đi cũng được, không đi cũng được), 快乐也好,伤心也好.
+503|X了又Y,Y了又X: X rồi lại Y, Y rồi lại X, hành động lặp đi lặp lại: 装了又拆,拆了又装 (lắp rồi tháo, tháo rồi lắp), 写了又擦.
+504|X也X不……,Y也Y不……: X cũng không… Y cũng không…, tả bế tắc: 吃也吃不下,睡也睡不着 (ăn cũng không nổi, ngủ cũng không được).
+505|别提(有)多X了: khỏi phải nói… đến mức nào, cực kỳ…: 别提多好看了 (đẹp không tả nổi), 别提有多兴奋了.
+506|不知X的: không biết sao mà…, chẳng hiểu vì sao…: 不知怎么的 (không hiểu sao), 不知谁说的 (không biết ai nói).
+507|话(说)是这么说,不过/可/可是……: nói thì nói vậy nhưng…, thừa nhận một điều rồi nêu chuyển ý: 话是这么说,不过她还是不习惯.
+508|看/瞧你那(X)样: nhìn cái bộ dạng của bạn kìa, giọng chê hoặc trêu: 看你那伤心样 (nhìn cái vẻ buồn của bạn kìa), 瞧你那得意样.
+509|看在X的面子上: nể mặt X: 看在她的面子上才答应的 (vì nể mặt cô ấy mới đồng ý).
+510|哪有X这么Y的 / 有X这样Y的吗: làm gì có ai… như bạn, giọng trách: 哪有你这么过分的? (làm gì có ai quá đáng như bạn?)
+511|什么X的Y的: gì mà X với Y, nói không cần phân biệt: 什么你的我的 (cái gì mà của bạn của tôi), 什么好的坏的.
+512|说到/想到哪儿去了: nói/nghĩ đi đâu thế, dùng để phản bác hiểu lầm: 你想到哪儿去了! (bạn nghĩ đi đâu thế!)
+513|无所谓X不X: không quan trọng X hay không X: 无所谓贵不贵 (đắt hay không không quan trọng), 无所谓好看不好看.
+514|要X有/没X,要Y有/没Y: muốn X thì có/không có X, muốn Y thì có/không có Y: 要成绩有成绩,要形象有形象 (muốn thành tích có thành tích, muốn hình ảnh có hình ảnh).
+515|Câu nhóm có từ liên kết: các câu trong đoạn liên kết bằng các từ nối như 除了…, 还…; 因此, 然而…
+516|Câu nhóm không có từ liên kết: ý nối nhau bằng trình tự, ngữ cảnh hoặc câu lặp song song: 草绿了,花开了,河面上的冰雪也开始融化了.
+517|Phân loại theo ý nghĩa — quan hệ liên hợp: nhóm câu song song, nối tiếp, tăng tiến, lựa chọn, giải thích, tổng kết.
+518|Phân loại theo ý nghĩa — quan hệ chính phụ: nhóm câu điều kiện, nhân quả, mục đích, chuyển ý, giả thiết, nhượng bộ.
+519|Phó từ mức độ 极为 nghĩa là vô cùng, hết sức (văn viết): 极为重要 (hết sức quan trọng).
+520|Phó từ 尽 (mức độ): hết mức, cực kỳ: 尽快 (nhanh nhất có thể), 尽可能 (hết sức có thể).
+521|Phó từ 蛮 nghĩa là khá, rất (khẩu ngữ): 蛮好的 (khá tốt), 蛮有意思.
+522|Phó từ 颇 nghĩa là khá, tương đối (văn viết): 颇有才华 (khá có tài), 颇为感动.
+523|Phó từ 稍稍 nghĩa là hơi, một chút: 稍稍休息一下 (nghỉ một chút).
+524|Phó từ 尤为 nghĩa là đặc biệt là, càng là: 尤为重要 (đặc biệt quan trọng).
+525|Phó từ 越发 nghĩa là càng thêm, ngày càng: 天气越发冷了 (thời tiết càng lạnh hơn).
+526|……,何况……: …, huống chi…, huống hồ…: 大人都做不到,何况孩子呢? (người lớn còn làm không được huống chi trẻ con).
+527|……,进而……: …, rồi tiếp đó…, tiến thêm một bước: 了解情况,进而提出办法 (nắm tình hình rồi đề ra biện pháp).
+528|Phó từ 凡 nghĩa là hễ là, tất cả những gì (văn viết): 凡是… (hễ là…).
+529|Phó từ 皆 nghĩa là đều, cả (văn viết): 人人皆知 (ai cũng biết), 皆大欢喜 (mọi người đều vui).
+530|Phó từ 统统 nghĩa là tất cả, toàn bộ (khẩu ngữ): 统统都带走 (mang đi hết).
+531|Phó từ 唯独 nghĩa là chỉ riêng, duy chỉ: 大家都来了,唯独他没来 (mọi người đều đến, chỉ riêng anh ấy không đến).
+532|Phó từ 不由得 nghĩa là không kìm được, bất giác: 不由得笑了起来 (không nhịn được cười).
+533|Phó từ 一连 nghĩa là liên tiếp, liền: 一连下了三天雨 (mưa liền ba ngày).
+534|Phó từ 顺便 nghĩa là tiện thể: 顺便买点水果 (tiện thể mua ít trái cây).
+535|Phó từ phủ định 未 (văn viết) nghĩa là chưa, không: 尚未 (vẫn chưa), 未必 (chưa chắc).
+536|Phó từ phủ định 勿 (văn viết) nghĩa là đừng, chớ: 请勿吸烟 (xin đừng hút thuốc).
+537|Phó từ 频频 nghĩa là liên tục, nhiều lần: 频频点头 (gật đầu liên tục).
+538|Phó từ 再度 nghĩa là lần nữa, một lần nữa (văn viết): 再度发生 (lại xảy ra).
+539|与此同时: đồng thời với việc này, cùng lúc đó, nối hai sự việc xảy ra song song.
+540|这样一来: như vậy thì, thế là, nêu kết quả từ việc vừa nói: 这样一来,问题就解决了.
+541|综上所述: tổng hợp những điều nói trên, mở đầu phần kết luận trong văn bản.
+542|总的来说 / 总而言之: nói chung, tóm lại, mở đầu câu kết luận.
+543|Phó từ 必定 nghĩa là nhất định, chắc chắn: 他必定会来 (anh ấy nhất định sẽ đến).
+544|Phó từ 不妨 nghĩa là cứ thử, không ngại: 你不妨试试 (bạn cứ thử xem), ngụ ý đề nghị nhẹ nhàng.
+545|Phó từ 何必 nghĩa là hà tất, cần gì: 何必这么着急 (hà tất phải vội như vậy).
+546|Phó từ 莫非 nghĩa là chẳng lẽ, phải chăng, dùng trong câu hỏi phỏng đoán: 莫非他生病了? (chẳng lẽ anh ấy bị bệnh?)
+547|Phó từ 按说 nghĩa là theo lý mà nói: 按说他早该到了 (theo lý thì anh ấy phải đến từ lâu rồi).
+548|Phó từ 即 (văn viết) nghĩa là liền, tức là: 即将 (sắp), 即刻 (ngay lập tức), 即是 (chính là).
+549|Phó từ 历来 nghĩa là từ trước đến nay, xưa nay: 历来如此 (xưa nay vẫn vậy).
+550|Phó từ 尚 (văn viết) nghĩa là vẫn còn, chưa: 尚未完成 (vẫn chưa hoàn thành).
+551|Phó từ 向来 nghĩa là xưa nay, luôn luôn: 他向来很守时 (anh ấy xưa nay rất đúng giờ).
+552|Giới từ 当着 nghĩa là ngay trước mặt: 当着大家的面 (ngay trước mặt mọi người).
+553|Giới từ 就 (loại 5) nghĩa là về, đối với: 就这个问题 (về vấn đề này), 就此而言 (xét về điều này).
+554|Giới từ 趁 nghĩa là nhân lúc, tranh thủ: 趁热吃 (ăn nóng đi), 趁年轻 (tranh thủ lúc còn trẻ).
+555|Giới từ 基于 nghĩa là dựa trên, căn cứ vào: 基于这个原因 (dựa vào lý do này).
+556|Giới từ 依 (văn viết) nghĩa là theo, dựa theo: 依法办事 (làm việc theo pháp luật).
+557|Phó từ 白白 nghĩa là uổng công, vô ích: 白白浪费 (lãng phí vô ích).
+558|Phó từ 反倒 nghĩa là ngược lại, trái lại: 越劝他反倒越生气 (càng khuyên anh ấy ngược lại càng giận).
+559|Phó từ 分明 nghĩa là rõ ràng là, rành rành: 分明是你的错 (rõ ràng là lỗi của bạn).
+560|Phó từ 怪不得 nghĩa là chả trách, thảo nào: 怪不得他不高兴 (thảo nào anh ấy không vui).
+561|Phó từ 好在 nghĩa là may mà, may ở chỗ: 好在人没事 (may mà người không sao).
+562|Phó từ 乃 (văn viết) nghĩa là là, chính là: 乃是 (chính là).
+563|Phó từ 难怪 nghĩa là chả trách, thảo nào: 难怪他这么累 (thảo nào anh ấy mệt vậy).
+564|Phó từ 偏偏 nghĩa là cứ khăng khăng, lại cứ, đúng lúc oái oăm: 偏偏今天下雨 (đúng hôm nay lại mưa).
+565|Phó từ 索性 nghĩa là dứt khoát, cứ: 索性不去了 (dứt khoát không đi nữa).
+566|Phó từ 万万 nghĩa là tuyệt đối, hoàn toàn (thường đi với phủ định): 万万没想到 (hoàn toàn không ngờ), 万万不可 (tuyệt đối không được).
+567|Phó từ 未免 nghĩa là hơi quá, khó tránh khỏi: 未免太贵了 (hơi đắt quá).
+568|Phó từ 无非 nghĩa là chẳng qua là, chỉ là: 无非是想多赚点钱 (chẳng qua là muốn kiếm thêm tiền).
+569|Phó từ 幸好 nghĩa là may mà, may là: 幸好带了伞 (may mà mang ô).
+570|Phó từ 幸亏 nghĩa là may mà, nhờ có: 幸亏你来了 (may mà bạn đến).
+571|Phó từ 终究 nghĩa là rốt cuộc, cuối cùng vẫn: 终究是孩子 (rốt cuộc vẫn là trẻ con).
+572|Trợ từ ngữ khí 而已 nghĩa là mà thôi, thế thôi: 只是说说而已 (chỉ là nói vậy thôi).
+573|Trợ từ ngữ khí 矣 (văn ngôn) biểu thị đã hoàn thành hoặc cảm thán: 悔之晚矣 (hối hận đã muộn rồi).

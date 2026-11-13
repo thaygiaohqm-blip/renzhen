@@ -1,0 +1,1273 @@
+# Hán Việt|nghĩa tiếng Việt cho các chữ HSK 3.0 chưa có trong Super Kanji. Định dạng: chữ|HÁN VIỆT|nghĩa (dùng — nếu không có âm Hán Việt thông dụng)
+爸|BÁ|Bố, ba (cha)
+吧|BA|Trợ từ cuối câu (nhé, đi); quán bar
+帮|BANG|Giúp đỡ; nhóm, băng
+边|BIÊN|Bên cạnh; biên, rìa
+穿|XUYÊN|Mặc, xỏ; xuyên qua
+从|TÒNG|Từ; theo; đi theo
+蛋|ĐẢN|Trứng
+读|ĐỘC|Đọc; học
+对|ĐỐI|Đúng; đối diện; với
+儿|NHI|Con; trẻ nhỏ; hậu tố âm “r”
+哥|CA|Anh trai
+跟|CÂN|Gót chân; theo; cùng với
+关|QUAN|Đóng; liên quan; cửa ải
+孩|HÀI|Trẻ con
+很|NGẬN|Rất; hết sức
+坏|HOẠI|Xấu; hỏng; phá hỏng
+欢|HOAN|Vui mừng; thích
+鸡|KÊ|Con gà
+假|GIẢ|Giả; nghỉ phép (kỳ nghỉ)
+觉|GIÁC|Cảm thấy; giấc ngủ; nhận ra
+姐|TỶ|Chị gái
+净|TỊNH|Sạch; thuần; chỉ toàn
+渴|KHÁT|Khát
+两|LƯỠNG|Hai; cặp; lạng
+妈|MA|Mẹ (má)
+吗|MA|Trợ từ nghi vấn (… không?)
+么|MA|Hậu tố trong 什么, 怎么; nhỏ bé
+们|MÔN|Hậu tố số nhiều (chúng, các)
+拿|NÃ|Cầm, lấy; nắm
+哪|NA|Nào; đâu
+奶|NÃI|Sữa; bà; vú
+脑|NÃO|Não; đầu óc
+呢|NI|Trợ từ nghi vấn/nhấn mạnh (… thì sao?)
+你|NHĨ|Bạn, anh, chị (ngôi thứ hai)
+您|NÂM|Ngài, ông/bà (ngôi hai kính trọng)
+旁|BÀNG|Bên cạnh; khác
+跑|BÀO|Chạy; bỏ chạy
+朋|BẰNG|Bạn bè
+气|KHÍ|Khí; hơi; không khí; tức giận
+钱|TIỀN|Tiền; họ Tiền
+什|THẬP|Gì (什么); mười (thập)
+说|THUYẾT|Nói; thuyết
+岁|TUẾ|Tuổi; năm
+她|THA|Cô ấy; chị ấy (ngôi ba, nữ)
+听|THÍNH|Nghe
+图|ĐỒ|Hình; bản đồ; mưu toan
+晚|VÃN|Tối; muộn
+些|TA|Một ít; những (một vài)
+样|DẠNG|Dạng, kiểu; mẫu
+爷|GIA|Ông nội; ông chủ
+也|DÃ|Cũng
+页|HIỆT|Trang (sách)
+怎|CHẨM|Thế nào; sao
+站|TRẠM|Đứng; trạm, ga
+找|—|Tìm; trả lại (tiền thừa)
+这|GIÁ|Này; đây
+桌|TRÁC|Cái bàn
+坐|TỌA|Ngồi; đi (xe)
+做|TÁC|Làm; chế tạo
+啊|A|Trợ từ cảm thán (à, ôi, nhé)
+办|BIỆN|Làm; xử lý; lo liệu
+变|BIẾN|Thay đổi; biến thành
+餐|XAN|Ăn; bữa ăn
+查|TRA|Kiểm tra; tra cứu
+晨|THẦN|Sáng sớm
+楚|SỞ|Rõ ràng (清楚); nước Sở; đau khổ
+处|XỨ|Nơi chốn; xử lý; đối xử
+带|ĐỚI|Mang theo; dây đai; dẫn
+单|ĐƠN|Đơn; lẻ; tờ phiếu
+掉|ĐIỆU|Rơi; mất; (làm xong)
+懂|ĐỔNG|Hiểu, biết
+而|NHI|Mà; và; nhưng
+发|PHÁT|Phát; gửi; phát ra; tóc
+份|PHẬN|Phần; suất (lượng từ)
+狗|CẨU|Con chó
+够|CẤU|Đủ; với tới
+观|QUAN|Xem; quan sát; quan điểm
+广|QUẢNG|Rộng; rộng rãi
+喊|HÁM|Hét; gọi to
+黑|HẮC|Đen; tối
+忽|HỐT|Bỗng nhiên; coi nhẹ
+划|HOẠCH|Chèo; vạch; kế hoạch
+或|HOẶC|Hoặc
+检|KIỂM|Kiểm tra
+饺|GIẢO|Sủi cảo
+经|KINH|Kinh; đi qua; kinh nghiệm; kinh doanh
+睛|TINH|Con ngươi; mắt (眼睛)
+举|CỬ|Nâng lên; đề cử; nêu ra
+卡|—|Thẻ (card); ca-lo; kẹt
+靠|KHÁO|Dựa vào; gần; tin cậy
+哭|KHỐC|Khóc
+筷|KHOÁI|Đũa
+篮|LAM|Cái giỏ; rổ (bóng rổ)
+乐|LẠC|Vui; nhạc
+脸|LIỄM|Mặt; thể diện
+亮|LƯỢNG|Sáng; rõ ràng
+辆|LƯỢNG|Chiếc (lượng từ xe cộ)
+绿|LỤC|Màu xanh lá; lục
+卖|MẠI|Bán
+满|MÃN|Đầy; thỏa mãn
+爬|BÀ|Bò; leo trèo
+怕|PHẠ|Sợ; e rằng
+碰|BÀNH|Va, chạm; gặp phải
+篇|THIÊN|Bài; thiên (bài văn)
+其|KỲ|Của nó; ấy; những (其他)
+墙|TƯỜNG|Tường
+轻|KHINH|Nhẹ; khẽ; coi nhẹ
+让|NHƯỢNG|Nhường; để cho; bảo
+实|THỰC|Thật; thực
+收|THU|Thu; nhận; cất
+舒|THƯ|Thư thái; dễ chịu
+虽|TUY|Tuy; mặc dù
+它|THA|Nó (chỉ vật)
+套|SÀO|Bộ; lớp bọc; (lượng từ)
+疼|ĐÔNG|Đau; thương
+铁|THIẾT|Sắt; vững chắc
+挺|ĐĨNH|Khá, rất; ưỡn thẳng; chịu đựng
+腿|THOÁI|Chân; đùi
+碗|OẢN|Cái bát
+喂|ÚY|Alô; này; cho ăn
+鞋|HÀI|Giày; dép
+颜|NHAN|Màu sắc; mặt; nhan sắc
+药|DƯỢC|Thuốc
+已|DĨ|Đã
+应|ỨNG|Nên; đáp ứng
+于|VU|Ở, tại; đến; so với
+咱|—|Chúng ta (gồm cả người nghe)
+脏|TÀNG|Bẩn
+澡|TẢO|Tắm
+只|CHỈ|Chỉ; chỉ có; (lượng từ: con, chiếc)
+嘴|—|Miệng; mồm
+按|ÁN|Ấn, bấm; theo; dựa theo
+播|BÁ|Gieo; truyền phát
+步|BỘ|Bước đi; bộ
+曾|TẰNG|Từng; đã từng
+产|SẢN|Sinh; sản xuất; sản phẩm
+厂|XƯỞNG|Nhà máy, xưởng
+吵|SAO|Cãi nhau; ồn ào
+衬|THẤN|Lót; làm nền; áo lót
+传|TRUYỀN|Truyền; lan truyền
+此|THỬ|Này; đây
+啡|PHI|Chữ trong 咖啡 (cà phê)
+丰|PHONG|Phong phú; dồi dào
+赶|CẢN|Đuổi theo; vội; kịp
+姑|CÔ|Cô; dì; tạm thời
+哈|HÀ|Ha (cười); há miệng
+济|TẾ|Giúp đỡ; (经济: kinh tế)
+继|KẾ|Tiếp tục; kế thừa
+价|GIÁ|Giá cả; giá trị
+蕉|TIÊU|Chuối (香蕉)
+绝|TUYỆT|Tuyệt; cắt đứt; hết
+咖|CA|Chữ trong 咖啡 (cà phê)
+裤|KHỐ|Quần
+李|LÝ|Cây mận; hành lý; họ Lý
+历|LỊCH|Lịch; trải qua
+联|LIÊN|Liên kết; liên hợp
+另|LÃNH|Khác; riêng; ngoài ra
+录|LỤC|Ghi chép; ghi âm
+每|MỖI|Mỗi; từng
+牌|BÀI|Thẻ bài; bảng hiệu; nhãn hiệu
+胖|—|Mập, béo
+啤|TỲ|Bia (啤酒)
+苹|BÌNH|Táo (苹果)
+齐|TỀ|Đều; đầy đủ; ngang bằng
+缺|KHUYẾT|Thiếu; khuyết
+裙|QUẦN|Váy
+仍|NHƯNG|Vẫn; vẫn còn
+赛|TÁI|Thi đấu; cuộc thi
+衫|SAM|Áo sơ mi; áo
+甜|ĐIỀM|Ngọt
+团|ĐOÀN|Đoàn; nhóm; viên tròn
+围|VI|Vây quanh; xung quanh
+戏|HÍ|Kịch; trò; đùa
+显|HIỂN|Hiện rõ; hiển thị
+险|HIỂM|Nguy hiểm; hiểm trở
+乡|HƯƠNG|Quê; làng; nông thôn
+效|HIỆU|Hiệu quả; noi theo
+续|TỤC|Tiếp tục
+压|ÁP|Ép; áp lực
+验|NGHIỆM|Kiểm nghiệm; thử
+艺|NGHỆ|Nghệ thuật; tài nghệ
+营|DOANH|Kinh doanh; doanh trại
+赢|DOANH|Thắng; được lãi
+杂|TẠP|Lẫn lộn; tạp; nhiều loại
+增|TĂNG|Tăng; thêm
+证|CHỨNG|Chứng; chứng minh; giấy chứng nhận
+值|TRỊ|Giá trị; đáng; trực
+抓|TRẢO|Nắm; bắt; túm
+专|CHUYÊN|Chuyên; chuyên môn
+转|CHUYỂN|Chuyển; quay; xoay
+总|TỔNG|Tổng; luôn luôn; tổng hợp
+阿|A|Tiền tố thân mật (阿姨); dựa dẫm
+矮|ẢI|Thấp; lùn
+巴|BA|Mong mỏi; dính sát; (phiên âm: 巴黎 Pa-ri)
+摆|BÃI|Bày, sắp xếp; con lắc; lắc
+笨|BẢN|Ngốc; vụng về
+毕|TẤT|Xong; kết thúc; tốt nghiệp
+辩|BIỆN|Tranh luận; biện luận
+冰|BĂNG|Băng; nước đá; lạnh
+沉|TRẦM|Chìm; nặng; trầm
+迟|TRÌ|Muộn; chậm
+窗|SONG|Cửa sổ
+递|ĐỆ|Đưa; chuyển; trao
+堵|ĐỔ|Chặn; tắc (堵车)
+肚|ĐỖ|Bụng; dạ dày
+恶|ÁC|Xấu ác; (恶心: buồn nôn)
+瓜|QUA|Dưa; bầu bí
+逛|—|Dạo; đi chơi; ngao du
+归|QUY|Về; trở về; quy
+裹|QUẢ|Bọc, gói
+毫|HÀO|Sợi lông; chút nào; mi-li (毫米)
+乎|HỒ|Trợ từ (văn viết); (几乎: gần như)
+户|HỘ|Cửa; hộ gia đình; tài khoản
+怀|HOÀI|Ôm ấp; nhớ; mang thai
+汇|HỐI|Tụ họp; chuyển tiền
+伙|HỎA|Nhóm; đồng bọn; (伙伴)
+圾|—|Chữ trong 垃圾 (rác)
+奖|TƯỞNG|Giải thưởng; khen thưởng
+劲|KÌNH|Sức lực; hăng hái
+竟|CẢNH|Lại; rốt cuộc; hóa ra
+聚|TỤ|Tụ họp
+卷|QUYỂN|Cuộn; quyển; bài thi
+棵|KHỎA|Cây (lượng từ cho cây)
+宽|KHOAN|Rộng; khoan dung
+矿|KHOÁNG|Mỏ; khoáng sản
+扩|KHUẾCH|Mở rộng
+垃|—|Chữ trong 垃圾 (rác)
+泪|LỆ|Nước mắt
+俩|LƯỠNG|Hai người; vài
+炼|LUYỆN|Luyện; tôi luyện
+聊|LIÊU|Trò chuyện; tạm
+码|MÃ|Mã; số; (码头)
+摸|MÔ|Sờ, mò
+默|MẶC|Im lặng; thầm
+闹|NÁO|Ồn ào; náo nhiệt; gây rối
+趋|XU|Chạy nhanh; hướng tới; xu hướng
+圈|KHUYÊN|Vòng; khoanh tròn
+权|QUYỀN|Quyền; quyền lực
+晒|SÁI|Phơi nắng
+闪|THIỂM|Lóe sáng; né tránh; (闪电)
+烧|THIÊU|Đốt cháy; nấu; sốt
+释|THÍCH|Giải thích; thả ra; giải phóng
+售|THỤ|Bán
+躺|—|Nằm
+梯|THANG|Cái thang; cầu thang
+袜|VỊ|Tất, vớ
+弯|LOAN|Cong; uốn khúc; chỗ rẽ
+谓|VỊ|Gọi là; nói; (所谓)
+稳|ỔN|Vững; ổn định
+咸|HÀM|Mặn; đều, tất cả
+县|HUYỆN|Huyện
+销|TIÊU|Bán ra; tiêu hủy; tiêu thụ
+亚|Á|Châu Á; thứ hai; phụ
+呀|NHA|Trợ từ cảm thán (ôi, nhé)
+严|NGHIÊM|Nghiêm; chặt chẽ; khắt khe
+盐|DIÊM|Muối
+摇|DAO|Lắc; rung; vẫy
+姨|DI|Dì
+译|DỊCH|Dịch; phiên dịch
+圆|VIÊN|Tròn; viên mãn; (đồng) tệ
+阅|DUYỆT|Đọc; duyệt; kiểm tra
+赞|TÁN|Khen; tán thành; ủng hộ
+择|TRẠCH|Chọn
+战|CHIẾN|Chiến tranh; đánh; run
+之|CHI|Của; đại từ văn viết
+址|CHỈ|Địa chỉ; nền; nơi
+智|TRÍ|Trí tuệ; thông minh
+综|TỔNG|Tổng hợp; (综合)
+碍|NGẠI|Cản trở; (妨碍, 障碍)
+拔|BẠT|Nhổ; rút ra; nâng cao
+拜|BÁI|Lạy; chúc; thăm; (礼拜)
+扮|BAN|Hóa trang; đóng vai
+玻|BA|Chữ trong 玻璃 (thủy tinh)
+猜|SAI|Đoán
+叉|XOA|Cái nĩa; chạc; gạch chéo
+插|SÁP|Cắm; chen vào
+拆|SÁCH|Tháo; dỡ; mở ra
+柴|SÀI|Củi
+尝|THƯỜNG|Nếm; thử
+倡|XƯỚNG|Đề xướng; (提倡)
+乘|THỪA|Đi (xe); nhân (toán); thừa lúc
+厨|TRÙ|Nhà bếp; đầu bếp
+闯|SẤM|Xông vào; lao vào
+聪|THÔNG|Thông minh
+脆|THUÝ|Giòn; giòn giã; dứt khoát
+呆|ĐẦN|Ngây ngốc; ở lại
+弹|ĐÀN|Đàn; bật; bắn; đạn
+挡|ĐẢNG|Chặn; che chắn
+德|ĐỨC|Đạo đức; nước Đức
+丢|—|Mất; vứt; làm rơi
+吨|—|Tấn (đơn vị khối lượng)
+朵|ĐÓA|Đóa; đám (hoa, mây)
+躲|ĐÓA|Trốn; né tránh
+尔|NHĨ|Ngươi; ấy; vậy (văn cổ)
+泛|PHIẾM|Nổi; tràn; chung chung
+仿|PHỎNG|Phỏng theo; bắt chước
+疯|PHONG|Điên
+辅|PHỤ|Phụ giúp; (辅导)
+傅|PHÓ|Thầy; (师傅)
+糕|CAO|Bánh (糕点)
+搞|CẢO|Làm; xoay xở; gây ra
+估|CỔ|Ước đoán; đánh giá
+柜|QUỸ|Tủ; quầy
+滚|CỔN|Lăn; cút; sôi
+盒|HẠP|Hộp
+猴|HẦU|Khỉ
+胡|HỒ|Râu; tùy tiện; họ Hồ
+糊|HỒ|Hồ dán; nhòe; mờ (糊涂)
+恢|KHÔI|Khôi phục; rộng lớn
+惠|HUỆ|Ân huệ; ưu đãi
+击|KÍCH|Đánh; tấn công; đập
+辑|TẬP|Biên tập; (编辑)
+挤|TỀ|Chen chúc; ép; chật
+夹|GIÁP|Kẹp; xen; cặp
+驾|GIÁ|Lái; cưỡi; ngự giá
+艰|GIAN|Gian khổ; khó
+剪|TIỄN|Cắt; cái kéo
+胶|GIAO|Keo; nhựa; cao su
+俱|CÂU|Cùng; đều (俱乐部)
+烤|KHẢO|Nướng; sưởi
+颗|KHOA|Hạt, viên (lượng từ)
+咳|KHÁI|Ho
+亏|KHUY|Thiếu; lỗ; may mà
+览|LÃM|Xem; (展览, 浏览)
+烂|LẠN|Nát; thối; nhừ
+劳|LAO|Lao động; vất vả
+厉|LỆ|Nghiêm khắc; dữ dội; (厉害)
+怜|LIÊN|Thương; (可怜)
+帘|LIÊM|Rèm
+邻|LÂN|Láng giềng; bên cạnh
+龄|LINH|Tuổi; số năm
+逻|LA|Tuần tra; (逻辑: logic)
+煤|MAI|Than đá
+脾|TỲ|Lá lách; tính khí
+骗|PHIẾN|Lừa; gạt
+拼|BINH|Ghép; liều; tranh giành
+凭|BẰNG|Dựa vào; bằng chứng
+泼|BÁT|Hắt, tạt; ngang ngược
+葡|BỒ|Nho (葡萄); Bồ Đào Nha
+签|THIÊM|Ký tên; thẻ, que (xăm)
+枪|THƯƠNG|Súng; giáo
+抢|THƯỚNG|Cướp; giành; tranh nhau
+悄|TIỂU|Lặng lẽ; khẽ
+敲|XAO|Gõ; đập
+瞧|TIỀU|Nhìn; xem
+劝|KHUYẾN|Khuyên
+扰|NHIỄU|Quấy rầy; làm phiền
+绕|NHIỄU|Vòng quanh; quấn; đi vòng
+扔|NHẶNG|Ném; vứt
+荣|VINH|Vinh quang; thịnh vượng
+绒|NHUNG|Nhung; lông tơ
+洒|SÁI|Rưới, vẩy; đổ
+傻|—|Ngốc; ngờ nghệch
+稍|SAO|Hơi, một chút; chút ít
+舍|XÁ|Nhà; ký túc xá; bỏ; (舍不得)
+摄|NHIẾP|Chụp; thu hút; (摄影)
+剩|THẶNG|Thừa; còn lại
+驶|SỬ|Lái; chạy nhanh
+瘦|SẦU|Gầy; nạc
+蔬|SƠ|Rau (蔬菜)
+鼠|THỬ|Chuột
+摔|—|Ngã; quăng; làm vỡ
+硕|THẠCH|To lớn; (硕士: thạc sĩ)
+搜|SƯU|Tìm kiếm; lục soát
+肃|TÚC|Nghiêm; (严肃)
+碎|TOÁI|Vỡ vụn; nát
+抬|ĐÀI|Nâng; khiêng
+坦|THẢN|Bằng phẳng; thẳng thắn
+萄|ĐÀO|Chữ trong 葡萄 (nho)
+厅|SẢNH|Phòng lớn; sảnh
+偷|THÂU|Ăn trộm; lén
+兔|THỐ|Thỏ
+卧|NGỌA|Nằm; (卧室)
+污|Ô|Bẩn; ô nhiễm
+悉|TẤT|Biết rõ; (熟悉)
+闲|NHÀN|Nhàn rỗi
+歇|HIẾT|Nghỉ; ngừng
+欣|HÂN|Vui mừng
+询|TUẤN|Hỏi; hỏi han (询问)
+厌|YẾM|Chán; ghét
+艳|DIỄM|Rực rỡ; diễm lệ
+邀|YÊU|Mời; mời gọi
+咬|GIAO|Cắn
+谊|NGHỊ|Tình nghĩa (友谊)
+尤|VƯU|Đặc biệt; nhất là
+豫|DỰ|Do dự; (犹豫); tỉnh Hà Nam
+仔|TỬ|Kỹ càng; (仔细)
+糟|TAO|Hỏng; bã; (糟糕)
+涨|TRƯỚNG|Dâng; tăng (giá)
+挣|TRÁNH|Giành lấy; kiếm (tiền); vùng vẫy
+撞|TRÁNG|Đâm vào; va đập
+醉|TUÝ|Say
+榜|BẢNG|Bảng; bảng yết thị
+逼|BỨC|Ép buộc; sát lại gần
+扁|BIỂN|Dẹt, bẹp
+拨|BÁT|Gạt; gọi (điện); phân bổ
+踩|THÁI|Giẫm; đạp
+藏|TÀNG|Giấu; cất; kho
+厕|XÍ|Nhà vệ sinh (厕所)
+昌|XƯƠNG|Thịnh vượng
+畅|SẢNG|Thông suốt; thỏa thích
+撑|SANH|Chống đỡ; căng ra
+宠|SỦNG|Cưng chiều; sủng
+储|TRỮ|Cất trữ; tích trữ
+醋|THỐ|Giấm; ghen
+档|ĐẢNG|Hồ sơ; hạng; ngăn
+蹈|ĐẠO|Giẫm; nhảy múa (舞蹈)
+吊|ĐIẾU|Treo; điếu (viếng)
+跌|ĐIỆT|Ngã; sụt giảm
+蹲|TÔN|Ngồi xổm
+废|PHẾ|Bỏ; phế; hỏng
+氛|PHÂN|Không khí; (气氛)
+锋|PHONG|Mũi nhọn; mũi dùi
+佛|PHẬT|Phật
+杆|CÁN|Cán; cây gậy; cột
+岗|CƯƠNG|Gò; vị trí gác; chức vụ
+巩|CỦNG|Củng cố
+刮|QUA|Cạo; gió thổi
+跪|QUỴ|Quỳ
+狠|NGẠ|Tàn nhẫn; quyết tâm
+宏|HOÀNH|To lớn; hùng vĩ
+壶|HỒ|Ấm; bình
+绘|HỘI|Vẽ
+慧|HUỆ|Trí tuệ; thông minh
+昏|HÔN|Tối; mê man; ngất
+嘉|GIA|Tốt đẹp; khen ngợi
+尖|TIÊM|Nhọn; sắc; tinh
+捡|—|Nhặt
+剑|KIẾM|Thanh kiếm
+箭|TIỄN|Mũi tên
+酱|TƯƠNG|Tương; nước sốt
+骄|KIÊU|Kiêu ngạo; (骄傲)
+揭|YẾT|Bóc; vạch trần
+截|TIẾT|Cắt đứt; chặn; hạn chót
+捐|QUYÊN|Quyên góp; bỏ
+扣|KHẤU|Cài; gõ; trừ (tiền)
+跨|KHOÁ|Bước qua; vượt; xuyên
+阔|KHOÁT|Rộng; giàu
+啦|—|Trợ từ (了 + 啊)
+赖|LẠI|Ỷ lại; chối; xấu
+懒|LÃN|Lười
+牢|LAO|Chắc; nhà tù
+梁|LƯƠNG|Xà nhà; cây cầu; họ Lương
+谅|LƯỢNG|Thông cảm; tha thứ
+灵|LINH|Linh; nhanh nhạy; linh thiêng
+嘛|—|Trợ từ nhấn mạnh (mà)
+馒|MAN|Màn thầu (馒头)
+蒙|MÔNG|Che phủ; lừa; Mông Cổ
+棉|MIÊN|Bông; vải bông
+扭|NỮU|Vặn; xoay; trật
+盼|PHẢN|Mong ngóng
+炮|PHÁO|Pháo; đại bác
+聘|SÍNH|Thuê; mời; sính lễ
+屏|BÌNH|Bình phong; màn hình
+坡|PHA|Dốc; sườn dốc
+铺|PHÔ|Trải ra; cửa hàng; giường
+恰|KHẮC|Vừa đúng; vừa khéo
+牵|KHIÊN|Dắt; kéo
+歉|KHIÊM|Có lỗi; (抱歉, 道歉)
+茄|GIA|Cà (茄子)
+渠|CỪ|Mương; kênh; (渠道)
+勺|CHƯỚC|Cái thìa; muôi
+涉|THIỆP|Lội qua; liên quan; (干涉)
+薯|THỰ|Khoai (土豆, 薯条)
+苏|TÔ|Tỉnh lại; Tô Châu; họ Tô
+趟|—|Chuyến; lượt
+掏|—|Móc ra; lấy ra
+踢|THÍCH|Đá
+吞|THÔN|Nuốt
+拖|THA|Kéo lê; trì hoãn
+挖|ÁT|Đào, bới
+娃|OA|Em bé; búp bê
+哇|OA|Trợ từ cảm thán; nôn
+伍|NGŨ|Số năm (chữ viết hoa); đội ngũ
+牺|HY|Hy sinh (牺牲)
+陷|HÃM|Rơi vào; lún; hãm hại
+晓|HIỂU|Biết; sáng; hiểu
+讯|TẤN|Tin tức; hỏi
+氧|DƯỠNG|Ô-xy
+耀|DIỆU|Chiếu sáng; vinh quang
+隐|ẨN|Ẩn giấu
+娱|NGU|Giải trí; (娱乐)
+缘|DUYÊN|Duyên; nguyên do
+晕|VẬN|Choáng; chóng mặt; quầng
+允|DOÃN|Cho phép; chấp thuận
+扎|TRÁT|Đâm; cắm trại; buộc
+炸|TRÁ|Nổ; chiên rán
+账|TRƯỚNG|Sổ sách; hóa đơn; tài khoản
+粥|CHÚC|Cháo
+赚|—|Kiếm (tiền); lãi
+庄|TRANG|Làng; trang trại; nghiêm trang
+纵|TUNG|Buông thả; dọc; dù cho
+钻|TOÀN|Khoan; kim cương; chui
+哎|AI|Ôi chao (thán từ)
+癌|NHAM|Ung thư
+蔼|ÁI|Hòa nhã; (和蔼)
+艾|NGẢI|Cây ngải; họ Ngải
+唉|AI|Ôi; dạ (thán từ)
+隘|ẢI|Hẹp; hiểm yếu
+昂|NGANG|Ngẩng cao; đắt đỏ
+熬|NGAO|Ninh, hầm; chịu đựng
+澳|ÁO|Bến; (澳门 Ma Cao; 澳大利亚 Úc)
+扒|BÁT|Bới; bám vào
+叭|BÁT|Tiếng còi, kèn (喇叭: loa)
+芭|BA|Chữ trong 芭蕾 (ba lê)
+靶|BA|Bia (bắn)
+坝|BÁ|Đập chắn nước
+霸|BÁ|Bá chủ; chiếm đoạt
+掰|—|Bẻ, tách ra
+柏|BÁ|Cây bách; họ Bách
+扳|BAN|Kéo, bẻ; vặn
+拌|BÁN|Trộn; khuấy
+瓣|BIỆN|Cánh hoa; múi
+绑|BẢNG|Buộc, trói
+谤|BÁNG|Phỉ báng
+磅|BẠNG|Pao (đơn vị); cái cân
+镑|BẠNG|Bảng Anh (tiền)
+煲|BAO|Nấu, ninh; nồi
+堡|BẢO|Pháo đài; (汉堡)
+豹|BÁO|Con báo
+曝|BỘC|Phơi; phơi bày; (曝光)
+狈|BỐI|Chữ trong 狼狈 (lúng túng)
+惫|BỊ|Mệt mỏi (疲惫)
+绷|BẰNG|Căng; băng bó
+蹦|—|Nhảy; bật
+鄙|BỈ|Thô lậu; khinh bỉ
+毙|TẸ|Chết; bắn chết
+痹|TÝ|Tê liệt
+碧|BÍCH|Xanh biếc
+臂|TÝ|Cánh tay
+鞭|TIÊN|Roi; pháo
+贬|BIẾM|Giáng chức; chê bai
+辨|BIỆN|Phân biệt
+辫|BIỆN|Bím tóc
+飙|BIÊU|Gió xoáy; (飙升)
+憋|BIẾT|Nén; ngột ngạt
+彬|BIN|Nho nhã (彬彬有礼)
+滨|TÂN|Bờ, ven; (海滨)
+缤|TÂN|Nhiều màu; (缤纷)
+秉|BỈNH|Nắm giữ; giữ vững
+驳|BÁC|Bác bỏ; phản bác
+脖|BỘT|Cổ (脖子)
+搏|BÁC|Đấu; vật lộn; đập (tim)
+膊|BÁC|Cánh tay (胳膊)
+卜|BÓC|Bói toán; (萝卜: củ cải)
+睬|THẢI|Đoái hoài; để ý
+惭|TÀM|Xấu hổ; hổ thẹn
+灿|XÁN|Rực rỡ; (灿烂)
+苍|THƯƠNG|Xanh thẫm; bạc (tóc); (苍蝇)
+沧|THƯƠNG|Xanh biếc; (沧桑)
+舱|THƯƠNG|Khoang (tàu, máy bay)
+糙|TÀO|Thô; sần sùi
+蹭|—|Cọ xát; lề mề
+岔|SÁ|Ngã ba; rẽ nhánh; lạc đề
+诧|SÁ|Ngạc nhiên; (诧异)
+掺|SAM|Trộn lẫn
+搀|SẢM|Dìu; pha trộn
+馋|SẢM|Thèm ăn; háu
+缠|triền|Quấn; vướng; (缠绕)
+铲|SẢN|Cái xẻng; xúc
+阐|XIỂN|Làm rõ; (阐述)
+颤|CHIẾN|Run rẩy
+猖|XƯƠNG|Hung hãn; (猖狂)
+嫦|THƯỜNG|Chữ trong 嫦娥 (Hằng Nga)
+敞|XƯỞNG|Rộng rãi; mở toang
+钞|SAO|Tiền giấy; (钞票)
+巢|SÀO|Tổ (chim, kiến)
+扯|XỈ|Xé; kéo; tán gẫu
+尘|TRẦN|Bụi; trần thế
+辰|THẦN|Giờ thìn; (生辰)
+趁|SẤN|Nhân lúc; tranh thủ
+橙|CHANH|Quả cam; màu cam
+逞|SẮNG|Khoe; (逞强)
+秤|XỨNG|Cái cân
+弛|THỈ|Nới lỏng; thả lỏng
+驰|TRÌ|Chạy nhanh; (奔驰)
+齿|XỈ|Răng
+侈|XỈ|Xa xỉ
+翅|SÍ|Cánh (chim)
+仇|CỪU|Thù; hận
+绸|TRÙ|Lụa
+畴|TRÙ|Ruộng; phạm trù
+稠|TRÙ|Đặc; dày đặc
+筹|TRỪ|Thẻ tính; lo liệu; (筹备)
+瞅|—|Nhìn; liếc
+橱|TRÙ|Tủ (橱柜, 橱窗)
+揣|SUY|Giắt vào người; đoán
+踹|—|Đạp, đá
+喘|SUYỄN|Thở dốc; thở hổn hển
+捶|THÙY|Đấm, nện
+锤|CHÙY|Cái búa
+醇|THUẦN|Nồng; thuần; (醇厚)
+蠢|XUẨN|Ngu xuẩn
+戳|TRƯỚC|Chọc; đâm; dấu
+绰|XƯỚC|Dư dả; (绰号: biệt danh)
+瓷|TỪ|Đồ sứ
+匆|THÔNG|Vội vã (匆忙)
+囱|XUYÊN|Ống khói (烟囱)
+葱|THÔNG|Hành lá
+丛|TÙNG|Bụi; cụm; rừng
+凑|THẤU|Ghép lại; xúm lại
+簇|TÚC|Cụm; bó
+窜|THOÀN|Chạy trốn; lủi
+摧|THÔI|Phá hủy; (摧毁)
+粹|TÚY|Tinh túy; thuần túy
+翠|THÚY|Xanh biếc; chim sả
+搓|THA|Xoa; vò
+磋|THA|Mài giũa; (切磋)
+歹|ĐÃI|Xấu; ác
+耽|ĐAM|Say mê; trì hoãn
+荡|ĐÃNG|Lắc lư; phóng đãng; (荡漾)
+叨|ĐAO|Lải nhải; (唠叨)
+捣|ĐẢO|Giã; phá rối
+祷|ĐẢO|Cầu nguyện
+稻|ĐẠO|Lúa nước; (稻子)
+蹬|ĐĂNG|Đạp; giẫm
+邓|ĐẶNG|Họ Đặng
+凳|ĐẶNG|Ghế đẩu
+瞪|TRỪNG|Trợn mắt; nhìn trừng
+迪|ĐỊCH|Dẫn dắt; (迪士尼)
+涤|ĐỊCH|Rửa; gột sạch; (涤纶)
+蒂|ĐẾ|Cuống (quả, hoa)
+颠|ĐIÊN|Đỉnh; xóc; lật nhào
+巅|ĐIÊN|Đỉnh núi; (巅峰)
+甸|ĐIỆN|Vùng ngoại ô; (缅甸 Myanmar)
+垫|ĐIẾM|Đệm; lót; ứng trước
+淀|ĐIỆN|Lắng; cặn; hồ nông
+惦|—|Nhớ nhung; lo nghĩ (惦记)
+奠|ĐIỆN|Đặt nền; cúng; (奠定)
+刁|ĐIÊU|Xảo quyệt; ngang ngạnh
+叼|ĐIÊU|Ngậm (bằng miệng)
+雕|ĐIÊU|Chạm khắc; chim điêu
+爹|DIÊU|Cha; bố
+谍|ĐIỆP|Gián điệp; (间谍)
+叠|ĐIỆP|Chồng; gấp
+碟|ĐIỆP|Cái đĩa nhỏ
+叮|ĐINH|Dặn dò; đốt, cắn (muỗi)
+盯|ĐINH|Nhìn chằm chằm; theo sát
+鼎|ĐỈNH|Cái đỉnh (vạc); thịnh vượng
+钉|ĐINH|Cái đinh; đóng đinh
+董|ĐỔNG|Giám đốc; (董事); họ Đổng
+兜|ĐÂU|Túi áo; vòng quanh
+抖|ĐẨU|Rung; run; giũ
+陡|ĐẨU|Dốc đứng; đột ngột
+逗|ĐẬU|Trêu; chọc cười; dừng lại
+睹|ĐỖ|Nhìn thấy; (目睹)
+杜|ĐỖ|Ngăn chặn; cây đỗ; họ Đỗ
+妒|ĐỐ|Ghen tị; (嫉妒)
+兑|ĐOÁI|Đổi (tiền); quẻ Đoài
+敦|ĐÔN|Dày dặn; thành thật
+盹|—|Ngủ gật; chợp mắt
+炖|—|Hầm, ninh
+哆|—|Run rẩy; (哆嗦)
+舵|ĐÀ|Bánh lái
+讹|NGOA|Lừa gạt; sai sót
+俄|NGA|Chốc lát; nước Nga
+娥|NGA|Nàng đẹp; (嫦娥)
+鹅|NGA|Con ngỗng
+遏|YẾT|Ngăn chặn; kiềm chế
+鳄|NGẠC|Cá sấu (鳄鱼)
+绯|PHI|Đỏ thắm
+匪|PHỈ|Thổ phỉ; không phải
+诽|PHỈ|Phỉ báng; (诽谤)
+芬|PHÂN|Thơm; hương thơm; (芬芳)
+吩|PHÂN|Dặn bảo; (吩咐)
+焚|PHẦN|Đốt cháy
+粪|PHẨN|Phân; bón phân
+冯|PHÙNG|Họ Phùng; cậy vào
+逢|PHÙNG|Gặp; đúng lúc
+讽|PHÚNG|Châm biếm; mỉa mai
+凤|PHƯỢNG|Chim phượng
+孵|PHU|Ấp trứng; nở
+俘|PHU|Bắt sống; tù binh
+袱|PHỤC|Chữ trong 包袱 (bọc đồ, gánh nặng)
+辐|PHÚC|Nan hoa; bức xạ
+抚|PHỦ|Vỗ về; nuôi dưỡng
+俯|PHỦ|Cúi xuống
+咐|PHÓ|Dặn dò (吩咐)
+尬|—|Chữ trong 尴尬 (lúng túng)
+丐|CÁI|Ăn mày
+钙|CÁI|Can-xi
+溉|KHÁI|Tưới tiêu; (灌溉)
+竿|CAN|Cần; sào
+尴|GIÁM|Chữ trong 尴尬 (lúng túng)
+缸|CANG|Chum, vại; bể (鱼缸)
+杠|CÁNG|Đòn; xà; gạch
+膏|CAO|Cao; kem; thuốc mỡ
+戈|QUA|Cây giáo; (干戈)
+胳|CÁCH|Chữ trong 胳膊 (cánh tay)
+鸽|CÁP|Chim bồ câu
+搁|CÁC|Đặt; gác lại
+耿|CẢNH|Cương trực; sáng
+躬|CUNG|Cúi mình; tự mình
+拱|CỦNG|Chắp tay; vòm; (拱门)
+钩|CÂU|Cái móc; câu
+沽|CÔ|Bán; mua; (待价而沽)
+菇|CÔ|Nấm (蘑菇)
+辜|CÔ|Tội; phụ lòng; (无辜)
+卦|QUÁI|Quẻ bói
+乖|QUAI|Ngoan; ngoan ngoãn
+灌|QUÁN|Tưới; rót; đổ vào
+罐|QUÁN|Lon; hũ; lọ
+龟|QUY|Con rùa
+闺|KHUÊ|Khuê phòng
+瑰|KHÔI|Ngọc; (玫瑰: hoa hồng)
+桂|QUẾ|Cây quế; quế hoa
+棍|CÔN|Gậy; côn đồ
+骇|HÃI|Kinh hãi; (惊骇)
+酣|HAM|Say sưa; (酣睡)
+函|HÀM|Thư; hộp; hàm số
+涵|HÀM|Bao hàm; (涵义)
+罕|HÃN|Hiếm; ít có
+旱|HẠN|Hạn hán; khô
+捍|HÃN|Bảo vệ; (捍卫)
+焊|HÀN|Hàn (kim loại)
+撼|HÁM|Lay động; (震撼)
+杭|HÀNG|Hàng Châu
+浩|HẠO|To lớn; mênh mông
+呵|HA|Thở ra; quát; ha (cười)
+禾|HÒA|Lúa; cây lúa
+阂|NGẠI|Ngăn cách; (隔阂)
+赫|HÁCH|Rực rỡ; (显赫)
+嘿|HẮC|Này; hey
+哼|HANH|Hừ; ngâm nga
+轰|OANH|Nổ vang; ầm ầm; đuổi
+哄|HỐNG|Dỗ dành; la ó
+烘|HỒNG|Hong, sấy; nướng
+弘|HOẰNG|Mở rộng; (弘扬)
+吼|HỐNG|Gầm; hét
+唬|HỔ|Dọa; hù
+沪|HỖ|Thượng Hải (tên gọi tắt)
+哗|HOA|Ồn ào; xào xạc
+猾|HOẠT|Xảo quyệt; (狡猾)
+徊|HỒI|Bồi hồi; (徘徊)
+淮|HOÀI|Sông Hoài
+槐|HÒE|Cây hòe
+焕|HOÁN|Rực rỡ; (焕然一新)
+痪|HOÁN|Tê liệt; (瘫痪)
+凰|HOÀNG|Chim hoàng (phượng mái)
+煌|HOÀNG|Sáng rực; (辉煌)
+恍|HOẢNG|Chợt hiểu ra; (恍然大悟)
+晃|HOẢNG|Lắc lư; loé sáng
+谎|HOANG|Nói dối
+徽|HUY|Huy hiệu; tỉnh An Huy
+卉|HUỶ|Các loài cây cỏ; (花卉)
+讳|HUÝ|Kiêng kỵ; tên húy
+秽|UẾ|Bẩn; ô uế
+浑|HỖN|Đục; ngốc; cả (người)
+豁|HOÁT|Hẻm; rộng mở; hào phóng
+霍|HOẮC|Nhanh; họ Hoắc
+讥|KY|Chế giễu; (讥笑)
+缉|TẬP|Bắt; tróc nã; (缉毒)
+畸|CƠ|Dị thường; lệch lạc
+棘|CỰC|Gai; (荆棘); gai góc
+剂|TẾ|Thuốc; liều; chế phẩm
+颊|GIÁP|Má
+贾|CỔ|Thương gia; họ Giả
+奸|GIAN|Gian; xảo trá
+歼|TIÊM|Tiêu diệt
+拣|GIẢN|Chọn lựa
+柬|GIẢN|Thiệp; (柬埔寨 Campuchia)
+俭|KIỆM|Tiết kiệm
+贱|TIỆN|Rẻ; hèn mọn
+溅|TIỄN|Bắn tung tóe
+姜|KHƯƠNG|Gừng; họ Khương
+浆|TƯƠNG|Nước sệt; sữa (豆浆); hồ
+僵|CƯƠNG|Cứng đờ; bế tắc
+疆|CƯƠNG|Biên giới; (新疆 Tân Cương)
+桨|TƯỞNG|Mái chèo
+浇|KIỀU|Tưới; rót
+娇|KIỀU|Yêu kiều; nũng nịu; (娇气)
+椒|TIÊU|Hạt tiêu; ớt (辣椒)
+跤|GIAO|Ngã (摔跤)
+嚼|TƯỚC|Nhai; (咀嚼)
+狡|GIẢO|Xảo quyệt
+搅|GIẢO|Khuấy; quấy rầy
+缴|GIAO|Nộp; (缴费)
+轿|KIỆU|Cái kiệu; (轿车: xe con)
+劫|KIẾP|Cướp; tai kiếp
+捷|TIỆP|Nhanh nhẹn; thắng lợi; (快捷)
+竭|KIỆT|Cạn; hết; (竭尽)
+诫|GIỚI|Răn; khuyên bảo
+晋|TẤN|Tiến lên; tỉnh Sơn Tây (Tấn)
+荆|KINH|Cây kinh; gai
+兢|CẰNG|Thận trọng; (战战兢兢)
+阱|TỈNH|Hố bẫy; (陷阱)
+颈|CẢNH|Cổ
+窘|QUẪN|Lúng túng; quẫn bách
+揪|THU|Túm; nắm chặt
+灸|CỨU|Cứu (châm cứu)
+舅|CỮU|Cậu (anh em mẹ)
+鞠|CÚC|Cúi; nuôi; (鞠躬)
+橘|QUẤT|Quýt; quất
+沮|TRỔ|Chán nản; ngăn cản; (沮丧)
+矩|CỦ|Thước vuông; quy củ
+炬|CỰ|Đuốc
+锯|CỬ|Cái cưa; cưa
+倦|QUYỆN|Mệt mỏi
+诀|QUYẾT|Từ biệt; bí quyết
+崛|QUẬT|Nhô lên; (崛起)
+倔|QUẬT|Bướng bỉnh
+钧|QUÂN|Quân (đơn vị cổ); (敬称)
+峻|TUẤN|Cao dốc; nghiêm khắc
+骏|TUẤN|Ngựa tốt; tuấn
+竣|TUẤN|Hoàn thành; (竣工)
+凯|KHẢI|Chiến thắng; (凯旋)
+侃|KHẢN|Nói chuyện phiếm; ngay thẳng
+砍|KHẢM|Chém; chặt
+槛|KHẢM|Ngạch cửa; (门槛)
+慷|KHẢNG|Hào phóng; (慷慨)
+扛|CANG|Vác; gánh
+磕|KHÁC|Va đập; gõ
+壳|XÁC|Vỏ; (外壳)
+啃|—|Gặm
+吭|KHANG|Cổ họng; ho he
+抠|KHÂU|Móc; keo kiệt
+垮|—|Sụp đổ; hỏng
+挎|—|Đeo, khoác
+筐|KHUÔNG|Cái sọt, giỏ
+旷|KHOÁNG|Rộng; bỏ trống; trốn (旷课)
+框|KHUNG|Khung
+窥|KHUY|Nhìn trộm; dòm
+魁|KHÔI|Đứng đầu; to lớn
+馈|QUỸ|Tặng; (反馈: phản hồi)
+愧|QUÝ|Hổ thẹn; (惭愧)
+捆|KHỔN|Buộc, bó; bó
+廓|KHUẾCH|Rộng lớn; (轮廓: đường nét)
+喇|LẠT|Chữ trong 喇叭 (loa, kèn)
+腊|LẠP|Tháng chạp; ướp khô (腊肉)
+蜡|LẠP|Sáp; nến
+兰|LAN|Hoa lan; (兰州)
+拦|LAN|Chặn, ngăn
+婪|LAM|Tham lam
+澜|LAN|Sóng lớn
+揽|LÃM|Ôm; thu về; gánh vác
+缆|LÃM|Dây cáp
+捞|LAO|Vớt; kiếm chác
+姥|MỤ|Bà ngoại (姥姥)
+唠|LAO|Nói chuyện phiếm; (唠叨)
+涝|LẠO|Úng ngập
+勒|LẶC|Siết chặt; ép buộc
+垒|LŨY|Lũy; xây chồng
+磊|LỖI|Đá chồng; (磊落)
+蕾|LÔI|Nụ hoa
+棱|LĂNG|Góc cạnh; cạnh
+愣|LẶNG|Ngẩn người; ngây
+黎|LÊ|Đông đảo; họ Lê; (黎明: bình minh)
+隶|LỆ|Thuộc về; nô lệ; (隶属)
+莲|LIÊN|Sen
+敛|LIỄM|Thu lại; kiềm chế
+链|LIÊN|Dây xích; chuỗi
+辽|LIÊU|Xa; (辽阔)
+寥|LIÊU|Thưa thớt; (寥寥)
+潦|LẠO|Lênh láng; (潦草: cẩu thả)
+咧|—|Nhếch miệng
+猎|LIỆP|Săn bắn
+拎|—|Xách
+淋|LÂM|Dội; ướt sũng
+凌|LĂNG|Lấn át; (凌晨: rạng sáng)
+岭|LĨNH|Rặng núi; đèo
+溜|LƯU|Trượt; lẻn; trơn
+刘|LƯU|Họ Lưu
+浏|LƯU|Lướt; (浏览)
+瘤|LỰU|Khối u
+遛|—|Dắt đi dạo; (遛狗)
+咙|LUNG|Cổ họng (喉咙)
+胧|LUNG|Mờ mờ; (朦胧)
+聋|LUNG|Điếc
+窿|LUNG|Hang hốc; (窟窿)
+拢|LŨNG|Gộp lại; tới sát
+垄|LŨNG|Luống; mô đất
+搂|LÂU|Ôm; vơ vét
+陋|LẬU|Thô sơ; (简陋)
+芦|LƯ|Sậy; (芦苇)
+卤|LỖ|Muối; kho, om
+鲁|LỖ|Ngu độn; nước Lỗ; họ Lỗ
+碌|LỤC|Bận rộn; (忙碌)
+铝|LÃ|Nhôm
+屡|LŨ|Nhiều lần
+缕|LŨ|Sợi; (一缕)
+滤|LỰ|Lọc
+孪|LUYẾN|Sinh đôi
+掠|LƯỢC|Cướp; lướt qua
+抡|LUÂN|Vung (tay, búa)
+萝|LA|Củ cải (萝卜)
+螺|LOA|Ốc; xoắn ốc
+迈|MẠI|Bước; già; (迈步)
+瞒|MAN|Giấu; che giấu
+蔓|MAN|Dây leo; lan rộng; (蔓延)
+芒|MANG|Mũi nhọn; (光芒); xoài (芒果)
+氓|MANG|Dân; (流氓: lưu manh)
+茫|MANG|Mờ mịt; (茫然)
+莽|MÃNG|Rậm rạp; lỗ mãng
+茅|MAO|Cỏ tranh
+髦|MAO|Thời thượng; (时髦)
+玫|MAI|Chữ trong 玫瑰 (hoa hồng)
+霉|MÔI|Mốc; xui xẻo
+媚|MỊ|Quyến rũ; (妩媚)
+闷|MUỘN|Buồn bực; ngột ngạt
+萌|MÁNH|Nảy mầm; dễ thương (萌)
+朦|MÔNG|Mờ; (朦胧)
+孟|MẠNH|Đầu (tháng); họ Mạnh
+觅|MỊCH|Tìm kiếm; (寻觅)
+缅|MIẾN|Xa xôi; Myanmar (缅甸)
+瞄|MIÊU|Ngắm; nhắm
+渺|DIỆU|Mờ mịt; nhỏ bé; (渺小)
+庙|MIẾU|Miếu; đền
+谬|MẬU|Sai lầm; vô lý; (荒谬)
+蘑|MA|Nấm (蘑菇)
+沫|MẠT|Bọt; (泡沫)
+陌|MẠCH|Lối ruộng; xa lạ; (陌生)
+莫|MẠC|Đừng; không; họ Mạc
+寞|MỊCH|Quạnh hiu; (寂寞)
+牡|MẪU|Giống đực; (牡丹: mẫu đơn)
+姆|MỖ|Bảo mẫu; (保姆)
+沐|MỤC|Gội; tắm; (沐浴)
+穆|MỤC|Trang nghiêm; họ Mục
+呐|NỘI|Hò hét; trợ từ (呐)
+乃|NẢI|Là; bèn; mới
+囊|NANG|Túi; bọc
+挠|NÁO|Gãi; cản trở
+恼|NÃO|Bực; phiền não
+馁|NỖI|Đói; nản chí
+嫩|NỘN|Non; mềm
+腻|NỊ|Ngấy; béo ngậy; chán
+黏|NIÊM|Dính
+酿|NHƯỢNG|Ủ; nấu (rượu); gây ra
+捏|NIẾT|Nặn; véo
+拧|NINH|Vặn; véo
+挪|NA|Dịch chuyển
+哦|—|Ồ; ô (thán từ)
+呕|ẨU|Nôn; (呕吐)
+趴|—|Nằm sấp; bò
+帕|PHÁ|Khăn tay; (手帕)
+徘|BỒI|Chữ trong 徘徊 (lang thang)
+潘|PHAN|Họ Phan; nước vo gạo
+攀|PHAN|Leo trèo; níu; (攀登)
+叛|PHẢN|Phản bội; làm phản
+乓|—|Chữ trong 乒乓 (bóng bàn)
+庞|BÀNG|To lớn; họ Bàng; (庞大)
+膀|BẢNG|Vai; cánh tay (膀子)
+抛|PHAO|Ném; vứt bỏ
+刨|BÀO|Bào; đào
+袍|BÀO|Áo dài; áo choàng
+胚|PHÔI|Phôi; (胚胎)
+沛|BÁI|Dồi dào; (充沛)
+佩|PHỐI|Đeo; khâm phục; (佩服)
+抨|PHANH|Đả kích; (抨击)
+烹|PHANH|Nấu nướng; (烹饪)
+蓬|BỒNG|Rối bù; bồng bềnh
+鹏|BẰNG|Chim bằng
+篷|BỒNG|Mui; lều bạt
+捧|PHỦNG|Bưng; tâng bốc
+劈|PHÁCH|Bổ; chẻ; sét đánh
+辟|TÍCH|Mở mang; (开辟); tránh
+媲|TỀ|Sánh bằng; (媲美)
+僻|PHÍCH|Hẻo lánh; (偏僻)
+譬|THÍ|Ví dụ; (譬如)
+飘|PHIÊU|Bay lượn; lơ lửng
+撇|PHIỆT|Nét phẩy; ném; vứt
+乒|BINH|Chữ trong 乒乓 (bóng bàn)
+萍|BÌNH|Bèo; (浮萍)
+颇|PHA|Khá; hơi; nghiêng
+魄|PHÁCH|Hồn phách; (魄力)
+菩|BỒ|Chữ trong 菩萨 (Bồ Tát)
+瀑|BỘC|Thác nước (瀑布)
+沏|THIẾT|Pha (trà)
+栖|TÊ|Đậu; ở; (栖息)
+歧|KỲ|Ngã ba; chia nhánh; (分歧)
+岂|KHỞI|Há; lẽ nào
+迄|HẤT|Đến; tới nay; (迄今)
+砌|THẾ|Xây gạch; bậc thềm
+掐|—|Bấm; véo
+洽|HIỆP|Hòa hợp; bàn bạc; (洽谈)
+虔|KIỀN|Thành kính; (虔诚)
+钳|KIỀM|Cái kìm; kẹp
+谴|KHIỂN|Khiển trách; (谴责)
+嵌|KHẢM|Khảm; nhúng; (镶嵌)
+呛|SANG|Sặc; hắc (khói)
+腔|KHANG|Khoang; giọng; (腔调)
+乔|KIỀU|Cao; họ Kiều; giả vờ
+侨|KIỀU|Kiều dân; (华侨)
+俏|TIẾU|Duyên dáng; đắt hàng
+窍|KHIẾU|Lỗ; mấu chốt; (窍门)
+翘|KIỀU|Ngóc lên; vểnh; cong
+撬|KHIẾU|Cạy; nạy
+怯|KHIẾP|Nhút nhát; (胆怯)
+钦|KHÂM|Kính phục; (钦佩)
+秦|TẦN|Nhà Tần; họ Tần
+禽|CẦM|Chim; (家禽)
+擎|KÌNH|Nâng; (引擎: động cơ)
+驱|KHU|Xua đuổi; (驱逐)
+躯|KHU|Thân mình; (身躯)
+娶|THỦ|Cưới vợ
+壤|NHƯỠNG|Đất; (土壤)
+攘|NHƯỠNG|Xâm phạm; (熙熙攘攘)
+嚷|NHƯỢNG|La hét; cãi nhau
+饶|NHIÊU|Tha; dồi dào; (富饶)
+惹|NHẠ|Chọc; gây (rắc rối)
+韧|NHẪN|Dai; dẻo; (坚韧)
+揉|NHU|Xoa; nhào; vò
+锐|NHUỆ|Sắc bén; (敏锐)
+瑞|THỤY|Điềm lành; Thụy (瑞士: Thụy Sĩ)
+撒|TÁT|Vãi; thả; (撒谎)
+萨|TÁT|Bồ Tát (菩萨); (萨克斯)
+嗓|TẢNG|Cổ họng; giọng
+骚|TAO|Quấy nhiễu; (骚扰)
+嫂|TẨU|Chị dâu
+臊|TAO|Hôi; xấu hổ
+纱|SA|Vải sa; sợi; (纱布)
+鲨|SA|Cá mập
+厦|HẠ|Nhà lớn; (大厦); Hạ Môn
+筛|SI|Cái sàng; sàng lọc
+删|SAN|Xóa; lược bỏ
+煽|PHIẾN|Xúi giục; quạt; (煽动)
+擅|THIỆN|Giỏi về; tự ý; (擅长)
+赡|THIỆM|Cung cấp; (赡养)
+捎|SAO|Tiện tay mang giúp
+梢|SAO|Ngọn (cây); đầu
+哨|SÁO|Còi; trạm gác; (哨兵)
+奢|XA|Xa xỉ; (奢侈)
+慑|CHIẾP|Khiếp sợ; (震慑)
+渗|THẤM|Thấm; rỉ ra
+绳|THẰNG|Dây thừng
+尸|THI|Xác; thi thể
+狮|SƯ|Sư tử
+蚀|THỰC|Ăn mòn; (腐蚀); nhật thực
+嗜|THỊ|Ham thích; (嗜好)
+匙|THI|Cái thìa; chìa (钥匙)
+兽|THÚ|Thú; con thú
+抒|TRỮ|Bày tỏ; (抒情)
+梳|SƠ|Lược; chải
+疏|SƠ|Thưa; xa lạ; lơ là
+赎|THỤC|Chuộc
+蜀|THỤC|Đất Thục (Tứ Xuyên)
+曙|THỰ|Bình minh; (曙光)
+竖|THỤ|Dọc; đứng thẳng
+恕|THỨ|Tha thứ; (饶恕)
+墅|THỰ|Biệt thự (别墅)
+耍|SOÁ|Chơi đùa; giở trò
+甩|—|Vung; quăng; bỏ lại
+拴|XUYÊN|Buộc; cột
+涮|—|Nhúng; lẩu nhúng (涮羊肉)
+烁|THƯỚC|Lấp lánh; (闪烁)
+丝|TY|Tơ; sợi; chút xíu
+斯|TƯ|Này; (Tư: 斯文); phiên âm
+撕|TY|Xé
+祀|TỰ|Cúng tế; (祭祀)
+肆|TỨ|Phóng túng; số bốn (viết hoa); (肆意)
+耸|TÙNG|Dựng lên; vút cao
+宋|TỐNG|Nhà Tống; họ Tống
+诵|TỤNG|Đọc; tụng; ngâm
+颂|TỤNG|Ca ngợi; (歌颂)
+艘|TAO|Chiếc (lượng từ tàu thuyền)
+嗽|THẤU|Ho (咳嗽)
+酥|TÔ|Giòn xốp; bơ; tê mỏi
+溯|TỐ|Ngược dòng; (追溯)
+蒜|TOÁN|Tỏi
+髓|TỦY|Tủy
+隧|TUỴ|Đường hầm; (隧道)
+嗦|—|Chữ trong 哆嗦 (run rẩy)
+塌|THÁP|Sập; đổ; lún
+摊|THAN|Bày ra; sạp hàng; trải
+滩|THAN|Bãi; ghềnh; (沙滩)
+瘫|THAN|Liệt; (瘫痪)
+痰|ĐÀM|Đờm
+潭|ĐÀM|Vực sâu; đầm
+毯|THẢN|Thảm; chăn; (地毯)
+碳|THÁN|Cac-bon; than
+塘|ĐƯỜNG|Ao; hồ; bờ đê
+膛|ĐƯỜNG|Lồng ngực; nòng súng
+倘|THẢNG|Nếu; giả sử
+淌|THẢNG|Chảy; nhỏ giọt
+烫|THẶNG|Nóng bỏng; là; uốn (tóc)
+涛|ĐÀO|Sóng lớn; (波涛)
+滔|THAO|Cuồn cuộn; (滔滔)
+淘|ĐÀO|Vo; đãi; tinh nghịch
+剔|THỊCH|Lọc ra; xỉa; gạt bỏ
+屉|—|Ngăn kéo; khay hấp (抽屉)
+剃|THẾ|Cạo (râu, đầu)
+涕|THẾ|Nước mắt; (涕泣)
+惕|THÍCH|Cảnh giác; (警惕)
+舔|THIỂM|Liếm
+帖|THIẾP|Thiếp; bài đăng; (帖子)
+捅|THỐNG|Chọc; đâm
+桶|THỐNG|Cái thùng; xô
+秃|THỐC|Hói; trọc
+屠|ĐỒ|Giết mổ; đồ tể
+颓|ĐỒI|Suy sụp; (颓废)
+驮|ĐÀ|Chở (trên lưng)
+蛙|OA|Ếch
+歪|OAI|Nghiêng; lệch; xấu
+挽|VÃN|Kéo; cứu vãn
+惋|UYỂN|Tiếc nuối; (惋惜)
+婉|UYỂN|Dịu dàng; khéo; (婉转)
+汪|UÔNG|Mênh mông; họ Uông; (汪汪)
+枉|VÕNG|Oan; uổng; vô ích
+魏|NGỤY|Nước Ngụy; họ Ngụy
+瘟|ÔN|Dịch bệnh; (瘟疫)
+吻|VẪN|Hôn; môi
+紊|VĂN|Rối; (紊乱)
+窝|OA|Ổ; hang; tổ
+巫|VU|Thầy cúng; pháp sư
+呜|Ô|Tiếng khóc; còi hụ; (呜呜)
+吴|NGÔ|Nước Ngô; họ Ngô
+捂|NGŨ|Bịt; che kín
+勿|VẬT|Chớ; đừng
+晤|NGỘ|Gặp mặt; (会晤)
+晰|TÍCH|Rõ ràng; (清晰)
+稀|HI|Thưa; hiếm; loãng
+锡|TÍCH|Thiếc; ban cho
+溪|KHÊ|Suối nhỏ
+熙|HY|Rực rỡ; (熙熙攘攘)
+熄|TỨC|Tắt; dập tắt
+嬉|HY|Vui đùa; (嬉戏)
+媳|TỨC|Con dâu (媳妇)
+虾|HÀ|Tôm
+瞎|HẠT|Mù; bừa bãi
+侠|HIỆP|Hiệp sĩ; (侠客)
+霞|HÀ|Ráng; mây hồng
+纤|TIÊM|Mảnh mai; sợi; (纤维)
+掀|HÂN|Lật lên; vén
+衔|HÀM|Ngậm; chức hàm; (军衔)
+馅|HÃM|Nhân (bánh)
+厢|TƯƠNG|Gian phụ; toa; (车厢)
+镶|TƯƠNG|Khảm; nạm
+翔|TƯỜNG|Bay lượn; (飞翔)
+巷|HẠNG|Ngõ; hẻm
+橡|TƯỢNG|Cây sồi; cao su (橡胶)
+萧|TIÊU|Hiu quạnh; họ Tiêu; (萧条)
+潇|TIÊU|Trong trẻo; (潇洒: phóng khoáng)
+淆|HÀO|Lẫn lộn; (混淆)
+啸|TIẾU|Hú; gầm; (呼啸)
+泄|TIẾT|Rò rỉ; xả; (泄露)
+泻|TẢ|Chảy; tiêu chảy
+屑|TIẾT|Vụn; thèm để ý; (不屑)
+懈|GIẢI|Lơ là; (松懈)
+馨|HINH|Thơm ngát
+衅|HẤN|Gây hấn; (挑衅)
+猩|TINH|Đười ươi; (猩猩)
+腥|TINH|Tanh
+汹|HUNG|Cuồn cuộn; (汹涌)
+绣|TÚ|Thêu; (刺绣)
+锈|TÚ|Gỉ; rỉ sét
+墟|KHU|Phế tích; (废墟)
+旭|HÚC|Mặt trời mới mọc
+恤|TUẤT|Thương xót; (抚恤); áo T-shirt (T恤)
+酗|HÚ|Say sưa (酗酒)
+絮|NHŨ|Bông; bông gòn; lải nhải
+喧|HUYÊN|Ồn ào; (喧哗)
+炫|HUYỄN|Chói lọi; khoe; (炫耀)
+勋|HUÂN|Công lao; huân chương
+熏|HUÂN|Xông khói; hun
+汛|TẤN|Mùa nước lên; (防汛)
+驯|TUẦN|Thuần hóa; ngoan; (驯服)
+丫|NHA|Nhánh chạc; cô bé (丫头)
+鸦|A|Con quạ
+哑|Á|Câm; khàn
+讶|NHẠ|Ngạc nhiên; (惊讶)
+淹|YÊM|Ngập; chìm
+阎|DIÊM|Cổng làng; họ Diêm; (阎王)
+衍|DIỄN|Lan rộng; (衍生)
+掩|YỂM|Che đậy; (掩盖)
+雁|NHẠN|Chim nhạn; ngỗng trời
+焰|DIỆM|Ngọn lửa; (火焰)
+燕|YẾN|Chim én; họ Yên
+殃|ƯƠNG|Tai họa
+秧|ƯƠNG|Mạ; cây giống; (秧歌)
+杨|DƯƠNG|Cây dương liễu; họ Dương
+痒|DƯỠNG|Ngứa
+漾|DẠNG|Gợn sóng; tràn; (荡漾)
+谣|DAO|Tin đồn; ca dao; (谣言)
+遥|DAO|Xa xôi; (遥远)
+钥|DƯỢC|Chìa khóa (钥匙)
+椰|GIA|Dừa (椰子)
+伊|Y|Ông/bà ấy (văn cổ); Y-ran
+夷|DI|Man di; bình yên; san bằng
+怡|DI|Vui vẻ; (怡人)
+矣|HỈ|Trợ từ văn cổ (rồi, vậy)
+倚|Ỷ|Dựa vào; (倚靠)
+屹|NGẤT|Sừng sững; (屹立)
+亦|DIỆC|Cũng
+绎|DỊCH|Kéo sợi; (演绎: diễn dịch)
+弈|DỊCH|Đánh cờ; (对弈)
+裔|DUỆ|Hậu duệ; (华裔)
+溢|DẬT|Tràn ra; (溢出)
+毅|NGHỊ|Kiên quyết; (坚毅)
+荫|ẤM|Bóng râm; che chở
+殷|ÂN|Thịnh; chu đáo; (殷勤); họ Ân
+瘾|—|Nghiện; (上瘾)
+婴|ANH|Trẻ sơ sinh; (婴儿)
+鹰|ƯNG|Chim ưng; diều hâu
+荧|HUỲNH|Lấp lánh; (荧光)
+盈|DOANH|Đầy; thừa; (盈利)
+莹|OANH|Sáng bóng; (晶莹)
+蝇|DƯNG|Ruồi (苍蝇)
+颖|DĨNH|Tinh nhanh; (聪颖)
+佣|DUNG|Thuê mướn; tiền hoa hồng
+佑|HỰU|Phù hộ; (保佑)
+逾|DU|Vượt qua; (逾期)
+渝|DU|Thay đổi; Trùng Khánh (渝)
+舆|DƯ|Xe kiệu; (舆论)
+屿|DỮ|Đảo nhỏ; (岛屿)
+驭|NGỰ|Điều khiển; (驾驭)
+吁|DU|Kêu gọi; (呼吁)
+喻|DỤ|Ví von; hiểu rõ; (比喻)
+寓|NGỤ|Ở trọ; nhà ở; (寓言)
+愈|DŨ|Càng; khỏi bệnh; (愈来愈)
+冤|OAN|Oan ức
+渊|UYÊN|Vực sâu; (渊博)
+袁|VIÊN|Họ Viên
+曰|VIẾT|Rằng; nói
+粤|VIỆT|Quảng Đông (tên gọi tắt)
+匀|VÂN|Đều; chia đều
+陨|VẪN|Rơi; (陨石)
+孕|DỰNG|Có thai; (怀孕)
+酝|ÔN|Ủ rượu; (酝酿)
+蕴|UẨN|Chứa đựng; (蕴含)
+砸|TẠP|Đập vỡ; thất bại
+攒|TÀN|Dành dụm; tích góp
+赃|TANG|Của ăn cắp; tang vật
+凿|TÁC|Đục; xác thực
+枣|TẢO|Táo tàu
+皂|TẠO|Xà phòng (肥皂); đen
+灶|TÁO|Bếp lò; (灶台)
+噪|TÁO|Ồn ào; (噪音)
+躁|TÁO|Nóng nảy; (急躁)
+泽|TRẠCH|Đầm; ân trạch; bóng loáng
+渣|TRA|Bã; cặn
+闸|CHÁP|Cống; cửa van; phanh
+眨|—|Chớp mắt
+榨|TRÁ|Ép; vắt
+窄|TRẮC|Hẹp
+寨|TRẠI|Trại; làng; (山寨)
+沾|TRIÊM|Dính; thấm; hưởng lợi
+瞻|CHIÊM|Ngắm nhìn; (瞻仰)
+盏|TRẢN|Chén nhỏ; (一盏灯)
+崭|TRẢM|Mới tinh; cao vút; (崭新)
+蘸|—|Chấm; nhúng (vào nước sốt)
+仗|TRƯỢNG|Dựa vào; đánh trận
+杖|TRƯỢNG|Cây gậy
+胀|TRƯỚNG|Phồng; trương
+赵|TRIỆU|Nước Triệu; họ Triệu
+罩|TRÁO|Cái chụp; che phủ; (口罩)
+肇|TRIỆU|Khởi đầu; (肇事)
+辙|TRIỆT|Vệt bánh xe; cách
+浙|CHIẾT|Chiết Giang
+睁|TRANH|Mở (mắt)
+筝|TRANH|Đàn tranh
+拯|CHỨNG|Cứu vớt; (拯救)
+郑|TRỊNH|Nước Trịnh; họ Trịnh
+帜|XÍ|Cờ; (旗帜)
+峙|TRĨ|Đứng sững; (对峙)
+洲|CHÂU|Châu; châu lục
+皱|TRỨU|Nhăn; nếp nhăn
+骤|TRỨU|Đột ngột; bước; (骤然)
+烛|CHÚC|Nến; (蜡烛)
+拄|TRỦ|Chống (gậy)
+瞩|CHÚC|Dõi mắt; (瞩目)
+铸|CHÚ|Đúc
+拽|DUỆ|Kéo, lôi
+砖|CHUYÊN|Gạch
+撰|TOẠN|Soạn thảo; viết; (撰写)
+妆|TRANG|Trang điểm; (化妆)
+桩|TRANG|Cọc; việc; (一桩事)
+幢|TRÀNG|Tòa (nhà); (一幢楼)
+缀|CHUYẾT|Khâu; điểm xuyết; (点缀)
+灼|CHƯỚC|Đốt cháy; sáng; (灼热)
+琢|TRÁC|Mài giũa; (琢磨)
+兹|TƯ|Nay; này; (兹)
+粽|TỔNG|Bánh chưng, bánh ú (粽子)
+揍|—|Đánh; nện

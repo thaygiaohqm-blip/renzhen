@@ -1,0 +1,1272 @@
+1	爸	bà		father, papa
+1	吧	bā	và	emphatic final particle
+1	帮	bāng		to help, to assist; to support, to defend; party
+1	边	biān	biên	border, edge, margin, side
+1	穿	chuān	xuyên	to drill, to pierce; to dress, to wear
+1	从	cóng	tòng	from, by, since, whence, through
+1	蛋	dàn		egg
+1	读	dú	độc	to study, to learn; to read, to pronounce
+1	对	duì	đối	correct, right; facing, opposed
+1	儿	ér		son, child
+1	哥	gē	ca	elder brother
+1	跟	gēn	ngấn	heel; to accompany, to follow; with
+1	关	guān	quan	frontier pass; to close, to shut; relation
+1	孩	hái	hài	baby, child; children
+1	很	hěn		very, quite, much
+1	坏	huài	hoại	bad, rotten, spoiled; to break down
+1	欢	huān	hoan	happy, glad, joyful
+1	鸡	jī		chicken
+1	假	jiǎ		fake, false, deceitful; vacation
+1	觉	jué	giác	conscious; to nap, to sleep; to wake up
+1	姐	jiě	thư	elder sister; miss, young lady
+1	净	jìng		clean, pure; to cleanse
+1	渴	kě	khát	thirsty, parched; to yearn, to pine for
+1	两	liǎng	lưỡng	two, both, pair, couple; ounce
+1	妈	mā	má	mother, mama
+1	吗	ma	mửa	final interrogative particle
+1	么	me		interrogative particle
+1	们	men	món	plural marker for pronouns and some nouns
+1	拿	ná	nã	to bring, to grasp, to hold, to take
+1	哪	nǎ	ná	which? where? how?
+1	奶	nǎi	nái	milk; breasts; nurse, grandmother
+1	脑	nǎo	não	brain
+1	呢	né,ne	nài	wool; interrogative or emphatic final particle
+1	你	nǐ	nể	you, second person pronoun
+1	您	nín		honorific for 'you'
+1	旁	páng	bàng	side; beside, close, nearby
+1	跑	pǎo		to run, to flee, to escape
+1	朋	péng	bằng	friend, pal, acquaintance
+1	气	qì	khí	air, gas; steam, vapor; anger
+1	钱	qián	tiền	money, currency, coins
+1	什	shén	thập	what? mixed, miscellaneous
+1	说	shuō		to speak, to say; to scold, to upbraid
+1	岁	suì		year; years old, age; harvest
+1	她	tā		she, her
+1	听	tīng	thính	to hear, to listen; to understand; to obey
+1	图	tú	đồ	diagram, chart, map, picture; to plan
+1	晚	wǎn	vãn	night, evening; late
+1	些	xiē	ta	little, few; rather, somewhat
+1	样	yàng	dạng	form, pattern, shape, style
+1	爷	yé		grandfather, old man
+1	也	yě	dã	also, too
+1	页	yè		page, sheet, leaf
+1	怎	zěn	chẩn	what? why? how?
+1	站	zhàn	trạm	stand, station; to halt, to stand; website; meas
+1	找	zhǎo	quơ	to search for, to look for, to find; change (as 
+1	这	zhè		this, these; such; here
+1	桌	zhuō		table, stand, desk, counter
+1	坐	zuò		seat; to sit; to ride, to travel by
+1	做	zuò		to work, to make; to act
+2	啊	a	à	ah, exclamatory particle
+2	办	bàn		to set up; to manage, to run; to deal with, to h
+2	变	biàn	biến	to change, to transform, to alter; rebel
+2	餐	cān		to eat, to dine; meal, food
+2	查	chá	tra	to investigate, to examine, to look into
+2	晨	chén	thần	dawn, early morning
+2	楚	chǔ	sở	clear, distinct; pain, suffering; surname
+2	处	chù	xử	to reside at, to live in; place, locale; departm
+2	带	dài	đai	belt, strap; band, ribbon; area, zone; to carry,
+2	单	dān	đơn	single, individual, only; lone
+2	掉	diào	trao	to drop, to fall, to remove
+2	懂	dǒng		to understand, to know
+2	而	ér		and, and then, and yet; but
+2	发	fā	phát	to issue, to dispatch, to send out; hair
+2	份	fèn	phần	job, part, role; duty
+2	狗	gǒu	cẩu	dog
+2	够	gòu		enough, adequate; to reach, to attain; to pass m
+2	观	guān	quan	to observe, to spectate; appearance, view
+2	广	guǎng	quảng	broad, vast, wide; building, house
+2	喊	hǎn		to shout, to yell, to call out; to howl; to cry
+2	黑	hēi	hắc	black; dark; evil, sinister
+2	忽	hū	hốt	suddenly, abruptly; to neglect
+2	划	huà	vạch	to row or paddle a boat; to scratch; to plan; pr
+2	或	huò	hoặc	or, either, else; maybe, perhaps, possibly
+2	检	jiǎn	ghém	to check, to examine, to inspect
+2	饺	jiǎo		stuffed dumplings
+2	经	jīng	kinh	the classics; to experience, to undergo
+2	睛	jīng		eyeball; pupil
+2	举	jǔ	cử	to raise; to recommend; to praise
+2	卡	kǎ		card, punch card; calorie
+2	靠	kào		nearby; to depend on, to lean on, to trust
+2	哭	kū	khóc	to weep, to cry, to wail
+2	筷	kuài		chopsticks
+2	篮	lán	xờm	basket; goal
+2	乐	lè	lạc	cheerful, happy, laughing; music
+2	脸	liǎn		face, cheek; reputation
+2	亮	liàng		bright, brilliant, radiant, light
+2	辆	liàng		measure word for vehicles
+2	绿	lǜ	lục	green; chlorine
+2	卖	mài	mại	to sell; to betray; to show off
+2	满	mǎn	mãn	to fill; full, packed; satisfied
+2	爬	pá	bò	to climb, to scramble; to crawl, to creep
+2	怕	pà		to fear, to be afraid of; apprehensive
+2	碰	pèng		to touch; to meet with; to collide, to bump into
+2	篇	piān		chapter, section; article, essay
+2	其	qí	kì	his, her, its, their; that
+2	墙	qiáng	tường	wall
+2	轻	qīng	khinh	light, gentle; simple, easy
+2	让	ràng	nhường	to allow, to permit, to yield
+2	实	shí	thực	real, true; honest, sincere
+2	收	shōu	thu	to collect, to gather, to harvest
+2	舒	shū	thư	relaxed, comfortable; to unfold, to stretch out
+2	虽	suī	tuy	although, even though
+2	它	tā		it; other
+2	套	tào		case, cover, envelope, wrapper
+2	疼	téng		ache, pain; to love dearly
+2	铁	tiě	thiết	iron; strong, solid, firm
+2	挺	tǐng		to straighten, to stand upright; rigid, stiff
+2	腿	tuǐ	thoái	legs, thighs
+2	碗	wǎn		bowl, small dish
+2	喂	wèi	ỏi	interjection used to call attention
+2	鞋	xié	hài	shoes, footwear in general
+2	颜	yán		face, facial appearance
+2	药	yào	dược	drugs, medicine; the leaf of the Dahurian angeli
+2	已	yǐ	dĩ	already; finished; to stop; then, afterwards
+2	应	yīng	ứng	should, must; to respond, to handle; to deal wit
+2	于	yú	vu	at, in, on; to, from; alas!
+2	咱	zán		we, us
+2	脏	zàng		organs, viscera; dirty, filthy
+2	澡	zǎo		to wash, to bathe
+2	只	zhī	chỉ	only, merely, just
+2	嘴	zuǐ		mouth, lips
+3	按	àn	án	to check, to control, to push, to restrain
+3	播	bō	vá	to sow seeds, to scatter; to broadcast, to sprea
+3	步	bù	bộ	walk, stroll, pace, march; to make progress
+3	曾	céng	tằng	already, formerly, once; the past
+3	产	chǎn		to give birth, to bring forth, to produce
+3	厂	chǎng	xưởng	cliff; factory, workshop; building
+3	吵	chǎo	sảo	to argue, to dispute; to annoy, to disturb
+3	衬	chèn		underwear, lining; in contrast
+3	传	chuán	truyền	to pass on; to propagate; to transmit; summons
+3	此	cǐ	thử	this, these; in this case, then
+3	啡	fēi		coffee; morphine
+3	丰	fēng	phong	abundant, lush, bountiful, plenty
+3	赶	gǎn		to pursue, to overtake; to hurry; to expel
+3	姑	gū	cô	father's sister; husband's mother
+3	哈	hā	hóp	the sound of laughter
+3	济	jì		to aid, to help, to relieve; to ferry across
+3	继	jì	kế	to continue, to carry on; to succeed, to inherit
+3	价	jià	giá	price, value
+3	蕉	jiāo	tiêu	banana, plantain
+3	绝	jué		to cut, to sever; to break off, to terminate
+3	咖	kā		coffee; used in transliterations
+3	裤	kù	khố	pants, trousers
+3	李	lǐ	lí	plum; luggage; surname
+3	历	lì	lịch	history; calendar
+3	联	lián	liên	ally, associate; to connect, to join
+3	另	lìng	lánh	another; separate, other
+3	录	lù		to copy, to record, to write down
+3	每	měi	hỏi	each, every
+3	牌	pái	bài	card, game piece; placard, signboard, tablet
+3	胖	pàng	bỡn	fat, plump, obese; a fat person
+3	啤	pí		beer
+3	苹	píng	tần	apple; duckweed, Artemisia
+3	齐	qí	tày	even, uniform, of equal length
+3	缺	quē	khuyết	to lack, to be short; vacancy, gap, deficit
+3	裙	qún	quần	skirt, petticoat, apron
+3	仍	réng	nhưng	yet, still; keeping, continuing; again
+3	赛	sài		to compete, to contend; contest, race
+3	衫	shān	oam	shirt, robe, jacket, gown
+3	甜	tián		sweet, sweetness
+3	团	tuán	đoàn	sphere, circle, ball; mass, lump; group, regimen
+3	围	wéi	vè	to surround, to encircle, to corral
+3	戏	xì	hí	play, show, theater
+3	显	xiǎn	hiển	clear, evident; prominent; to show
+3	险	xiǎn	hiểm	narrow pass, strategic point
+3	乡	xiāng		country, village; rural
+3	效	xiào	hiệu	result, effect; effective
+3	续	xù	tục	continuous, serial
+3	压	yā	áp	press; oppress; crush; pressure
+3	验	yàn	nghiệm	to examine, to inspect, to test, to verify
+3	艺	yì	ớt	art; talent, ability; craft
+3	营	yíng		camp, barracks, army; to run, to manage
+3	赢	yíng		to win, to gain; surplus, profit
+3	杂	zá	tạp	mix, blend; various, miscellaneous
+3	增	zēng	tăng	to increase; to expand; to augment; to add
+3	证	zhèng	chứng	to prove, to verify; certificate, proof
+3	值	zhí		price, value, worth
+3	抓	zhuā	co	to clutch, to grab, to seize
+3	专	zhuān	chuyên	concentrated, specialized; to monopolize
+3	转	zhuǎn	chuyển	to move, to convey; to turn, to revolve, to circ
+3	总	zǒng	tổng	to gather, to collect; overall, altogether
+4	阿	ā		an initial particle, a prefix used for names; us
+4	矮	ǎi		short, low; dwarf
+4	巴	bā	ba	to desire, to wish for
+4	摆	bǎi	bẫy	to arrange, to display; pendulum, swing
+4	笨	bèn		stupid, foolish, dull, awkward
+4	毕	bì	tất	to finish, to conclude, to end; completed
+4	辩	biàn		to argue, to dispute; to discuss, to debate
+4	冰	bīng	băng	ice; ice-cold
+4	沉	chén	tròm	to sink, to submerge; profound, deep
+4	迟	chí	trì	tardy, slow, late; to delay
+4	窗	chuāng	song	window
+4	递	dì	đệ	to deliver, to hand over; substitute
+4	堵	dǔ		wall; to stop, to prevent, to block
+4	肚	dù		belly; abdomen, bowels
+4	恶	è	ác	bad, evil, wicked; to hate, to loathe; foul, nau
+4	瓜	guā	qua	melon, gourd, squash, cucumber
+4	逛	guàng		to ramble, to stroll, to wander
+4	归	guī		to return, to go back; to return to, to revert
+4	裹	guǒ		to wrap, to encircle; to confine, to bind
+4	毫	háo	hào	fine hair; measure of length; one-thousandth
+4	乎	hū	hồ	interrogative or exclamatory final particle
+4	户	hù	hộ	door; family
+4	怀	huái	hoài	bosom, breast; to carry in one's bosom
+4	汇	huì		to gather, to collect; confluence
+4	伙	huǒ		companion, colleague; utensils
+4	圾	jī		garbage, rubbish; shaking; danger
+4	奖	jiǎng		prize, reward; to award
+4	劲	jìn	cứng	strong, tough, unyielding; power, energy
+4	竟	jìng	cánh	finally, after all, at last; indeed; unexpected
+4	聚	jù	tụ	to assemble, to collect, to meet
+4	卷	juǎn	quyển	book, scroll, volume; curled up; to curl, to rol
+4	棵	kē	quả	measure word for trees
+4	宽	kuān	khoan	broad, spacious, vast, wide
+4	矿	kuàng	khoáng	mine; mineral, ore
+4	扩	kuò	quẳng	to expand, to stretch, to magnify
+4	垃	lā	lắp	garbage, refuse, trash, waste
+4	泪	lèi	lệ	tears; to cry, to weep
+4	俩	liǎ		two, a pair, a couple
+4	炼	liàn	luyện	to smelt, to refine; to distill, to condense
+4	聊	liáo		somewhat, slightly, at least
+4	码	mǎ		number, numeral, symbol; yard
+4	摸	mō	mò	to caress, to stroke, to gently touch
+4	默	mò	mặc	silent; quiet, still; dark
+4	闹	nào	náo	busy, lively; to dispute, to quarrel
+4	趋	qū	xu	to hurry, to hasten; to approach, to be attracte
+4	圈	quān	khuyên	circle, ring, loop; to encircle
+4	权	quán	quyền	authority, power, right
+4	晒	shài		to dry in the sun; to expose to the sun
+4	闪	shǎn		flash, lightning; to dodge, to evade
+4	烧	shāo	thiêu	to burn, to bake; to heat, to roast
+4	释	shì	thích	to explain, to interpret; to release
+4	售	shòu		to sell
+4	躺	tǎng	thẳng	to recline, to lie down
+4	梯	tī		ladder, steps, stairs
+4	袜	wà		socks, stockings
+4	弯	wān		bend, curve, turn
+4	谓	wèi		to call, to say, to tell; name, title; meaning
+4	稳	wěn	ủn	steady, stable; solid, firm
+4	咸	xián		all, together, united; salted
+4	县	xiàn	huyện	county, district, subdivision
+4	销	xiāo	tiu	to fuse, to melt; to market, to sell
+4	亚	yà		Asia; second
+4	呀	ya	nhá	particle used to express surprise
+4	严	yán	nghiêm	strict, rigorous, rigid; stern
+4	盐	yán		salt
+4	摇	yáo	gieo	to rock, to shake; to swing, to wave
+4	姨	yí	dì	aunt, mother's sister
+4	译	yì	dịch	to translate, to interpret; to encode, to decode
+4	圆	yuán	viên	circle; circular, round; complete
+4	阅	yuè		to examine, to inspect; to read, to review
+4	赞	zàn		to help, to support; to laud, to praise
+4	择	zé	trạch	to select, to choose
+4	战	zhàn	chiến	war, fighting, battle
+4	之	zhī	chi	marks preceding phrase as modifier of following 
+4	址	zhǐ	xởi	location, site; the foundation of a house
+4	智	zhì	trí	wisdom, knowledge, intelligence
+4	综	zōng		to sum up; to arrange threads for weaving
+5	碍	ài	ngại	to block, to deter, to hinder, to obstruct
+5	拔	bá	bạt	to uproot, to pull out; to select, to promote
+5	拜	bài	bái	to bow, to salute; to worship, to pay respects
+5	扮	bàn		costume, disguise; to dress up
+5	玻	bō		glass
+5	猜	cāi		to guess, to conjecture, to suppose; to feel
+5	叉	chā		fork; prong; cross, intersect
+5	插	chā	chắp	to insert, to stick in; to pierce; to plant
+5	拆	chāi	sách	to break open, to split up, to tear apart
+5	柴	chái	sài	firewood, faggots, fuel; surname
+5	尝	cháng		to taste; to experience, to experiment with
+5	倡	chàng	xướng	guide, leader; lead, introduce
+5	乘	chéng	thặng	ride, mount; to make use of; to ascend; to multi
+5	厨	chú	chù	kitchen; closet, cupboard
+5	闯	chuǎng	sấm	to rush in, to charge in, to burst in
+5	聪	cōng	thông	sharp (of sight and hearing); intelligent, cleve
+5	脆	cuì		fragile, frail; brittle, crisp
+5	呆	dāi	ngốc	dull, simple, stupid
+5	弹	dàn	đàn	bullet, pellet, shell; elastic, springy
+5	挡	dǎng		to block, to obstruct; to get in the way; cover,
+5	德	dé	đức	ethics, morality; compassion, kindness
+5	丢	diū	điêu	to lose; to discard
+5	吨	dūn	đồn	a metric ton
+5	朵	duǒ	đoá	cluster of flowers; earlobe; an item on both sid
+5	躲	duǒ		to evade, to escape; to hide, to take shelter
+5	尔	ěr	nể	you; that, those; final particle
+5	泛	fàn	phiếm	to drift, to float; broad, vast; careless, reckl
+5	仿	fǎng	phảng	to imitate, to copy; fake; as if
+5	疯	fēng	phong	crazy, insane, mentally ill
+5	辅	fǔ		side road; to assist, to coach, to tutor
+5	傅	fù	phó	tutor, teacher; to assist; surname
+5	糕	gāo		cake, pastry
+5	搞	gǎo	cào	to do, to fix, to make, to settle
+5	估	gū		merchant; to estimate, to guess, to presume
+5	柜	guì	cũi	cabinet, cupboard, wardrobe; shop counter
+5	滚	gǔn	củn	to boil, to roll, to turn
+5	盒	hé	hộp	small box or case; casket
+5	猴	hóu	hầu	monkey, ape; like a monkey
+5	胡	hú		recklessly, foolishly; wildly
+5	糊	hú	hồ	muddled; paste; to stick on with paste
+5	恢	huī		to restore, to recover; great, immense, vast
+5	惠	huì	huệ	favor, benefit, blessing, kindness
+5	击	jī		to strike, to hit, to beat; to attack, to fight
+5	辑	jí		to gather, to collect; to edit, to compile
+5	挤	jǐ		to squeeze, to push against; crowded
+5	夹	jiā	giáp	to support; to be wedged between
+5	驾	jià	giá	to drive, to ride, to sail; carriage, cart
+5	艰	jiān	gian	difficult, hard; hardship
+5	剪	jiǎn	tiện	scissors; to cut, to divide, to separate
+5	胶	jiāo	keo	glue, gum, resin, rubber; sticky; to glue
+5	俱	jù	câu	all, together; accompany
+5	烤	kǎo	khảo	to bake, to cook, to roast, to toast
+5	颗	kē		grain, kernel
+5	咳	hāi	cay	to cough
+5	亏	kuī	khuya	to lose, to fail; loss, damages; deficient
+5	览	lǎn	lãm	to look over, to inspect, to view, to perceive
+5	烂	làn	lạn	overcooked, overripe; rotten, spoiled
+5	劳	láo	lao	to labor, to toil; to do manual work
+5	厉	lì	lẹ	whetstone; to grind, to sharpen, to whet
+5	怜	lián	lanh	to pity, to sympathize with
+5	帘	lián	rèm	the flag-sign of a tavern
+5	邻	lín	lân	neighbor; neighborhood
+5	龄	líng		age; years
+5	逻	luó	lạ	to patrol, to inspect; patrol, watch; logic
+5	煤	méi	muồi	carbon, charcoal, coal, coke
+5	脾	pí	tì	spleen, pancreas; temper, disposition
+5	骗	piàn		to cheat, to defraud, to swindle
+5	拼	pīn	phanh	to link, to join together; to incorporate
+5	凭	píng	bằng	to lean on; to rely on
+5	泼	pō		to pour, to splash, to sprinkle, to water
+5	葡	pú		grapes; Portugal, Portuguese
+5	签	qiān		to sign, to endorse; a note, a slip of paper
+5	枪	qiāng	thương	gun, rife; lance, spear
+5	抢	qiǎng		urgent, rushed; to rob, to plunder
+5	悄	qiāo		quiet, silent, still; anxious
+5	敲	qiāo	xao	to hammer, to pound, to strike
+5	瞧	qiáo		to glance at, to look at, to see
+5	劝	quàn	khuyến	to recommend, to advise; to urge, to exhort
+5	扰	rǎo	nhiễu	to poke, to disturb, to annoy, to agitate
+5	绕	rào	nhiễu	to entwine, to wind around; to orbit, to revolve
+5	扔	rēng	nẫy	to throw, to hurl, to cast away
+5	荣	róng	vinh	glory, honor; to flourish, to prosper
+5	绒	róng	nhung	cotton, silk, velvet, wool
+5	洒	sǎ	sái	to pour, to spill; to scatter, to shed; to wipe 
+5	傻	shǎ		foolish, silly, stupid; an imbecile
+5	稍	shāo		somewhat, slightly, a little; rather
+5	舍	shě	xá	house, dwelling; to reside, to dwell; to abandon
+5	摄	shè	nhép	to absorb, to take in; to photograph; to act on 
+5	剩	shèng		leftovers, residue, remains
+5	驶	shǐ		to drive, to pilot, to ride; fast, quick
+5	瘦	shòu	xấu	thin, lean, emaciated; meager
+5	蔬	shū		vegetables, greens
+5	鼠	shǔ		rat, mouse
+5	摔	shuāi		to fall, to stumble, to trip
+5	硕	shuò	thạc	great, eminent; large, big
+5	搜	sōu	sưu	to seek, to search, to investigate
+5	肃	sù		to pay respects; solemn, reverent
+5	碎	suì	toái	to break, to smash; broken, busted
+5	抬	tái		to carry, to lift, to raise
+5	坦	tǎn	đất	flat, level, smooth; candid, open
+5	萄	táo		grapes
+5	厅	tīng		hall, central room
+5	偷	tōu		to steal; burglar, thief
+5	兔	tù	thỏ	rabbit, hare
+5	卧	wò		to crouch; to lie down
+5	污	wū	ô	filthy, dirty; polluted, impure
+5	悉	xī	tạt	to know, to learn about, to comprehend
+5	闲	xián		fence, guard; to defend; idle time
+5	歇	xiē	hết	to stop, to rest, to lodge
+5	欣	xīn	hân	delighted, happy, joyous
+5	询	xún		to ask about, to inquire into; to consult
+5	厌	yàn	ướm	to dislike, to detest; to reject; to satiate
+5	艳	yàn	diễm	beautiful, glamorous, sexy, voluptuous
+5	邀	yāo		to invite, to welcome; to intercept, to meet
+5	咬	yǎo	rao	to bite, to gnaw
+5	谊	yì		friendship; appropriate, suitable
+5	尤	yóu		especially, particularly
+5	豫	yù		relaxed; hesitant
+5	仔	zǐ	tử	small thing, child; young animal
+5	糟	zāo		sediment, dregs; to waste, to spoil
+5	涨	zhǎng	trướng	flood tide; to rise in price
+5	挣	zhēng	tránh	to struggle, to strive, to endeavor
+5	撞	zhuàng	chàng	to bump into, to collide, to hit, to knock again
+5	醉	zuì		intoxicated, drunk; addicted
+6	榜	bǎng	bàng	placard, notice, announcement; a list of names
+6	逼	bī	bức	to bother, to pressure; to compel, to force
+6	扁	biǎn	biển	flat; board, sign, tablet
+6	拨	bō		to stir, to move, to distribute, to allocate
+6	踩	cǎi		to step on; to stamp
+6	藏	cáng		to conceal, to hide; to hoard, to store
+6	厕	cè	xí	toilet, washroom; to mingle
+6	昌	chāng		sunlight; good, proper; prosperous
+6	畅	chàng	sướng	freely, smoothly; unrestrained
+6	撑	chēng	xênh	to support, to prop up, to brace; overflowing
+6	宠	chǒng	sủng	to love; to favor, to pamper, to spoil; concubin
+6	储	chǔ		to save money, to store, to reserve; heir
+6	醋	cù		vinegar; jealousy, envy
+6	档	dàng		shelve, frame; files, records; grade, level
+6	蹈	dǎo	dạo	to dance, to stamp the feet
+6	吊	diào		to condole, to mourn, to pity; to hang
+6	跌	diē	trặc	to stumble, to slip, to fall
+6	蹲	dūn		to squat, to crouch
+6	废	fèi	phế	to terminate; to discard; to abgrogate
+6	氛	fēn		air; atmosphere
+6	锋	fēng		spear-point; edge, point, tip
+6	佛	fú	phật	Buddha; Buddhist
+6	杆	gān	cơn	cane, pole, stick
+6	岗	gǎng		post; position
+6	巩	gǒng	củng	to bind, to guard, to strengthen; firm, secure, 
+6	刮	guā		to shave; to scrape; to blow
+6	跪	guì	quỳ	to kneel
+6	狠	hěn		vicious, fierce, cruel
+6	宏	hóng		great, spacious, vast, wide
+6	壶	hú		jar, pot, jug, vase; surname
+6	绘	huì	gói	to sketch, to paint, to draw
+6	慧	huì		bright, intelligent; intelligence
+6	昏	hūn	hôn	dusk, nightfall, twilight, dark; to faint, to lo
+6	嘉	jiā		excellent; joyful; auspicious
+6	尖	jiān	tiêm	sharp, pointed, acute; keen, shrewd
+6	捡	jiǎn		to pick up, to gather, to collect
+6	剑	jiàn	kiếm	sword, dagger, saber
+6	箭	jiàn	tiễn	arrow; a type of bamboo
+6	酱	jiàng	tương	sauce, paste, jam
+6	骄	jiāo	kiêu	haughty, spirited; a wild stallion
+6	揭	jiē	yết	to lift off a cover; to reveal, to divulge; surn
+6	截	jié	tiệt	to cut off, to obstruct, to stop; segment; inter
+6	捐	juān	quyên	to give, to donate; to give up, to renounce
+6	扣	kòu	khấu	to detain; to knock, to tap; button
+6	跨	kuà		to straddle, to ride; to span, to stretch across
+6	阔	kuò		ample, broad, wide; separate; to be apart
+6	啦	la		final particle of an assertion
+6	赖	lài		to depend on, to rely on; to bilk, to deny; poor
+6	懒	lǎn		lazy, languid, listless
+6	牢	láo	lao	pen, prison, stable; fast, firm, secure
+6	梁	liáng	lương	bridge; beam, rafter; surname
+6	谅	liàng	lượng	to excuse, to forgive; to guess, to presume
+6	灵	líng	linh	spirit, soul; spiritual world
+6	嘛	ma		final exclamatory particle
+6	馒	mán		steamed buns; steamed dumplings
+6	蒙	méng	mông	to cover; to deceive; Mongolia
+6	棉	mián		cotton; cotton-padded
+6	扭	niǔ		to turn, to twist, to wrench; to grasp, to seize
+6	盼	pàn		to look, to gaze; to expect, to hope for
+6	炮	pào	pháo	cannon, artillery
+6	聘	pìn	sánh	to employ, to engage; betrothed
+6	屏	píng	bình	screen, shield; to put aside, to reject; to hold
+6	坡	pō	pha	slope, hillside, embankment
+6	铺	pù	phố	shop, store; bed, mattress
+6	恰	qià		just, exactly, precisely; proper
+6	牵	qiān		to drag, to pull, to lead by the hand
+6	歉	qiàn		deficient, lacking; to apologize, to regret, to 
+6	茄	jiā	nhà	eggplant
+6	渠	qú	cừ	ditch, gutter; canal, channel
+6	勺	sháo	chước	spoon, ladle; unit of volume
+6	涉	shè	thiệp	sconcerned, involved; to experience; to wade thr
+6	薯	shǔ		yam, tuber, potato
+6	苏	sū	to	to awaken, to revive, to resurrect; used in tran
+6	趟	tàng		time, occasion; to make a journey
+6	掏	tāo	đào	to take out; to pull out; to clean out
+6	踢	tī		to kick
+6	吞	tūn		to absorb, to annex; to engulf; to swallow
+6	拖	tuō	đà	to drag, to haul, to tow; to delay
+6	挖	wā		to dig, to excavate
+6	娃	wá		baby; doll; pretty girl
+6	哇	wa	oà	to vomit; an infant's cry
+6	伍	wǔ	ngũ	five, company of five; troops
+6	牺	xī		to sacrifice, to give up, to die for a cause
+6	陷	xiàn	hãm	to sink, to plunge; trap, pitfall
+6	晓	xiǎo	hẻo	dawn; clear, explicit, known
+6	讯	xùn		news, information; to question, to interrogate
+6	氧	yǎng		oxygen
+6	耀	yào		to sparkle, to shine, to dazzle; glory
+6	隐	yǐn	ẩn	to hide, to conceal; secret, hidden
+6	娱	yú		pleasure, enjoyment, amusement
+6	缘	yuán	duyên	reason, cause; fate; margin, hem
+6	晕	yūn	vừng	dizzy, faint, foggy; to see stars
+6	允	yǔn		to grant, to consent; just, fair
+6	扎	zhā	trát	to bind, to wrap; to pierce; to stop
+6	炸	zhà		to explode; to fry in oil; to scald
+6	账	zhàng		accounts, bills; credit, debt
+6	粥	zhōu		porridge, gruel, congee
+6	赚	zhuàn		to earn, to profit, to make money
+6	庄	zhuāng	chăng	village, hamlet; villa, manor
+6	纵	zòng	tung	to indulge in, to give free reign to
+6	钻	zuān		diamond; to bore, to drill, to pierce
+7-9	哎	āi		interjection of surprise
+7-9	癌	ái		cancer, carcinoma
+7-9	蔼	ǎi		lush; friendly, affable
+7-9	艾	ài,yì	ngải	mugwort, Artemisia vulgaris; used in translitera
+7-9	唉	āi	hãy	alas; exclamation of surprise or pain
+7-9	隘	ài	ải	narrow, confined; a strategic pass
+7-9	昂	áng	ngang	to rise; proud, bold, upright
+7-9	熬	áo		to boil, to simmer; to endure pain
+7-9	澳	ào		bay, cove, dock, inlet
+7-9	扒	bā	bắt	to scratch, to dig up; to crouch, to crawl
+7-9	叭	bā	bớt	trumpet
+7-9	芭	bā		a plantain or banana palm
+7-9	靶	bǎ		target, mark
+7-9	坝	bà		embankment; dam
+7-9	霸	bà	bá	tyrant; to usurp, to rule by might
+7-9	掰	bāi		to rip, to tear
+7-9	柏	bǎi	bách	cypress, cedar
+7-9	扳	bān	bẳn	to drag, to pull; to twist
+7-9	拌	bàn	bắn	to mix
+7-9	瓣	bàn		petal; segment; valve
+7-9	绑	bǎng		to tie, to fasten, to bind
+7-9	谤	bàng	báng	to slander, to defame
+7-9	磅	bàng		pound; to weigh
+7-9	镑	bàng		pound sterling
+7-9	煲	bāo		to heat, to boil; saucepan
+7-9	堡	bǎo		fort, fortress; town, village
+7-9	豹	bào	beo	leopard, panther; surname
+7-9	曝	pù		to air out, to expose to sunlight; to reveal
+7-9	狈	bèi		a legendary wolf; distressed, wretched
+7-9	惫	bèi		tired, weary, fatigued
+7-9	绷	běng		to bind, to strap, to draw firm
+7-9	蹦	bèng		to jump, to bounce on; bright
+7-9	鄙	bǐ	bẽ	rustic, vulgar; to despise, to scorn
+7-9	毙	bì		to kill; to die a violent death
+7-9	痹	bì	tê	numbess, paralysis
+7-9	碧	bì	bích	jade; green, blue
+7-9	臂	bì		arm
+7-9	鞭	biān		whip; to lash, to flog
+7-9	贬	biǎn	biếm	to devalue, to demote; to criticize, to censure
+7-9	辨	biàn	biện	to recognize, to distinguish, to discriminate
+7-9	辫	biàn		braid, pigtail, plait; queue
+7-9	飙	biāo		whirlwind (1)
+7-9	憋	biē		to stifle, to restrain, to choke; to suppress on
+7-9	彬	bīn	băn	ornamental; cultivated, refined, well-bred
+7-9	滨	bīn		beach, coast, river bank
+7-9	缤	bīn		abundant, diverse, variegated
+7-9	秉	bǐng	bảnh	to grasp, to hold; to maintain, to preside over
+7-9	驳	bó	bác	variegated, motley; to refuse, to dispute
+7-9	脖	bó		neck
+7-9	搏	bó	vác	combat; to fight; to strike
+7-9	膊	bó		shoulder, upper arm
+7-9	卜	bo	bốc	divination, fortune-telling; prophecy
+7-9	睬	cǎi		to notice, to pay attention to
+7-9	惭	cán	tuồm	ashamed, humiliated; shameful
+7-9	灿	càn	xán	vivid, illuminating, brilliant
+7-9	苍	cāng		dark blue; deep green; old, hoary
+7-9	沧	cāng		azure, cold, vast (all as of the sea)
+7-9	舱	cāng		cabin, ship's hold
+7-9	糙	cāo		coarse, harsh, rough; coarse rice
+7-9	蹭	cèng		to shuffle; to procrastinate, to freeload, to di
+7-9	岔	chà		to diverge, to branch; junction, fork in the roa
+7-9	诧	chà		surprised, shocked
+7-9	掺	càn		to mix, to blend, to adulterate
+7-9	搀	chān	sọm	to mix; to support, to sustain, to lend a hand
+7-9	馋	chán	thèm	greedy, gluttonous; lewd, lecherous
+7-9	缠	chán	triền	to wrap, to entangle; to involve; to bother, to 
+7-9	铲	chǎn		spade, shovel; trowel, scoop
+7-9	阐	chǎn	xén	to disclose; to explain; to open
+7-9	颤	chàn		to shiver, to tremble; trembling
+7-9	猖	chāng		mad, wild; reckless, unruly
+7-9	嫦	cháng	thường	a moon goddess, the lady in the moon
+7-9	敞	chǎng		wide, open, spacious
+7-9	钞	chāo		bank note, paper money; to counterfeit
+7-9	巢	cháo	sào	nest, living quarters in tree
+7-9	扯	chě	chải	to rip, to tear; to haul; casual talk
+7-9	尘	chén	trần	cinders, ashes, dust, dirt
+7-9	辰	chén		early morning; fortune, good luck; 5th terrestri
+7-9	趁	chèn	sấn	to take advantage of, to seize an opportunity
+7-9	橙	chéng	chanh	orange
+7-9	逞	chěng	sính	indulge oneself; brag, show off
+7-9	秤	chèng	xứng	balance, scale; steelyard
+7-9	弛	chí		to loosen, to relax; to unstring a bow
+7-9	驰	chí		speed, haste; to run, to gallop
+7-9	齿	chǐ	xỉ	teeth; gears, cogs; age
+7-9	侈	chǐ	xỉ	luxurious, extravagant
+7-9	翅	chì		wings; fins
+7-9	仇	chóu	cừu	enemy; hatred, enmity
+7-9	绸	chóu		silk cloth, satin damask
+7-9	畴	chóu		field, farmland; class, category
+7-9	稠	chóu		crowded, dense; viscous, thick
+7-9	筹	chóu		chip, tally, token; to plan; to raise money
+7-9	瞅	chǒu		to see, to look at, to gaze at
+7-9	橱	chú		cabinet, cupboard, wardrobe
+7-9	揣	chuāi		to stow in one's clothes; to estimate, to guess,
+7-9	踹	chuài		to trample, to tread on; to kick; to crush
+7-9	喘	chuǎn	suyễn	to pant, to gasp, to breathe heavily
+7-9	捶	chuí		to beat, to lash, to strike with a cane
+7-9	锤	chuí		hammer
+7-9	醇	chún		rich, pure, as good as wine
+7-9	蠢	chǔn	xuẩn	to wriggle; stupid, silly, fat
+7-9	戳	chuō		to pierce, to prick, to stab; stamp, seal
+7-9	绰	chuò	xước	graceful, delicate; spacious
+7-9	瓷	cí	sứ	china, crockery, porcelain
+7-9	匆	cōng		hastily, hurriedly, in a rush
+7-9	囱	cōng	song	chimney
+7-9	葱	cōng		scallions, leeks, green onions
+7-9	丛	cóng		bush, shrub; thicket; collection
+7-9	凑	còu		to piece together, to assemble
+7-9	簇	cù		bunch, cluster; crowd, swarm
+7-9	窜	cuàn		to run away; to expel; to revise, to edit
+7-9	摧	cuī		to destroy, to wreck
+7-9	粹	cuì	tuý	pure, unadulterated; essence
+7-9	翠	cuì	thuý	kingfisher; jade, emerald
+7-9	搓	cuō	sai	to rub or roll between the hands
+7-9	磋	cuō	gây	to polish, to buff; to examine, to deliberate
+7-9	歹	dǎi	ngạt	corpse; death; evil, depraved, wicked
+7-9	耽	dān	xẩm	to indulge; to delay
+7-9	荡	dàng	đãng	pond, pool; ripple, shake; to wash away, to wipe
+7-9	叨	dāo		talkative; grumbling
+7-9	捣	dǎo	đẽo	to thresh, to pound; to stir, to disturb; to att
+7-9	祷	dǎo	đảo	to pray, to entreat, to beg; prayer
+7-9	稻	dào		rice plant; rice growing in the field
+7-9	蹬	dēng		to step on; to wear; to face bad luck
+7-9	邓	dèng	đặng	surname
+7-9	凳	dèng		bench; stool
+7-9	瞪	dèng		to stare at
+7-9	迪	dí		to advance, to enlighten, to make progress
+7-9	涤	dí	sạch	to wash, to sweep; to purify, to cleanse
+7-9	蒂	dì	đế	root cause; the stem of a fruit; the peduncle of
+7-9	颠	diān	điên	peak, summit, top; to upset
+7-9	巅	diān		mountain peak, mountain top
+7-9	甸	diān		suburbs of the capital; to govern; crops
+7-9	垫	diàn		cushion, mat, pad; to advance money, to pay for 
+7-9	淀	diàn		marsh, swamp; sediment; to precipitate
+7-9	惦	diàn	điếm	to think of, to remember, to miss
+7-9	奠	diàn		to found, to settle; to pay respects; a libation
+7-9	刁	diāo	điêu	tricky, sly, crafty, cunning
+7-9	叼	diāo		to hold in the mouth
+7-9	雕	diāo		to carve, to engrave; eagle, vulture
+7-9	爹	diē		father, dad, daddy
+7-9	谍	dié	điệp	to spy; an intelligence report
+7-9	叠	dié	điệp	pile; layer; to fold up; to repeat, to duplicate
+7-9	碟	dié		plate, small dish
+7-9	叮	dīng	đinh	to persistently exhort or urge; sting (as of an 
+7-9	盯	dīng		to rivet one's gaze upon; to keep eyes on
+7-9	鼎	dǐng	đỉnh	large, three-legged bronze cauldron
+7-9	钉	dīng	đinh	nail, spike
+7-9	董	dǒng	đổng	to direct, to supervise; surname
+7-9	兜	dōu	đâu	pouch
+7-9	抖	dǒu		to tremble, to shake, to rouse
+7-9	陡	dǒu		steep, sloping; sudden, abrupt
+7-9	逗	dòu		to entice, to tempt; to arouse, to stir
+7-9	睹	dǔ	đủ	to look at, to gaze at; to observe
+7-9	杜	dù	đỗ	to prevent, to restrict, to stop; surname
+7-9	妒	dù	đố	jealous, envious
+7-9	兑	duì	đoài	cash, check; to exchange
+7-9	敦	dūn	đôn	honest, candid, sincere; kind-hearted; to esteem
+7-9	盹	dǔn		to doze, to nap, to nod off
+7-9	炖	dùn	don	stew; to cook stew
+7-9	哆	duō	đớ	to quiver, to tremble, to shudder
+7-9	舵	duò		helm, rudder
+7-9	讹	é	ngoa	to swindle, to cheat; wrong, error; falsehood
+7-9	俄	é		sudden, abrupt; used in transliterations
+7-9	娥	é	nga	beautiful, pretty; good; surname
+7-9	鹅	é	nga	goose
+7-9	遏	è	át	to curb, to check, to stop, to suppress
+7-9	鳄	è		alligator
+7-9	绯	fēi		crimson, scarlet; purple
+7-9	匪	fěi	phỉ	bandits, robbers, gangsters
+7-9	诽	fěi		to condemn, to slander, to vilify
+7-9	芬	fēn		aroma, fragrance, perfume
+7-9	吩	fēn	phàn	to order, to command; to instruct
+7-9	焚	fén		to burn
+7-9	粪	fèn	phân	manure, dung; shit, excrement
+7-9	冯	féng		to gallop; by dint of; surname
+7-9	逢	féng	phùng	to happen to meet; chance meeting, coincidence
+7-9	讽	fěng	phúng	sarcastic; to chant, to mock, to ridicule
+7-9	凤	fèng	phượng	male phoenix; symbol of joy
+7-9	孵	fū		to brood over eggs, to incubate, to hatch
+7-9	俘	fú		prisoner of war; take as prisoner
+7-9	袱	fú		apants; trousers; panties
+7-9	辐	fú		ray, spoke
+7-9	抚	fǔ	vỗ	to pat, to console; to stroke, to caress
+7-9	俯	fǔ		to bow down, to face down, to look down
+7-9	咐	fù	phó	to instruct; to order
+7-9	尬	gà		awkward, embarrassed; to limp, to stagger
+7-9	丐	gài	cái	beggar; to beg; to give
+7-9	钙	gài		calcium
+7-9	溉	gài		to water, to irrigate, to flood; to wash
+7-9	竿	gān	cần	bamboo pole; penis
+7-9	尴	gān		embarrassed; ill-at-ease
+7-9	缸	gāng	cong	earthen jug, crock, cistern
+7-9	杠	gāng	gông	pole, bar; lever, crowbar
+7-9	膏	gāo	cao	grease, fat; ointment, paste
+7-9	戈	gē	qua	spear, lance, halberd
+7-9	胳	gē	cặc	arms; armpit
+7-9	鸽	gē		pigeon, dove; Columba species (various)
+7-9	搁	gē	gác	to place, to lay down; to delay
+7-9	耿	gěng		bright, shining; brave, loyal
+7-9	躬	gōng	cung	to bow; personally, in person; oneself
+7-9	拱	gǒng	cõng	to salute, to bow; arched; arch
+7-9	钩	gōu	câu	hook, barb, sickle; to hook, to link
+7-9	沽	gū		to buy and sell; of inferior quality
+7-9	菇	gū		mushroom
+7-9	辜	gū		crime, offense, sin
+7-9	卦	guà	quái	divination, fortune-telling
+7-9	乖	guāi	quai	obedient, well-behaved; clever
+7-9	灌	guàn		to water, to irrigate; to pour; to flood
+7-9	罐	guàn		jar, jug, pitcher, pot
+7-9	龟	guī		turtle, tortoise; cuckold
+7-9	闺	guī	khuê	women's quarters; lady's apartment
+7-9	瑰	guī		extraordinary, fabulous; rose; semi-precious sto
+7-9	桂	guì	quế	cassia, cinnamon
+7-9	棍	gùn	côn	stick, cudgel; scoundrel
+7-9	骇	hài	hãi	to terrify, to shock, to frighten
+7-9	酣	hān		to enjoy liquor
+7-9	函	hán	hòm	correspondence; a case, a box
+7-9	涵	hán		to wet, to soak; to tolerate, to include lenient
+7-9	罕	hǎn		rare, scarce; surname
+7-9	旱	hàn	hạn	dry; drought; desert
+7-9	捍	hàn	cản	to defend, to guard; to ward off
+7-9	焊	hàn		to solder, to weld
+7-9	撼	hàn		to incite, to move, to shake
+7-9	杭	háng		ford; surname
+7-9	浩	hào		great, grand, vast
+7-9	呵	hē	ha	to scold; to yawn; the sound of someone laughing
+7-9	禾	hé		cereal, grain, rice; plant, stalk
+7-9	阂	hé		separated, blocked; to prevent, to block
+7-9	赫	hè	hách	bright, radiant, glowing
+7-9	嘿	hēi		quiet, silent
+7-9	哼	hēng		to hum; to sing softly; to moan, to groan
+7-9	轰	hōng	huênh	rumble, explosion, blast
+7-9	哄	hōng	họng	to coax; to beguile, to cheat, to deceive; tumul
+7-9	烘	hōng	hong	to bake, to roast; to dry by the fire
+7-9	弘	hóng		to enlarge, to expand; liberal, great
+7-9	吼	hǒu	hống	to roar, to shout; to bark, to howl
+7-9	唬	hǔ		to intimidate; to scare
+7-9	沪	hù		Shanghai; the Shanghai river
+7-9	哗	huā		uproar, tumult, hubbub
+7-9	猾	huá		crafty, cunning, shrewd; deceitful
+7-9	徊	huái	hồi	to linger, to pace; irresolute
+7-9	淮	huái	hoài	a river in Anhui province
+7-9	槐	huái	hoè	locust tree
+7-9	焕	huàn		shining, lustrous
+7-9	痪	huàn		numbness, paralysis
+7-9	凰	huáng		female phoenix
+7-9	煌	huáng		bright, shining, luminous
+7-9	恍	huǎng	hoảng	absent-minded; distracted; indistinct; seemingly
+7-9	晃	huǎng	quáng	bright, dazzling; to shake, to sway
+7-9	谎	huǎng		to lie
+7-9	徽	huī		badge, crest, logo, insignia
+7-9	卉	huì		general term for plants; myriads
+7-9	讳	huì	huý	taboo; to shun, to conceal, to avoid mentioning
+7-9	秽	huì	uế	dirty, unclean; immoral, obscene
+7-9	浑	hún		blended, mixed; muddy, turbid
+7-9	豁	huō		clear, open; exempt
+7-9	霍	huò	hoắc	quickly, suddenly; surname
+7-9	讥	jī		to ridicule, to mock, to jeer
+7-9	缉	jī		to sieze, to arrest; to stich closely
+7-9	畸	jī		odd, unusual; fraction, remainder
+7-9	棘	jí	gấc	jujube tree; thorns, brambles
+7-9	剂	jì	tễ	dose; medicine; measure word for medicines
+7-9	颊	jiá		cheeks, jaw
+7-9	贾	jiǎ		merchant; to buy, to trade; surname
+7-9	奸	jiān	gian	crafty, dishonest, selfish; evil, villainous; ad
+7-9	歼	jiān		to annihilate, to kill off, to wipe out
+7-9	拣	jiǎn	gióng	to choose, to select; to gather, to pick up
+7-9	柬	jiǎn		card, letter, invitation, note
+7-9	俭	jiǎn	kiệm	temperate, frugal, economical
+7-9	贱	jiàn	tiện	cheap, low, mean, worthless
+7-9	溅	jiàn		to sprinkle, to spray, to splash, to spill
+7-9	姜	jiāng	gừng	ginger; surname
+7-9	浆	jiāng		pulp, starch, syrup; a thick fluid
+7-9	僵	jiāng		still, stiff, motionless
+7-9	疆	jiāng		boundary, border, frontier
+7-9	桨	jiǎng		paddle, oar
+7-9	浇	jiāo	kiêu	to spray, to sprinkle, to water
+7-9	娇	jiāo	kiều	seductive, lovable, tender; pampered; frail
+7-9	椒	jiāo	tiêu	pepper, spice
+7-9	跤	jiāo		to tumble, to fall; to wrestle
+7-9	嚼	jué		to prattle, to be glib
+7-9	狡	jiǎo	giảo	cunning, deceitful, treacherous
+7-9	搅	jiǎo		to annoy, to disturb, to stir up
+7-9	缴	jiǎo	nhàu	to deliver, to submit, to hand over
+7-9	轿	jiào	kiệu	sedan-chair, palanquin, litter
+7-9	劫	jié		to take by force, to coerce; disaster; misfortun
+7-9	捷	jié	tiệp	nimble, quick; triumph, victory
+7-9	竭	jié	kiệt	to exhaust; to put forth great effort
+7-9	诫	jiè		to warn, to admonish; warning
+7-9	晋	jìn		to advance; to increase; to promote
+7-9	荆	jīng		thorns, brambles; surname
+7-9	兢	jīng	cạnh	fearful, cautious, wary
+7-9	阱	jǐng		trap, snare, pitfall
+7-9	颈	jǐng		neck, throat
+7-9	窘	jiǒng	quẫn	distressed; embarrassed; hard-pressed
+7-9	揪	jiū		to pinch, to grasp
+7-9	灸	jiǔ	cứu	to cauterize; moxibustion
+7-9	舅	jiù	cậu	mother's brother, uncle
+7-9	鞠	jū	cúc	to bow, to bend; to nourish, to rear
+7-9	橘	jú	quất	orange, tangerine
+7-9	沮	jǔ		to stop, to prevent; dejected, defeated
+7-9	矩	jǔ	củ	carpenter's square, ruler, rule
+7-9	炬	jù		torch
+7-9	锯	jù	cưa	a saw; to saw, to amputate
+7-9	倦	juàn	quyện	tired, weary
+7-9	诀	jué		to take leave of, to bid farewell; knack, trick
+7-9	崛	jué		towering; eminent; a sudden rise
+7-9	倔	jué		stubborn, obstinate, intransigent; firm
+7-9	钧	jūn		unit of weight equal to thirty catties; your (fo
+7-9	峻	jùn		high, steep, towering; stern
+7-9	骏	jùn	tuấn	an excellent horse; a noble steed
+7-9	竣	jùn		to terminate, to finish, to end; to quit
+7-9	凯	kǎi	khải	triumphant; triumph, victory
+7-9	侃	kǎn		upright and strong; amiable
+7-9	砍	kǎn		to hack, to chop, to cut, to fell
+7-9	槛	kǎn		threshold, door frame
+7-9	慷	kāng	khảng	ardent, fervent; generous, magnanimous
+7-9	扛	káng	giăng	to lift; to carry on one's shoulders
+7-9	磕	kē		to collide, to hit, to knock, to tap
+7-9	壳	ké	xác	casing, husk, shell
+7-9	啃	kěn		to gnaw, to chew, to bite
+7-9	吭	kēng		throat
+7-9	抠	kōu	khua	to lift, to raise; tight-fisted
+7-9	垮	kuǎ	khoai	to be defeated, to collapse, to fail
+7-9	挎	kuà		to carry
+7-9	筐	kuāng		bamboo basket or chest
+7-9	旷	kuàng	khoảng	broad, vast, wide; empty
+7-9	框	kuāng		door; frame
+7-9	窥	kuī		to peep, to spy on, to watch
+7-9	魁	kuí	khôi	chief, leader; best; monstrous
+7-9	馈	kuì		gift, present
+7-9	愧	kuì		ashamed, regretful; the pangs of conscience
+7-9	捆	kǔn		to bind, to tie, to truss up; a bundle
+7-9	廓	kuò	quách	broad, wide; open; empty; outline
+7-9	喇	lǎ	lạt	horn, bugle; llama; final particle
+7-9	腊	là	chạp	December; year's end sacrifice; dried meat
+7-9	蜡	là	rệp	candle, wax; maggot
+7-9	兰	lán		orchid; elegant, graceful
+7-9	拦	lán	dan	to block, to hinder, to obstruct
+7-9	婪	lán	lam	to covet; covetous, avaricious
+7-9	澜	lán	lan	overflowing; ripples, waves
+7-9	揽	lǎn	lãm	to grasp; to monopolize; to seize
+7-9	缆	lǎn		cable, hawser, heavy-duty rope
+7-9	捞	lāo	lau	to dredge up; to fish for; to scoop out of the w
+7-9	姥	lǎo	mụ	maternal grandmother; midwife
+7-9	唠	láo	lao	to chat, to gossip, to jaw, to talk
+7-9	涝	lào		to inundate, to flood; torrent
+7-9	勒	lēi	lắc	to strangle; to tighten
+7-9	垒	lěi	luỹ	rampart; base (in baseball)
+7-9	磊	lěi	lối	a pile of rocks; candid, open; great
+7-9	蕾	lěi		flower bud
+7-9	棱	léng	săng	squared timber; angle, corner, edge
+7-9	愣	lèng		dazed, stupefied
+7-9	黎	lí	lê	many, numerous; black; surname
+7-9	隶	lì		subservient; servant
+7-9	莲	lián	sen	lotus, water lily; paradise
+7-9	敛	liǎn		to collect, to extort
+7-9	链	liàn		chain, wire; chains, shackles
+7-9	辽	liáo		distant, far
+7-9	寥	liáo		few, scarce; empty, deserted
+7-9	潦	lǎo	lẻo	to flood; puddle; dejected, careless
+7-9	咧	liě	lác	to grimace, to grin
+7-9	猎	liè	lốp	hunting; field sports
+7-9	拎	līn		to lift, to haul, to take
+7-9	淋	lín	lấm	to drench, to drip, to soak; perfectly
+7-9	凌	líng	lăng	pure; virtuous; to insult; to maltreat
+7-9	岭	lǐng		mountain ridge, mountain peak
+7-9	溜	liū		to slip, to slide, to glide; slippery
+7-9	刘	liú		to kill, to destroy; surname
+7-9	浏	liú		bright; clear; deep; swift
+7-9	瘤	liú		tumor, lump, goiter
+7-9	遛	liú		to walk, to stroll
+7-9	咙	lóng	lùng	throat
+7-9	胧	lóng		blurry, obscured; the condition or appearance of
+7-9	聋	lóng		deaf
+7-9	窿	lóng		mine shaft; cavity, hole
+7-9	拢	lǒng	long	to collect, to bring together
+7-9	垄	lǒng	lũng	grave, mound; furrow, ridge
+7-9	搂	lǒu	lùa	to embrace, to hug; to drag, to pull
+7-9	陋	lòu	lậu	coarse, crude; narrow; ugly
+7-9	芦	lú		rushes, reeds
+7-9	卤	lǔ		salt
+7-9	鲁	lǔ	lỗ	foolish, stupid, rash; vulgar
+7-9	碌	lù		rocky, rough, uneven; mediocre
+7-9	铝	lǚ		aluminum
+7-9	屡	lǚ	lũ	frequently, often, again and again
+7-9	缕	lǚ	lụa	strand, thread; detailed, precise
+7-9	滤	lǜ		to filter, to strain
+7-9	孪	luán		twins
+7-9	掠	lüè	lướt	to pillage, to ransack
+7-9	抡	lūn		to swing, to flourish, to brandish
+7-9	萝	luó	lá	carrot, radish, turnip
+7-9	螺	luó		spiral shell, conch; spiral
+7-9	迈	mài	mại	old; to pass by, to take a stride
+7-9	瞒	mán	man	to deceive, to lie; to regard with suspicion
+7-9	蔓	màn	mơn	vine, tendril, creeper
+7-9	芒	máng	mang	blade; ray; silvergrass, Miscanthus sinensis
+7-9	氓	máng	manh	people, subjects, vassals
+7-9	茫	máng	mương	vague, boundless; vast, widespread
+7-9	莽	mǎng		thicket, underbrush; rude, impertinent
+7-9	茅	máo		rushes, reeds, grass; surname
+7-9	髦	máo	mao	fashionable, in vogue; mane, flowing hair
+7-9	玫	méi		rose
+7-9	霉	méi		mildew, mold, rot
+7-9	媚	mèi		attractive, charming; to charm, to flatter
+7-9	闷	mèn	muốn	gloomy, depressed, melancholy
+7-9	萌	méng	manh	bud, germ, sprout; to bud
+7-9	朦	méng	mông	dim, obscure; the condition of the moon
+7-9	孟	mèng	mạnh	first in a series; great, eminent
+7-9	觅	mì		to seek; to search
+7-9	缅	miǎn		distant, remote; to think of
+7-9	瞄	miáo		to take aim at; to look at
+7-9	渺	miǎo		vast, boundless
+7-9	庙	miào	miếu	temple, shrine; imperial court
+7-9	谬	miù		absurd; error, exaggeration
+7-9	蘑	mó		mushroom
+7-9	沫	mò	mượt	bubbles, foam, froth, suds
+7-9	陌	mò		strange, unfamiliar; a foot path between rice fi
+7-9	莫	mò	mạc	cannot; do not; is not; negative
+7-9	寞	mò	mịch	silent, still; lonely, solitary
+7-9	牡	mǔ		male animal; key, door bolt
+7-9	姆	mǔ		governess, matron, nanny
+7-9	沐	mù	múc	to bathe, to cleanse, to shampoo, to wash
+7-9	穆	mù		majestic; reverent, solemn
+7-9	呐	nà	nói	to raise one's voice; to yell, to shout; to stam
+7-9	乃	nǎi	nải	then; really, indeed, after all
+7-9	囊	náng		bag, purse, sack; to pocket, to stow
+7-9	挠	náo	nhéo	to yield; to scratch, to disturb
+7-9	恼	nǎo	não	angry, wrathful
+7-9	馁	něi	nuôi	famished, hungry, starving
+7-9	嫩	nèn	non	soft, delicate; young, tender
+7-9	腻	nì		greasy, oily, smooth; bored, tired
+7-9	黏	nián		to stick to; glutinous, sticky; glue
+7-9	酿	niàng		to ferment, to brew
+7-9	捏	niē		to knead, to mold, to pinch
+7-9	拧	níng		screw, wrench; to pinch, to twist, to wring
+7-9	挪	nuó	ná	to shift, to move
+7-9	哦	ó	nga	oh? really? is that so?
+7-9	呕	ǒu		to vomit; to annoy, to enrage
+7-9	趴	pā		prone, lying down, leaning over
+7-9	帕	pà		scarf, turban, veil, wrap
+7-9	徘	pái	bồi	to dither, to pace; hesitant
+7-9	潘	pān		a river that flows into the Han; surname
+7-9	攀	pān		to climb, to hang on, to pull up
+7-9	叛	pàn	bạn	rebel; rebellion; rebellious
+7-9	乓	pāng		used with ping for ping pong
+7-9	庞	páng		disorderly, messy; huge, big
+7-9	膀	bǎng		shoulder, upper arm, wing
+7-9	抛	pāo	phao	to abandon, to throw away; to fling, to toss
+7-9	刨	páo	bào	carpenter's plane; plane, level
+7-9	袍	páo	bào	robe, gown, cloak
+7-9	胚	pēi		embryo; an unfinished thing
+7-9	沛	pèi	phải	abundant, copious, full
+7-9	佩	pèi		belt ornament, pendant; wear at waist, tie to th
+7-9	抨	pēng	banh	to impeach; to criticize
+7-9	烹	pēng	phanh	cooking, cuisine; stir-fry
+7-9	蓬	péng	bồng	disheveled, unkempt; a type of raspberry
+7-9	鹏	péng	bằng	fabulous bird of enormous size
+7-9	篷	péng	bong	awning, covering; sail, tarp; boat
+7-9	捧	pěng	bổng	to hold or offer with both hands
+7-9	劈	pī		to chop, to cut apart; to split
+7-9	辟	pì	vếch	law, rule; to open up, to develop
+7-9	媲	pì		to marry off; to compare, to match, to pair up
+7-9	僻	pì		out-of-the-way, remote; unorthodox
+7-9	譬	pì	thí	example; metaphor, simile
+7-9	飘	piāo	phiêu	to drift, to float, to flutter
+7-9	撇	piē		to abandon, to discard
+7-9	乒	pīng		used with pong for ping pong
+7-9	萍	píng	bềnh	duckweed; to travel, to wander
+7-9	颇	pō	phở	rather, quite; partial, biased
+7-9	魄	pò	phách	vigor, soul, body; the dark side of the moon
+7-9	菩	pú	bồ	herb, aromatic plant
+7-9	瀑	pù		waterfall, cascade; heavy rain
+7-9	沏	qī		to infuse
+7-9	栖	qī	thê	perch, roost, to stay
+7-9	歧	qí		to diverge, to fork; a branch; a side road
+7-9	岂	qǐ		what; how
+7-9	迄	qì	hất	to extend, to reach; till, until
+7-9	砌	qì		to pile up, to build; stone steps; rock wall
+7-9	掐	qiā		to hold, to choke; to gather in one hand
+7-9	洽	qià		to mix, to blend, to harmonize
+7-9	虔	qián	kiền	reverent, devout
+7-9	钳	qián	kiềm	pincers, pliers, tongs; to compress
+7-9	谴	qiǎn	khiển	to scold, to reprimand, to abuse
+7-9	嵌	qiàn		valley, ravine; to fall into; to inlay, to set i
+7-9	呛	qiāng		choking, as by smoke; something that irritates t
+7-9	腔	qiāng	xoang	chest cavity; a hollow in the body
+7-9	乔	qiáo		tall, lofty; proud, stately
+7-9	侨	qiáo	quều	emigrant; to sojourn
+7-9	俏	qiào		to resemble; similar, alike; pretty
+7-9	窍	qiào	khíu	hole, opening, aperture
+7-9	翘	qiào		outstanding; to elevate, to lift, to raise
+7-9	撬	qiào		to lift, to raise, to pry off a lid
+7-9	怯	qiè	khiếp	afraid, lacking in courage
+7-9	钦	qīn	khâm	to respect, to admire; royal
+7-9	秦	qín		the Qin dynasty (eponymous for China)
+7-9	禽	qín	cầm	birds, fowl; to capture; surname
+7-9	擎	qíng		to lift; to support, to hold up
+7-9	驱	qū	xúi	to spur a horse on; to expel, to drive away
+7-9	躯	qū	xo	the human body
+7-9	娶	qǔ	thú	to marry, to take a wife
+7-9	壤	rǎng	nhưỡng	soil, loam, earth; rich
+7-9	攘	rǎng	nhường	to usurp, to seize; to repel
+7-9	嚷	rǎng		to shout, to roar, to cry; to brawl
+7-9	饶	ráo	nhiêu	abundant, bountiful
+7-9	惹	rě		to incite, to irritate, to offend, to vex
+7-9	韧	rèn		tough, strong; pliable
+7-9	揉	róu		to massage, to knead; to crush by hand
+7-9	锐	ruì		sharp, pointed; keen, acute
+7-9	瑞	ruì		auspicious; a good omen
+7-9	撒	sā	tát	to disperse, to let go, to relax
+7-9	萨	sà		Buddhist diety; used in transliterations
+7-9	嗓	sǎng		throat; voice
+7-9	骚	sāo	tao	to annoy, to bother; to disturb, to harrass
+7-9	嫂	sǎo	dâu	sister-in-law, elder brother's wife
+7-9	臊	sāo		shy, bashful; rank, fetid; the smell of urine
+7-9	纱	shā	sa	gauze, muslin, yarn
+7-9	鲨	shā		shark
+7-9	厦	shà	hè	large building; mansion
+7-9	筛	shāi	rây	screen, sieve; to filter, to sift
+7-9	删	shān	san	to delete; to cut; to censor
+7-9	煽	shān	phiến	to stir up, to incite; to agitate, to provoke
+7-9	擅	shàn	chen	to claim, to monopolize; arbitrary
+7-9	赡	shàn	thiệm	rich, elegant; to support, to provide for
+7-9	捎	shāo		to carry, to take; to select
+7-9	梢	shāo		the tip of a branch; rudder
+7-9	哨	shào		to whistle; to chirp
+7-9	奢	shē	xa	exaggerated; extravagant, wasteful
+7-9	慑	shè		afraid, scared; to frighten, to intimidate
+7-9	渗	shèn	rướm	to seep, to permeate, to infiltrate
+7-9	绳	shéng	thằng	string, rope, cord; to control
+7-9	尸	shī	thây	body, corpse
+7-9	狮	shī	sư	lion
+7-9	蚀	shí		to nibble at, to erode; an eclipse
+7-9	嗜	shì		addicted to, fond of, with a weakness for
+7-9	匙	chí,shī		spoon; surname
+7-9	兽	shòu	thú	beast, animal; bestial
+7-9	抒	shū	trữ	to express; to pour out
+7-9	梳	shū	sơ	brush, comb
+7-9	疏	shū	sớ	to neglect; to dredge, to clear away; lax, carel
+7-9	赎	shú	chuộc	ransom; to buy; to redeem
+7-9	蜀	shǔ	xọc	the name of an ancient state
+7-9	曙	shǔ		dawn, daybreak; the dawn of an era
+7-9	竖	shù		perpendicular, vertical; to erect
+7-9	恕	shù	thứ	to excuse, to forgive, to show mercy
+7-9	墅	shù	thự	villa, country house
+7-9	耍	shuǎ		to play, to frolic, to amuse
+7-9	甩	shuǎi		to throw away, to fling, to discard
+7-9	拴	shuān		to fasten, to bind
+7-9	涮	shuàn		to rinse; to boil or cook in juice
+7-9	烁	shuò		to sparkle, to shine, to glitter
+7-9	丝	sī	tơ	silk, fine thread; wire; strings
+7-9	斯	sī		this, thus, such; emphatic particle; used in tra
+7-9	撕	sī		to rip, to tear; to buy cloth
+7-9	祀	sì		to sacrifice, to worship
+7-9	肆	sì		to indulge; excess; four (bankers' anti-fraud nu
+7-9	耸	sǒng		to excite, to urge; to raise; to shrug; lofty, t
+7-9	宋	sòng	tống	the Song dynasty; surname
+7-9	诵	sòng	tụng	to chant, to recite, to repeat, to read aloud
+7-9	颂	sòng	tụng	to laud, to acclaim; ode, hymn
+7-9	艘	sōu		measure word for ships or vessels
+7-9	嗽	sòu		to gargle; to cough; to clear the throat
+7-9	酥	sū		butter; crispy, flaky; fluffy, light
+7-9	溯	sù		to paddle upstream, to go against the current; t
+7-9	蒜	suàn	tỏi	garlic
+7-9	髓	suǐ	tuỷ	substance, essence; bone marrow
+7-9	隧	suì		tunnel, underground passage; a path to a tomb
+7-9	嗦	suo		to suck
+7-9	塌	tā		to collapse, to fall into ruin
+7-9	摊	tān	nặn	to spread out, to open, to allot; a merchant's s
+7-9	滩	tān		rapids; sandbar, shoal
+7-9	瘫	tān		paralysis, palsy, numbness
+7-9	痰	tán	đờm	mucus, phlegm, spit
+7-9	潭	tán	đằm	deep pool, lake; deep, profound
+7-9	毯	tǎn	xồm	rug, carpet, blanket
+7-9	碳	tàn		carbon
+7-9	塘	táng	đường	pond, tank; dike, embankment
+7-9	膛	táng		chest cavity; hollow space
+7-9	倘	tǎng	thẳng	if, supposing, in event of
+7-9	淌	tǎng		to trickle down, to flow, to drip; to shed tears
+7-9	烫	tàng		to scald; to iron clothes or hair
+7-9	涛	tāo	đào	large waves
+7-9	滔	tāo	thao	torrential, rushing, overflowing
+7-9	淘	táo	đào	to dredge, to sieve; to cleanse, to weed out
+7-9	剔	tī		to pick out; to scrape off; picky
+7-9	屉	tì		drawer, tier; pad, screen, tray
+7-9	剃	tì		to shave
+7-9	涕	tì		tears; mucus
+7-9	惕	tì	thích	cautious, careful, alert
+7-9	舔	tiǎn		to lick, to taste
+7-9	帖	tiē	thiếp	card, invite, notice; to fit snugly
+7-9	捅	tǒng	thòng	to jab, to poke
+7-9	桶	tǒng	thùng	bucket, pail, tub; can, cask, keg
+7-9	秃	tū	thóc	bald
+7-9	屠	tú	đồ	to butcher, to slaughter; massacre
+7-9	颓	tuí		ruined, decayed; depressed; decadent
+7-9	驮	tuó		to carry on one's back
+7-9	蛙	wā		frog
+7-9	歪	wāi	quay	slanted, askew, awry
+7-9	挽	wǎn		to pull, to lead; to pull back, to draw a bow
+7-9	惋	wǎn		to regret, to be sorry
+7-9	婉	wǎn	uyển	amiable, graceful, tactful; restrained
+7-9	汪	wāng		vast, extensive, deep; surname
+7-9	枉	wǎng	uổng	useless, in vain; crooked, bent
+7-9	魏	wèi		the kingdom of Wei; surname
+7-9	瘟	wēn	ôn	epidemic, plague, pestilence
+7-9	吻	wěn	vẫn	to kiss; lips; coinciding
+7-9	紊	wěn		tangled; confused, disordered
+7-9	窝	wō		cave, den, nest; hiding place; measure word for 
+7-9	巫	wū		wizard, sorcerer, witch, shaman
+7-9	呜	wū	ô	the sound of someone crying or sobbing
+7-9	吴	wú	ngô	one of several warring states; surname
+7-9	捂	wǔ		to resist
+7-9	勿	wù	vật	must not, do not; without, never
+7-9	晤	wù	cữ	to meet; to interview with
+7-9	晰	xī		clear, evident
+7-9	稀	xī	hi	rare, unusual; scarce, sparse
+7-9	锡	xī	thiếc	tin; to bestow, to confer
+7-9	溪	xī	khe	brook, creek, stream
+7-9	熙	xī	hây	bright, prosperous; splendid, glorious
+7-9	熄	xī	tắt	to extinguish, to put out, to quench
+7-9	嬉	xī		to enjoy; to play, to amuse oneself
+7-9	媳	xí		daughter-in-law
+7-9	虾	xiā		shrimp, prawn
+7-9	瞎	xiā		blind, reckless; rash
+7-9	侠	xiá	hiệp	chivalrous person; knight-errant
+7-9	霞	xiá		rosy clouds
+7-9	纤	xiān		fine, delicate; tiny, minute
+7-9	掀	xiān		to stir up; to turn over
+7-9	衔	xián		rank, title; to bite, to hold in the mouth
+7-9	馅	xiàn		filling, stuffing; secret
+7-9	厢	xiāng	rương	side-room, wing; theatre box
+7-9	镶	xiāng		inset, inlay; to set, to mount; to fill
+7-9	翔	xiáng		to soar, to hover, to glide
+7-9	巷	xiàng		alley, lane
+7-9	橡	xiàng		chestnut oak; rubber tree; rubber
+7-9	萧	xiāo		mournful, desolate; common Artemisa
+7-9	潇	xiāo		the sound of beating wind and rain
+7-9	淆	xiáo		confused, mixed up, in disarray
+7-9	啸	xiào		to roar, to howl; to scream; to whistle
+7-9	泄	xiè	tướt	drip, leak, vent; to disperse; to reduce
+7-9	泻	xiè	tả	to leak; diarrhea
+7-9	屑	xiè		bits, crumbs, scraps; fragments; not worthwhile
+7-9	懈	xiè		idle, relaxed; negligent, remiss
+7-9	馨	xīn	hanh	fragrant, aromatic
+7-9	衅	xìn		to quarrel, to dispute; a blood sacrifice
+7-9	猩	xīng		ape, orangutan
+7-9	腥	xīng	tanh	fishy, rank; raw meat
+7-9	汹	xiōng		turbulent, torrential, restless
+7-9	绣	xiù		to embroider; embroidery; ornament
+7-9	锈	xiù		to rust, to corrode
+7-9	墟	xū		high mound; hilly countryside; wasteland
+7-9	旭	xù	hóc	the rising sun; brilliant, radiant
+7-9	恤	xù		to help, to relieve, to take pity on
+7-9	酗	xù		violent, raging drunk, blotto
+7-9	絮	xù		cotton padding; fluff, padding, waste; long-wind
+7-9	喧	xuān	huyên	lively, noisy; to clamor, to talk loudly
+7-9	炫	xuàn		to glitter, to shine; to show off, to flaunt
+7-9	勋	xūn	huân	deeds, feats; merit; rank
+7-9	熏	xūn	hun	to smoke, to cure meat; vapor, smoke, fog
+7-9	汛	xùn	vàm	high water, flood tides
+7-9	驯	xún	thuần	tame, obedient, docile
+7-9	丫	yā	a	forked; bifurcation
+7-9	鸦	yā		crow; Corvus species (various)
+7-9	哑	yǎ		dumb, mute, hoarse
+7-9	讶	yà		amazed, surprised; to express surprise
+7-9	淹	yān	êm	to drown, to immerse, to steep
+7-9	阎	yán		village gate; surname
+7-9	衍	yǎn		to overflow; to spread out
+7-9	掩	yǎn	ém	to cover up (with a hand); to ambush, to conceal
+7-9	雁	yàn		wild goose
+7-9	焰	yàn	diễm	flame, blaze; glowing, blazing
+7-9	燕	yàn	én	lovebird, swallow
+7-9	殃	yāng	ương	misfortune, disaster, calamity
+7-9	秧	yāng	ương	shoots, sprouts; young rice plants
+7-9	杨	yáng	dương	willow, poplar, aspen; surname
+7-9	痒	yǎng		to itch; to tickle
+7-9	漾	yàng		to ripple, to undulate; to bob on the waves
+7-9	谣	yáo	dao	rumor; folksong, ballad
+7-9	遥	yáo	diêu	distant, remote
+7-9	钥	yào		lock, key
+7-9	椰	yē	da	palm tree, coconut tree
+7-9	伊	yī	y	he she; this, that; used in transliterations
+7-9	夷	yí	dì	ancient barbarian tribes
+7-9	怡	yí		gladness, joy, pleasure; harmony
+7-9	矣	yǐ	hỉ	particle of completed action
+7-9	倚	yǐ	ỷ	to rely on, to depend on
+7-9	屹	yì	ngật	to rise, to stand tall
+7-9	亦	yì		also, too; likewise
+7-9	绎	yì	gịt	to unravel; to interpret
+7-9	弈	yì		Chinese chess
+7-9	裔	yì		progeny, descendants
+7-9	溢	yì		full; overflowing
+7-9	毅	yì	nghị	decisive, firm, resolute
+7-9	荫	yīn	ấm	shade, shelter; to protect
+7-9	殷	yīn	ân	many, great; abundant, flourishing
+7-9	瘾	yǐn		rash; addiction, craving, habit
+7-9	婴	yīng	anh	baby, infant; to bother
+7-9	鹰	yīng	ưng	eagle, falcon, hawk
+7-9	荧	yíng		to shine, to shimmer; shining, dazzling
+7-9	盈	yíng	dềnh	full, overflowing; surplus; to fill
+7-9	莹	yíng		bright, lustrous, sparkling like a gem
+7-9	蝇	yíng	nhặng	fly, musca
+7-9	颖	yǐng	dĩnh	rice tassel; sharp; clever
+7-9	佣	yōng		to hire, to employ; commission; servant
+7-9	佑	yòu		to help; to protect; to bless
+7-9	逾	yú	du	to jump over; to exceed, to surpass
+7-9	渝	yú		to change; Chongqing
+7-9	舆	yú		cart, palanquin, sedan chair
+7-9	屿	yǔ		island
+7-9	驭	yù	ngựa	to drive, to ride; to manage, to control
+7-9	吁	xū	hu	alas; to sigh
+7-9	喻	yù	dụ	metaphor, analogy; example; such as, like
+7-9	寓	yù	ngụ	residence, lodge, dwelling
+7-9	愈	yù	rủ	to recover, to heal; more and more
+7-9	冤	yuān	oan	grievance, injustice, wrong
+7-9	渊	yuān	uyên	abyss, depth; to surge up, to bubble up
+7-9	袁	yuán		robe; surname
+7-9	曰	yuē	viết	to speak; to say
+7-9	粤	yuè		Cantonese; Guandong province
+7-9	匀	yún		equal; even, uniform
+7-9	陨	yǔn		to slip, to fall; to drop; to die
+7-9	孕	yùn	dựng	pregnant; pregnancy
+7-9	酝	yùn		liquor, spirits, wine; to ferment
+7-9	蕴	yùn		to collect, to gather, to store; profound
+7-9	砸	zá		to smash, to pound, to crush, to break
+7-9	攒	zǎn		to save, to hoard
+7-9	赃	zāng	tang	booty, loot; stolen goods; to bribe
+7-9	凿	záo	tạc	chisel; to bore, to pierce
+7-9	枣	zǎo	táo	date tree; dates, jujubes; surname
+7-9	皂	zào		soap; black; menial servant
+7-9	灶	zào	táo	kitchen, oven, stove
+7-9	噪	zào	tháo	to be noisy; to chirp loudly
+7-9	躁	zào	tháo	tense, irritable; rash, hot-tempered
+7-9	泽	zé	rạch	marsh, swamp; brilliance, grace
+7-9	渣	zhā		dregs, sediment; refuse, slag
+7-9	闸	zhá		sluice, floodgate, canal lock
+7-9	眨	zhǎ		to wink
+7-9	榨	zhà		to press for juice; a juicer; a vegetable
+7-9	窄	zhǎi		narrow, tight; narrow-minded
+7-9	寨	zhài	trại	stockade, stronghold, outpost; brothel
+7-9	沾	zhān	chăm	to moisten, to soak, to wet; to touch
+7-9	瞻	zhān	chiêm	to look; to look out for; to respect
+7-9	盏	zhǎn	chén	small cup or container
+7-9	崭	zhǎn	chởm	new, bold; steep, high
+7-9	蘸	zhàn		to dip (in ink, sauce, etc); to remarry
+7-9	仗	zhàng	trượng	1to rely upon; protector; to fight; war, weaponr
+7-9	杖	zhàng	trượng	cane, walking stick
+7-9	胀	zhàng	trướng	swelling, inflation
+7-9	赵	zhào		ancient state; surname
+7-9	罩	zhào		cover, shroud; basket for catching fish
+7-9	肇	zhào		to begin, to start; to originate
+7-9	辙	zhé		track, rut; stuck in a rut
+7-9	浙	zhè		the Zhejiang province; a river
+7-9	睁	zhēng		to open one's eyes; to stare
+7-9	筝	zhēng	tranh	guzheng, zither, string instrument
+7-9	拯	zhěng	chửng	to aid, to help; to lift, to raise
+7-9	郑	zhèng	trịnh	state in today's Henan; surname
+7-9	帜	zhì	xí	flag, pennant, sign; to fasten
+7-9	峙	zhì		to pile, to stack; to stand tall
+7-9	洲	zhōu	chao	continent; island
+7-9	皱	zhòu		wrinkles, creases, folds
+7-9	骤	zhòu	sậu	procedure; sudden, abrupt; to gallop
+7-9	烛	zhú	chúc	candle, taper; to illuminate, to shine
+7-9	拄	zhǔ	chủ	post; to lean on; to prod, to ridicule
+7-9	瞩	zhǔ		to focus on, to stare at, to watch carefully
+7-9	铸	zhù		to melt, to cast; to mint, to coin
+7-9	拽	zhuāi	dìa	to drag, to tow; to throw; to twist
+7-9	砖	zhuān		tile, brick
+7-9	撰	zhuàn	soạn	to compose, to write
+7-9	妆	zhuāng	trang	adornment, make-up; to dress up, to use make-up
+7-9	桩	zhuāng	thung	stake, post; matter, affair
+7-9	幢	chuáng	choàng	carriage curtain; sun screen; tent; measure word
+7-9	缀	zhuì		to connect, to join; to patch up, to stitch toge
+7-9	灼	zhuó	chước	to burn, to cauterize; bright
+7-9	琢	zuó	chác	to polish jade; to cut jade
+7-9	兹	zī		now, here; this; time, year
+7-9	粽	zòng		a dumpling made of glutinous rice
+7-9	揍	zòu		to hit, to beat; to smash, to break

@@ -42,7 +42,7 @@
     get(k, d) { try { const v = localStorage.getItem("rz:cihui:" + k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
     set(k, v) { try { localStorage.setItem("rz:cihui:" + k, JSON.stringify(v)); } catch (e) { /* bỏ qua */ } }
   };
-  const S = Object.assign({ kanji: true, romaji: true, furi: true, quizDir: "jv" }, store.get("settings", {}));
+  const S = Object.assign({ kanji: true, romaji: false, furi: true, quizDir: "jv" }, store.get("settings", {})); S.romaji = false; /* chỉ giữ pinyin trên chữ */
   const P = Object.assign({ ok: {}, rv: {}, gt: {}, clr: 0 }, store.get("progress", {}));
   try { const th = localStorage.getItem("renzhen:theme"); if (th) S.theme = th; } catch (e) { /* bỏ qua */ }     // màu giao diện dùng chung cả Super Renzhen
   const saveS = () => { store.set("settings", S); try { if (S.theme) localStorage.setItem("renzhen:theme", S.theme); } catch (e) { /* bỏ qua */ } };
@@ -609,8 +609,8 @@
         ${e.hv ? `<dt>Hán Việt</dt><dd class="hv">${esc(e.hv)}</dd>` : ""}
         <dt>Từ loại</dt><dd>${esc(posName(e.p))}</dd>
       </dl>
-      <div class="ex"><div class="ex__ja" lang="zh">${jp(e.e, { hl: false })}</div><div class="ex__vi">${esc(e.ev)}</div></div>
-      <div class="card__actions"><button class="icon-btn" type="button" data-say="${esc(surf(e.e))}">${ICON_SPEAK} Nghe câu ví dụ</button>
+      ${e.e ? `<div class="ex"><div class="ex__ja" lang="zh">${jp(e.e, { hl: false })}</div><div class="ex__vi">${esc(e.ev)}</div></div>` : ""}
+      <div class="card__actions"><button class="icon-btn" type="button" data-say="${esc(surf(e.e || e.w))}">${ICON_SPEAK} ${e.e ? "Nghe câu ví dụ" : "Nghe từ"}</button>
         <button class="icon-btn" type="button" data-flip>${ICON_FLIP} Xem mặt trước</button></div>
     </div></div>`;
   }
@@ -1148,7 +1148,6 @@
     if (ev.target.matches("input, textarea") || ev.metaKey || ev.ctrlKey || ev.altKey) return;
     if (ev.key === "k" || ev.key === "K") flip("kanji");
     if (ev.key === "f" || ev.key === "F") flip("furi");
-    if (ev.key === "r" || ev.key === "R") flip("romaji");
   });
 
   /* ------------------------------------------------------------ cầu nối với assets/auth.js (đăng nhập + đồng bộ) */

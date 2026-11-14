@@ -45,6 +45,18 @@ for f in glob.glob('data/vi-h*.txt'):
     for ln in open(f,encoding='utf-8'):
         p=ln.rstrip('\n').split('|',2)
         if len(p)==3: VI[(p[0],p[1])]=p[2]
+EX={}
+for f in glob.glob('data/ex-h*.txt'):
+    for ln in open(f,encoding='utf-8'):
+        p=ln.rstrip('\n').split('|',3)
+        if len(p)==4: EX[(p[0],p[1])]=(p[2],p[3])
+def sruby(t):
+    out=[]
+    for seg in re.findall(r'[㐀-鿿]+|[^㐀-鿿]+',t):
+        if H.match(seg[0]):
+            for c,p in zip(seg,pinyin(seg,style=Style.TONE)): out.append(f'{c}[{p[0]}]')
+        else: out.append(seg)
+    return ''.join(out)
 IC={'n':'n','v':'v','a':'adj','d':'adv','m':'num','q':'m','r':'pron','p':'prep','c':'conj','u':'aux','e':'intj','y':'aux','o':'intj','h':'prefix','k':'suffix'}
 def posof(r,w):
     p=r['POS'].lower().replace('/',',').replace(' ',',')
@@ -69,7 +81,7 @@ for r in rows:
     if not g: miss_gloss+=1
     alt=[ (sw[i],sp[i] if i<len(sp) else '') for i in range(1,len(sw))]
     by[lv].append({'w':rb,'r':py,'rm':plain(py),'p':posof(r,w),'hv':hvs,'vi':VI.get((w,py),''),'en':g,
-        'alt':[a[0] for a in alt],'c':'','cr':'','cv':'','e':'','ev':'','sid':r['ID']})
+        'alt':[a[0] for a in alt],'c':'','cr':'','cv':'','e':sruby(EX[(w,py)][0]) if (w,py) in EX else '','ev':EX[(w,py)][1] if (w,py) in EX else '','sid':r['ID']})
 size=30; tot=0
 for lv in range(1,8):
     L=by[lv]; topics=[]
@@ -81,5 +93,6 @@ for lv in range(1,8):
     tot+=len(L)
     open(f'{OUT}/h{lv}.js','w',encoding='utf-8').write('MD.register('+json.dumps({'level':f'h{lv}','topics':topics},ensure_ascii=False,separators=(',',':'))+');')
     print(lv,len(L),len(topics))
+print('ex',sum(1 for L in by.values() for e in L if e['e']))
 print('vi',sum(1 for L in by.values() for e in L if e['vi']))
 print('total',tot,'whole-word ruby',nr,'no hv',miss_hv,'no gloss',miss_gloss)

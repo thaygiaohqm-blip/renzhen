@@ -1,0 +1,772 @@
+啊|a|啊，原来是你！|A, thì ra là bạn!
+爱情|àiqíng|他们之间有爱情。|Giữa họ có tình yêu.
+爱人|àiren|我爱人在医院工作。|Vợ (chồng) tôi làm việc ở bệnh viện.
+安静|ānjìng|图书馆里很安静。|Trong thư viện rất yên tĩnh.
+安全|ānquán|开车要注意安全。|Lái xe phải chú ý an toàn.
+白色|báisè|我喜欢白色。|Tôi thích màu trắng.
+班长|bānzhǎng|他是我们的班长。|Cậu ấy là lớp trưởng của chúng tôi.
+办|bàn|这件事我来办。|Việc này để tôi lo.
+办法|bànfǎ|我有一个好办法。|Tôi có một cách hay.
+办公室|bàngōngshì|老师在办公室。|Thầy giáo ở trong văn phòng.
+半夜|bànyè|他半夜才回家。|Nửa đêm anh ấy mới về nhà.
+帮助|bāngzhù|谢谢你的帮助。|Cảm ơn sự giúp đỡ của bạn.
+饱|bǎo|我吃饱了。|Tôi ăn no rồi.
+报名|bàomíng|我想报名参加汉语班。|Tôi muốn đăng ký lớp tiếng Trung.
+报纸|bàozhǐ|爸爸每天看报纸。|Bố ngày nào cũng đọc báo.
+北方|běifāng|北方的冬天很冷。|Mùa đông ở miền Bắc rất lạnh.
+背|bèi|我会背这首诗。|Tôi biết đọc thuộc bài thơ này.
+比如|bǐrú|我喜欢水果，比如苹果和香蕉。|Tôi thích trái cây, ví dụ như táo và chuối.
+比如说|bǐrú shuō|他会很多语言，比如说汉语和英语。|Anh ấy biết nhiều ngôn ngữ, chẳng hạn tiếng Trung và tiếng Anh.
+笔|bǐ|我用笔写字。|Tôi dùng bút viết chữ.
+笔记|bǐjì|上课时我做笔记。|Khi lên lớp tôi ghi chép.
+笔记本|bǐjìběn|我买了一个笔记本。|Tôi đã mua một quyển sổ ghi chép.
+必须|bìxū|你必须早点儿睡觉。|Bạn phải đi ngủ sớm.
+边|biān|他坐在我旁边。|Anh ấy ngồi bên cạnh tôi.
+变|biàn|北京的变化很大。|Bắc Kinh thay đổi rất nhiều.
+变成|biànchéng|天气变冷了，变成冬天了。|Trời trở lạnh, đã thành mùa đông rồi.
+遍|biàn|这个字我写了三遍。|Chữ này tôi đã viết ba lần.
+表|biǎo|这块表很漂亮。|Chiếc đồng hồ này rất đẹp.
+表示|biǎoshì|他点头表示同意。|Anh ấy gật đầu tỏ ý đồng ý.
+不错|bùcuò|你的汉语不错。|Tiếng Trung của bạn khá tốt.
+不但|bùdàn|他不但会说汉语，而且会写汉字。|Anh ấy không những biết nói tiếng Trung mà còn biết viết chữ Hán.
+不够|bùgòu|这些钱不够。|Số tiền này không đủ.
+不过|bùguò|这个菜很好吃，不过有点儿贵。|Món này rất ngon, có điều hơi đắt.
+不太|bù tài|我不太喜欢这个。|Tôi không thích cái này lắm.
+不要|bùyào|不要在这里说话。|Đừng nói chuyện ở đây.
+不好意思|bù hǎoyìsi|不好意思，我来晚了。|Xin lỗi, tôi đến muộn.
+不久|bùjiǔ|他不久就回来了。|Chẳng bao lâu anh ấy đã về.
+不满|bùmǎn|他对这个菜不满。|Anh ấy không hài lòng với món này.
+不如|bùrú|坐车不如走路快。|Đi xe không nhanh bằng đi bộ.
+不少|bù shǎo|这里有不少人。|Ở đây có không ít người.
+不同|bù tóng|我们的想法不同。|Cách nghĩ của chúng tôi khác nhau.
+不行|bùxíng|你不能去，不行！|Bạn không được đi, không được đâu!
+不一定|bùyīdìng|他不一定来。|Chưa chắc anh ấy sẽ đến.
+不一会儿|bù yīhuìr|不一会儿，他就回来了。|Chỉ lát sau, anh ấy đã quay lại.
+部分|bùfen|这个问题的一部分我不懂。|Một phần của vấn đề này tôi không hiểu.
+才|cái|他十点才来。|Mười giờ anh ấy mới đến.
+菜单|càidān|请给我看一下菜单。|Cho tôi xem thực đơn.
+参观|cānguān|我们去参观博物馆。|Chúng tôi đi tham quan bảo tàng.
+参加|cānjiā|我想参加这个活动。|Tôi muốn tham gia hoạt động này.
+草|cǎo|草地上有很多花。|Trên bãi cỏ có rất nhiều hoa.
+草地|cǎodì|孩子们在草地上玩儿。|Bọn trẻ chơi trên bãi cỏ.
+层|céng|我住在五层。|Tôi sống ở tầng năm.
+查|chá|请查一下这个字。|Hãy tra chữ này.
+差不多|chàbuduō|我们两个差不多高。|Hai chúng tôi cao xấp xỉ nhau.
+长|cháng|这条路很长。|Con đường này rất dài.
+常见|cháng jiàn|这是一种常见的水果。|Đây là một loại trái cây thường gặp.
+常用|cháng yòng|这是一个常用的词。|Đây là một từ thường dùng.
+场|chǎng|今天有一场电影。|Hôm nay có một buổi chiếu phim.
+超过|chāoguò|他的成绩超过了我。|Thành tích của anh ấy vượt qua tôi.
+超市|chāoshì|我去超市买东西。|Tôi đến siêu thị mua đồ.
+车辆|chēliàng|路上的车辆很多。|Trên đường có rất nhiều xe cộ.
+称1|chēng|你的体重称一下。|Hãy cân xem cân nặng của bạn.
+成|chéng|他成了一名医生。|Anh ấy đã trở thành bác sĩ.
+成绩|chéngjì|他的成绩很好。|Thành tích của anh ấy rất tốt.
+成为|chéngwéi|他想成为一名老师。|Anh ấy muốn trở thành giáo viên.
+重复|chóngfù|请重复一遍。|Xin hãy nhắc lại một lần.
+重新|chóngxīn|我要重新写一遍。|Tôi phải viết lại một lần.
+出发|chūfā|我们明天早上出发。|Sáng mai chúng tôi xuất phát.
+出国|chūguó|他想出国学习。|Anh ấy muốn ra nước ngoài học.
+出口|chūkǒu|出口在那边。|Lối ra ở đằng kia.
+出门|chūmén|他已经出门了。|Anh ấy đã ra khỏi nhà rồi.
+出生|chūshēng|他出生在北京。|Anh ấy sinh ra ở Bắc Kinh.
+出现|chūxiàn|门口出现了一个人。|Ở cửa xuất hiện một người.
+出院|chūyuàn|他明天可以出院。|Ngày mai anh ấy có thể xuất viện.
+出租|chūzū|这套房子出租。|Căn nhà này cho thuê.
+出租车|chūzūchē|我们坐出租车去机场。|Chúng tôi đi taxi ra sân bay.
+船|chuán|船在河里。|Thuyền ở trên sông.
+吹|chuī|风吹在脸上很舒服。|Gió thổi vào mặt rất dễ chịu.
+春节|Chūnjié|春节我回家。|Tết Nguyên đán tôi về nhà.
+春天|chūntiān|春天来了，花开了。|Mùa xuân đến rồi, hoa nở rồi.
+词|cí|这个词是什么意思？|Từ này nghĩa là gì?
+词典|cídiǎn|我有一本汉语词典。|Tôi có một cuốn từ điển tiếng Trung.
+词语|cíyǔ|请用这个词语造句。|Hãy dùng từ ngữ này đặt câu.
+从小|cóngxiǎo|他从小就爱画画。|Từ nhỏ anh ấy đã thích vẽ.
+答应|dāying|他答应明天来。|Anh ấy hứa ngày mai sẽ đến.
+打工|dǎgōng|他在饭店打工。|Anh ấy làm thêm ở nhà hàng.
+打算|dǎsuàn|你打算什么时候去？|Bạn định khi nào đi?
+打印|dǎyìn|请把这个打印一下。|Làm ơn in cái này ra.
+大部分|dàbùfen|大部分学生都来了。|Phần lớn học sinh đã đến.
+大大|dàdà|他的汉语大大提高了。|Tiếng Trung của anh ấy tiến bộ rất nhiều.
+大多数|dàduōshù|大多数人喜欢这个。|Đa số mọi người thích cái này.
+大海|dàhǎi|我喜欢看大海。|Tôi thích ngắm biển.
+大家|dàjiā|大家好！|Chào mọi người!
+大量|dàliàng|他喝了大量的水。|Anh ấy đã uống một lượng nước lớn.
+大门|dàmén|学校的大门很大。|Cổng chính của trường rất lớn.
+大人|dàren|大人和孩子都来了。|Người lớn và trẻ em đều đến rồi.
+大声|dà shēng|请你大声说。|Xin bạn nói to lên.
+大小|dàxiǎo|这个房间大小合适。|Căn phòng này kích cỡ vừa phải.
+大衣|dàyī|天冷了，穿上大衣吧。|Trời lạnh rồi, khoác áo choàng vào đi.
+大自然|dàzìrán|我们要爱护大自然。|Chúng ta phải bảo vệ thiên nhiên.
+带|dài|请带上你的书。|Hãy mang theo sách của bạn.
+带来|dàilái|他给我带来一本书。|Anh ấy mang đến cho tôi một cuốn sách.
+单位|dānwèi|你在哪个单位工作？|Bạn làm việc ở cơ quan nào?
+但|dàn|我想去，但没有时间。|Tôi muốn đi nhưng không có thời gian.
+但是|dànshì|他很忙，但是很高兴。|Anh ấy rất bận nhưng rất vui.
+蛋|dàn|我早上吃了一个蛋。|Sáng nay tôi ăn một quả trứng.
+当|dāng|他当老师。|Anh ấy làm giáo viên.
+当时|dāngshí|当时我不在家。|Lúc đó tôi không ở nhà.
+倒|dǎo|水倒在地上了。|Nước đổ xuống đất rồi.
+到处|dàochù|这里到处都是人。|Ở đây đâu đâu cũng là người.
+倒|dào|请把水倒在杯子里。|Hãy rót nước vào cốc.
+道|dào|这道菜很好吃。|Món này rất ngon.
+道理|dàolǐ|他说得很有道理。|Anh ấy nói rất có lý.
+道路|dàolù|这条道路很长。|Con đường này rất dài.
+得|dé|他得了第一名。|Anh ấy đạt hạng nhất.
+得出|déchū|我们得出了一个结论。|Chúng tôi đã rút ra một kết luận.
+的话|dehuà|你有时间的话，就来吧。|Nếu bạn có thời gian thì cứ đến.
+得|de|你得去医院。|Bạn phải đến bệnh viện.
+灯|dēng|房间里的灯亮着。|Đèn trong phòng đang sáng.
+等|děng|我等你来。|Tôi đợi bạn đến.
+等到|děngdào|等到明天，我再告诉你。|Đợi đến ngày mai, tôi sẽ nói cho bạn.
+等于|děngyú|三加二等于五。|Ba cộng hai bằng năm.
+低|dī|他的声音很低。|Giọng anh ấy rất thấp.
+地球|dìqiú|地球是圆的。|Trái Đất hình tròn.
+地铁|dìtiě|我坐地铁去上班。|Tôi đi làm bằng tàu điện ngầm.
+地铁站|dìtiězhàn|地铁站在学校旁边。|Ga tàu điện ngầm ở cạnh trường.
+点头|diǎntóu|他点头说好。|Anh ấy gật đầu nói được.
+店|diàn|这家店很大。|Cửa hàng này rất lớn.
+掉|diào|书掉在地上了。|Sách rơi xuống đất rồi.
+东北|dōngběi|他家在中国东北。|Nhà anh ấy ở vùng Đông Bắc Trung Quốc.
+东方|dōngfāng|中国是东方的大国。|Trung Quốc là một nước lớn ở phương Đông.
+东南|dōngnán|学校在城市的东南。|Trường nằm ở phía đông nam thành phố.
+冬天|dōngtiān|冬天很冷。|Mùa đông rất lạnh.
+懂|dǒng|你懂我的意思吗？|Bạn có hiểu ý tôi không?
+懂得|dǒngde|他很懂得照顾人。|Anh ấy rất biết cách chăm sóc người khác.
+动物|dòngwù|熊猫是中国的动物。|Gấu trúc là loài động vật của Trung Quốc.
+动物园|dòngwùyuán|我们去动物园看熊猫。|Chúng tôi đến sở thú xem gấu trúc.
+读音|dúyīn|请读一下这个字的读音。|Hãy đọc cách phát âm của chữ này.
+度|dù|今天气温三十度。|Hôm nay nhiệt độ ba mươi độ.
+短|duǎn|这条裙子太短了。|Chiếc váy này ngắn quá.
+短信|duǎnxìn|我给你发了一条短信。|Tôi đã gửi cho bạn một tin nhắn.
+段|duàn|这段路很长。|Đoạn đường này rất dài.
+队|duì|我们是一个队。|Chúng tôi là một đội.
+队长|duìzhǎng|他是我们的队长。|Anh ấy là đội trưởng của chúng tôi.
+对|duì|你说得对。|Bạn nói đúng.
+对话|duìhuà|我们的对话很短。|Cuộc đối thoại của chúng tôi rất ngắn.
+对面|duìmiàn|学校对面是商店。|Đối diện trường là cửa hàng.
+多|duō|他吃得很多。|Anh ấy ăn rất nhiều.
+多久|duōjiǔ|你学汉语学了多久？|Bạn học tiếng Trung bao lâu rồi?
+多么|duōme|这里多么漂亮！|Ở đây đẹp biết bao!
+多数|duōshù|多数人同意这个办法。|Đa số người đồng ý cách này.
+多云|duōyún|今天天气多云。|Hôm nay trời nhiều mây.
+而且|érqiě|他会说汉语，而且说得很好。|Anh ấy biết nói tiếng Trung, hơn nữa còn nói rất giỏi.
+发|fā|老师给我们发了书。|Thầy giáo phát sách cho chúng tôi.
+发现|fāxiàn|我发现他不在家。|Tôi phát hiện anh ấy không ở nhà.
+饭馆|fànguǎn|这家饭馆很有名。|Quán ăn này rất nổi tiếng.
+方便|fāngbiàn|坐地铁很方便。|Đi tàu điện ngầm rất tiện.
+方便面|fāngbiànmiàn|我晚上吃了方便面。|Buổi tối tôi ăn mì ăn liền.
+方法|fāngfǎ|这个方法很好。|Cách này rất hay.
+方面|fāngmiàn|在这方面他很好。|Về mặt này anh ấy rất giỏi.
+方向|fāngxiàng|你走错方向了。|Bạn đi nhầm hướng rồi.
+放下|fàngxia|请把书放下。|Hãy đặt sách xuống.
+放心|fàngxīn|你放心，我会来的。|Bạn yên tâm, tôi sẽ đến.
+分|fēn|我不知道他是怎么分的。|Tôi không biết anh ấy chia thế nào.
+分开|fēnkāi|我们两个分开了。|Hai chúng tôi đã chia tay.
+分数|fēnshù|你的分数是多少？|Điểm số của bạn là bao nhiêu?
+分钟|fēnzhōng|我等了十分钟。|Tôi đã đợi mười phút.
+份|fèn|我买了一份报纸。|Tôi đã mua một tờ báo.
+封|fēng|我收到一封信。|Tôi nhận được một lá thư.
+服务|fúwù|这家饭店的服务很好。|Dịch vụ của nhà hàng này rất tốt.
+复习|fùxí|我在复习汉语。|Tôi đang ôn tập tiếng Trung.
+该|gāi|该吃饭了。|Đến giờ ăn cơm rồi.
+改|gǎi|我改了这个字。|Tôi đã sửa chữ này.
+改变|gǎibiàn|他的想法改变了。|Suy nghĩ của anh ấy đã thay đổi.
+干杯|gānbēi|来，干杯！|Nào, cạn ly!
+感到|gǎndào|我感到很累。|Tôi cảm thấy rất mệt.
+感动|gǎndòng|这个故事很感动人。|Câu chuyện này rất cảm động.
+感觉|gǎnjué|我觉得他很好，感觉不错。|Tôi thấy anh ấy rất tốt, cảm giác khá ổn.
+感谢|gǎnxiè|非常感谢你的帮助。|Vô cùng cảm ơn sự giúp đỡ của bạn.
+干活儿|gànhuór|他在家干活儿。|Anh ấy làm việc ở nhà.
+刚|gāng|我刚到家。|Tôi vừa về đến nhà.
+刚才|gāngcái|他刚才还在这儿。|Vừa nãy anh ấy vẫn còn ở đây.
+刚刚|gānggāng|他刚刚走。|Anh ấy vừa mới đi.
+高级|gāojí|他是一名高级工程师。|Anh ấy là kỹ sư cao cấp.
+高中|gāozhōng|他在读高中。|Cậu ấy đang học cấp ba.
+个子|gèzi|他的个子很高。|Vóc dáng anh ấy rất cao.
+更|gèng|今天比昨天更冷。|Hôm nay lạnh hơn hôm qua.
+公共汽车|gōnggòng qìchē|我坐公共汽车去学校。|Tôi đi xe buýt đến trường.
+公交车|gōngjiāochē|公交车站在前边。|Trạm xe buýt ở phía trước.
+公斤|gōngjīn|我的体重是六十公斤。|Cân nặng của tôi là sáu mươi ki-lô-gam.
+公里|gōnglǐ|学校离这儿三公里。|Trường cách đây ba ki-lô-mét.
+公路|gōnglù|这条公路很长。|Con đường này rất dài.
+公平|gōngpíng|这样做不公平。|Làm như vậy không công bằng.
+公司|gōngsī|他在一家公司工作。|Anh ấy làm việc ở một công ty.
+公园|gōngyuán|我们去公园玩儿。|Chúng tôi đến công viên chơi.
+狗|gǒu|这只狗很可爱。|Con chó này rất đáng yêu.
+够|gòu|这些钱够了。|Số tiền này đủ rồi.
+故事|gùshi|他给我讲了一个故事。|Anh ấy kể cho tôi một câu chuyện.
+故意|gùyì|他是故意的。|Anh ấy cố ý đấy.
+顾客|gùkè|这家商店的顾客很多。|Cửa hàng này có rất nhiều khách.
+关机|guānjī|上课请关机。|Lúc học hãy tắt máy.
+关心|guānxīn|他很关心我。|Anh ấy rất quan tâm đến tôi.
+观点|guāndiǎn|我不同意你的观点。|Tôi không đồng ý với quan điểm của bạn.
+广场|guǎngchǎng|广场上有很多人。|Trên quảng trường có rất nhiều người.
+广告|guǎnggào|我看到一个广告。|Tôi nhìn thấy một quảng cáo.
+国际|guójì|北京是一个国际大城市。|Bắc Kinh là một đô thị quốc tế lớn.
+过来|guòlái|你过来一下。|Bạn lại đây một chút.
+过年|guònián|过年我回家。|Dịp Tết tôi về nhà.
+过去|guòqù|他从这里走过去了。|Anh ấy đã đi qua chỗ này.
+过|guo|你吃过饭了吗？|Bạn ăn cơm chưa?
+海|hǎi|我想去看海。|Tôi muốn đi ngắm biển.
+海边|hǎi biān|我们在海边玩儿。|Chúng tôi chơi ở bờ biển.
+喊|hǎn|他在外面喊我。|Anh ấy gọi tôi ở bên ngoài.
+好|hǎo|今天天气很好。|Hôm nay thời tiết rất đẹp.
+好处|hǎochù|多喝水对身体有好处。|Uống nhiều nước có lợi cho sức khỏe.
+好多|hǎoduō|他有好多书。|Anh ấy có rất nhiều sách.
+好久|hǎojiǔ|我们好久没见了。|Chúng ta lâu rồi không gặp.
+好人|hǎorén|他是一个好人。|Anh ấy là người tốt.
+好事|hǎoshì|这是一件好事。|Đây là một việc tốt.
+好像|hǎoxiàng|他好像生病了。|Hình như anh ấy bị ốm.
+合适|héshì|这件衣服很合适。|Chiếc áo này rất vừa.
+河|hé|河里有很多鱼。|Trong sông có rất nhiều cá.
+黑|hēi|他穿一件黑衣服。|Anh ấy mặc một chiếc áo đen.
+黑板|hēibǎn|老师在黑板上写字。|Thầy giáo viết chữ lên bảng đen.
+黑色|hēisè|我喜欢黑色。|Tôi thích màu đen.
+红|hóng|这朵花是红的。|Bông hoa này màu đỏ.
+红色|hóngsè|她喜欢红色。|Cô ấy thích màu đỏ.
+后来|hòulái|后来他去了北京。|Sau đó anh ấy đã đi Bắc Kinh.
+忽然|hūrán|他忽然站起来了。|Anh ấy bỗng nhiên đứng dậy.
+湖|hú|湖里有很多鱼。|Trong hồ có rất nhiều cá.
+护照|hùzhào|我的护照在包里。|Hộ chiếu của tôi ở trong cặp.
+花|huā|我们去花园玩儿。|Chúng tôi ra vườn hoa chơi.
+花园|huāyuán|花园里有很多花。|Trong vườn hoa có rất nhiều hoa.
+画|huà|她在画画。|Cô ấy đang vẽ tranh.
+画家|huàjiā|他是一位有名的画家。|Ông ấy là một họa sĩ nổi tiếng.
+画儿|huàr|墙上有一张画儿。|Trên tường có một bức tranh.
+坏处|huàichù|吃太多对身体有坏处。|Ăn quá nhiều có hại cho sức khỏe.
+坏人|huàirén|他不是坏人。|Anh ấy không phải kẻ xấu.
+欢迎|huānyíng|欢迎你来我家。|Hoan nghênh bạn đến nhà tôi.
+换|huàn|我想换一件衣服。|Tôi muốn đổi một bộ quần áo.
+黄|huáng|这朵花是黄的。|Bông hoa này màu vàng.
+黄色|huángsè|我喜欢黄色。|Tôi thích màu vàng.
+回|huí|他回来了。|Anh ấy đã về.
+回国|huí guó|他下个月回国。|Tháng sau anh ấy về nước.
+会|huì|他会说汉语。|Anh ấy biết nói tiếng Trung.
+活动|huódòng|明天学校有一个活动。|Ngày mai trường có một hoạt động.
+或|huò|你喝茶或咖啡？|Bạn uống trà hay cà phê?
+或者|huòzhě|你可以坐车或者走路。|Bạn có thể đi xe hoặc đi bộ.
+机会|jīhuì|这是一个好机会。|Đây là một cơ hội tốt.
+鸡|jī|我家养了一只鸡。|Nhà tôi nuôi một con gà.
+级|jí|我们是同一个年级。|Chúng tôi cùng một khối lớp.
+急|jí|他很着急。|Anh ấy rất sốt ruột.
+计划|jìhuà|我们有一个学习计划。|Chúng tôi có một kế hoạch học tập.
+计算机|jìsuànjī|计算机很有用。|Máy tính rất hữu ích.
+加|jiā|三加二是五。|Ba cộng hai là năm.
+加油|jiāyóu|加油！你能行！|Cố lên! Bạn làm được!
+家（科学家）|jiā (kēxuéjiā)|他是一位科学家。|Ông ấy là một nhà khoa học.
+家庭|jiātíng|他的家庭很幸福。|Gia đình anh ấy rất hạnh phúc.
+家长|jiāzhǎng|家长会明天开。|Họp phụ huynh mai diễn ra.
+假|jiǎ|这是真的，不是假的。|Cái này là thật, không phải giả.
+假期|jiàqī|暑假是我最喜欢的假期。|Kỳ nghỉ hè là kỳ nghỉ tôi thích nhất.
+检查|jiǎnchá|医生给我检查身体。|Bác sĩ khám sức khỏe cho tôi.
+见到|jiàndào|我昨天见到他了。|Hôm qua tôi đã gặp anh ấy.
+见过|jiànguo|我见过他一次。|Tôi đã gặp anh ấy một lần.
+件|jiàn|我买了一件衣服。|Tôi đã mua một chiếc áo.
+健康|jiànkāng|身体健康最重要。|Sức khỏe là quan trọng nhất.
+讲|jiǎng|老师在讲课。|Thầy giáo đang giảng bài.
+讲话|jiǎnghuà|他在台上讲话。|Anh ấy phát biểu trên sân khấu.
+交|jiāo|请把作业交给老师。|Hãy nộp bài tập cho thầy.
+交给|jiāo gěi|我把书交给他了。|Tôi đã đưa sách cho anh ấy.
+交朋友|jiāo péngyou|我喜欢交朋友。|Tôi thích kết bạn.
+交通|jiāotōng|这里的交通很方便。|Giao thông ở đây rất thuận tiện.
+角|jiǎo|这个本子五元三角。|Quyển vở này năm tệ ba hào.
+角度|jiǎodù|我们从另一个角度看这个问题。|Chúng ta nhìn vấn đề này từ một góc độ khác.
+饺子|jiǎozi|我喜欢吃饺子。|Tôi thích ăn sủi cảo.
+脚|jiǎo|我的脚很疼。|Chân tôi rất đau.
+叫作|jiàozuò|这种水果叫作苹果。|Loại trái cây này gọi là táo.
+教师|jiàoshī|他是一名教师。|Anh ấy là một giáo viên.
+教室|jiàoshì|教室里有二十个学生。|Trong phòng học có hai mươi học sinh.
+教学|jiàoxué|他在大学做教学工作。|Anh ấy làm công tác giảng dạy ở đại học.
+教育|jiàoyù|孩子的教育很重要。|Việc giáo dục con cái rất quan trọng.
+接|jiē|我去机场接朋友。|Tôi ra sân bay đón bạn.
+接到|jiēdào|我接到他的电话了。|Tôi đã nhận được điện thoại của anh ấy.
+接受|jiēshòu|我接受你的意见。|Tôi chấp nhận ý kiến của bạn.
+接下来|jiē xiàlái|接下来我们做什么？|Tiếp theo chúng ta làm gì?
+接着|jiēzhe|他说完，接着唱了一首歌。|Nói xong, anh ấy tiếp đó hát một bài.
+街|jiē|街上有很多人。|Trên phố có rất nhiều người.
+节|jié|今天我有两节课。|Hôm nay tôi có hai tiết học.
+节目|jiémù|这个电视节目很好看。|Chương trình truyền hình này rất hay.
+节日|jiérì|春节是中国最大的节日。|Tết là ngày lễ lớn nhất ở Trung Quốc.
+结果|jiéguǒ|考试结果出来了。|Kết quả thi đã có rồi.
+借|jiè|我想借一本书。|Tôi muốn mượn một cuốn sách.
+斤|jīn|这些苹果三斤。|Chỗ táo này ba cân.
+今后|jīnhòu|今后我会常来看你。|Từ nay về sau tôi sẽ thường đến thăm bạn.
+进入|jìnrù|请进入教室。|Mời vào phòng học.
+进行|jìnxíng|我们正在进行考试。|Chúng tôi đang tiến hành thi.
+近|jìn|我家离学校很近。|Nhà tôi cách trường rất gần.
+经常|jīngcháng|他经常来我家。|Anh ấy thường xuyên đến nhà tôi.
+经过|jīngguò|我们经过一座桥。|Chúng tôi đi qua một cây cầu.
+经理|jīnglǐ|他是我们公司的经理。|Ông ấy là giám đốc công ty chúng tôi.
+酒|jiǔ|我不会喝酒。|Tôi không biết uống rượu.
+酒店|jiǔdiàn|我们住在酒店里。|Chúng tôi ở trong khách sạn.
+就要|jiùyào|火车就要开了。|Tàu sắp chạy rồi.
+举|jǔ|有问题请举手。|Có câu hỏi xin hãy giơ tay.
+举手|jǔshǒu|请举手回答问题。|Hãy giơ tay trả lời câu hỏi.
+举行|jǔxíng|明天学校举行考试。|Ngày mai trường tổ chức kỳ thi.
+句|jù|请读一句话。|Hãy đọc một câu.
+句子|jùzi|请用这个词造句子。|Hãy dùng từ này đặt câu.
+卡|kǎ|我有一张银行卡。|Tôi có một chiếc thẻ ngân hàng.
+开机|kāijī|请开机。|Vui lòng bật máy.
+开心|kāixīn|今天我很开心。|Hôm nay tôi rất vui.
+开学|kāixué|学校九月一号开学。|Trường khai giảng vào ngày mùng một tháng Chín.
+看法|kànfǎ|你对这件事有什么看法？|Bạn có quan điểm gì về việc này?
+考生|kǎoshēng|考生们都进教室了。|Các thí sinh đều đã vào phòng thi.
+靠|kào|他靠在门上。|Anh ấy dựa vào cánh cửa.
+科|kē|他在大学学科学，是理科生。|Anh ấy học khoa học ở đại học.
+科学|kēxué|我喜欢科学。|Tôi thích khoa học.
+可爱|kě'ài|这个孩子很可爱。|Đứa bé này rất đáng yêu.
+可能|kěnéng|他可能不来了。|Có thể anh ấy sẽ không đến nữa.
+可怕|kěpà|这条狗很可怕。|Con chó này rất đáng sợ.
+可是|kěshì|我想去，可是没时间。|Tôi muốn đi nhưng không có thời gian.
+可以|kěyǐ|你可以走了。|Bạn có thể đi được rồi.
+克|kè|我买了一百克糖。|Tôi đã mua một trăm gam đường.
+刻|kè|现在是三点一刻。|Bây giờ là ba giờ mười lăm phút.
+客人|kèrén|家里来了一位客人。|Trong nhà có một vị khách đến.
+课堂|kètáng|课堂上要安静。|Trong lớp học phải yên tĩnh.
+空气|kōngqì|这里的空气很好。|Không khí ở đây rất tốt.
+哭|kū|孩子哭了。|Đứa bé khóc rồi.
+快餐|kuàicān|我们中午吃快餐。|Buổi trưa chúng tôi ăn đồ ăn nhanh.
+快点儿|kuài diǎnr|快点儿，要迟到了！|Nhanh lên, sắp muộn rồi!
+快乐|kuàilè|祝你生日快乐！|Chúc bạn sinh nhật vui vẻ!
+快要|kuàiyào|快要下雨了。|Sắp mưa rồi.
+筷子|kuàizi|我会用筷子。|Tôi biết dùng đũa.
+拉|lā|他拉着我的手。|Anh ấy kéo tay tôi.
+来自|láizì|他来自北京。|Anh ấy đến từ Bắc Kinh.
+蓝|lán|天是蓝的。|Bầu trời màu xanh lam.
+蓝色|lánsè|我喜欢蓝色。|Tôi thích màu xanh lam.
+篮球|lánqiú|他喜欢打篮球。|Anh ấy thích chơi bóng rổ.
+老|lǎo|他今年老了很多。|Năm nay ông ấy già đi nhiều.
+老（老王）|lǎo (Lǎo Wáng)|老王是我的同事。|Lão Vương là đồng nghiệp của tôi.
+老年|lǎonián|老年人需要休息。|Người cao tuổi cần được nghỉ ngơi.
+老朋友|lǎo péngyou|他是我的老朋友。|Anh ấy là bạn cũ của tôi.
+老是|lǎoshì|他老是迟到。|Anh ấy cứ hay đi muộn.
+离|lí|我家离学校很近。|Nhà tôi cách trường rất gần.
+离开|líkāi|他昨天离开了北京。|Hôm qua anh ấy đã rời Bắc Kinh.
+礼物|lǐwù|这是送给你的礼物。|Đây là món quà tặng bạn.
+里头|lǐtou|房间里头有一张桌子。|Trong phòng có một cái bàn.
+理想|lǐxiǎng|他的理想是当医生。|Ước mơ của anh ấy là làm bác sĩ.
+例如|lìrú|我喜欢水果，例如苹果。|Tôi thích trái cây, ví dụ như táo.
+例子|lìzi|请举一个例子。|Hãy nêu một ví dụ.
+脸|liǎn|他的脸很红。|Mặt anh ấy rất đỏ.
+练|liàn|我每天练习写汉字。|Mỗi ngày tôi luyện viết chữ Hán.
+练习|liànxí|请做这个练习。|Hãy làm bài tập này.
+凉|liáng|水有点儿凉。|Nước hơi lạnh.
+凉快|liángkuai|秋天很凉快。|Mùa thu rất mát mẻ.
+两|liǎng|我有两个孩子。|Tôi có hai đứa con.
+亮|liàng|天亮了。|Trời sáng rồi.
+辆|liàng|我买了一辆车。|Tôi đã mua một chiếc xe.
+零下|líng xià|今天零下五度。|Hôm nay âm năm độ.
+留|liú|请你留在这里。|Mời bạn ở lại đây.
+留下|liúxia|他留下一封信。|Anh ấy để lại một lá thư.
+留学生|liúxuéshēng|他是一名留学生。|Anh ấy là một du học sinh.
+流|liú|他流了很多汗。|Anh ấy đổ rất nhiều mồ hôi.
+流利|liúlì|他的汉语说得很流利。|Anh ấy nói tiếng Trung rất lưu loát.
+流行|liúxíng|这种衣服现在很流行。|Kiểu quần áo này bây giờ rất thịnh hành.
+路边|lù biān|路边有一棵树。|Bên đường có một cái cây.
+旅客|lǚkè|旅客们都上车了。|Hành khách đều đã lên xe.
+旅行|lǚxíng|我喜欢去旅行。|Tôi thích đi du lịch.
+旅游|lǚyóu|我想去北京旅游。|Tôi muốn đi du lịch Bắc Kinh.
+绿|lǜ|树叶是绿的。|Lá cây màu xanh lục.
+绿色|lǜsè|我喜欢绿色。|Tôi thích màu xanh lục.
+卖|mài|这家商店卖水果。|Cửa hàng này bán trái cây.
+满|mǎn|房间里坐满了人。|Trong phòng đã ngồi đầy người.
+满意|mǎnyì|我对这个很满意。|Tôi rất hài lòng với cái này.
+猫|māo|我家有一只猫。|Nhà tôi có một con mèo.
+米|mǐ|这个房间十平方米。|Căn phòng này mười mét vuông.
+面1|miàn|你的脸很红。|Mặt bạn đỏ lắm.
+面2|miàn|我们明天见面。|Ngày mai chúng ta gặp mặt.
+面前|miànqián|他站在我面前。|Anh ấy đứng trước mặt tôi.
+名|míng|他是一名学生。|Cậu ấy là một học sinh.
+名称|míngchēng|请写上你的名称。|Hãy ghi tên gọi của bạn.
+名单|míngdān|你的名字在名单上。|Tên bạn có trong danh sách.
+明星|míngxīng|他是一个电影明星。|Anh ấy là một ngôi sao điện ảnh.
+目的|mùdì|你来这里的目的是什么？|Mục đích bạn đến đây là gì?
+拿出|náchū|请拿出你的书。|Hãy lấy sách của bạn ra.
+拿到|nádào|他拿到了第一名。|Anh ấy giành được hạng nhất.
+那|nà|那是我的书。|Đó là sách của tôi.
+那会儿|nàhuìr|那会儿我还小。|Hồi đó tôi còn nhỏ.
+那么|nàme|那么多人！|Nhiều người thế!
+那时候|nà shíhou|那时候我在北京。|Lúc đó tôi ở Bắc Kinh.
+那样|nàyàng|他不是那样的人。|Anh ấy không phải người như vậy.
+南方|nánfāng|我想去南方。|Tôi muốn đi miền Nam.
+难过|nánguò|他很难过。|Anh ấy rất buồn.
+难看|nánkàn|这件衣服真难看。|Chiếc áo này xấu thật.
+难受|nánshòu|我头疼，很难受。|Tôi đau đầu, thấy khó chịu.
+难题|nántí|这是一个难题。|Đây là một bài toán khó.
+难听|nántīng|他唱得很难听。|Anh ấy hát rất khó nghe.
+能够|nénggòu|他能够说三种语言。|Anh ấy có thể nói ba thứ tiếng.
+年级|niánjí|他是三年级的学生。|Cậu ấy là học sinh lớp ba.
+年轻|niánqīng|她很年轻。|Cô ấy rất trẻ.
+鸟|niǎo|树上有一只鸟。|Trên cây có một con chim.
+弄|nòng|你把我的书弄坏了。|Bạn làm hỏng sách của tôi rồi.
+努力|nǔlì|他学习很努力。|Anh ấy học rất chăm chỉ.
+爬|pá|他爬上了山。|Anh ấy đã leo lên núi.
+爬山|pá shān|我周末喜欢去爬山。|Cuối tuần tôi thích đi leo núi.
+怕|pà|我不怕冷。|Tôi không sợ lạnh.
+排|pái|请排好队。|Xin hãy xếp hàng ngay ngắn.
+排队|páiduì|大家在排队买票。|Mọi người đang xếp hàng mua vé.
+排球|páiqiú|他喜欢打排球。|Anh ấy thích chơi bóng chuyền.
+碰|pèng|我碰了一下他的手。|Tôi chạm nhẹ vào tay anh ấy.
+碰到|pèngdào|我在路上碰到了他。|Tôi tình cờ gặp anh ấy trên đường.
+碰见|pèngjiàn|我昨天碰见他了。|Hôm qua tôi tình cờ gặp anh ấy.
+篇|piān|我写了一篇文章。|Tôi đã viết một bài văn.
+便宜|piányi|这个很便宜。|Cái này rất rẻ.
+片|piàn|请给我一片面包。|Cho tôi một lát bánh mì.
+漂亮|piàoliang|她很漂亮。|Cô ấy rất xinh.
+平|píng|这条路很平。|Con đường này rất bằng phẳng.
+平安|píng'ān|祝你一路平安！|Chúc bạn thượng lộ bình an!
+平常|píngcháng|我平常六点起床。|Bình thường tôi dậy lúc sáu giờ.
+平等|píngděng|人人平等。|Mọi người đều bình đẳng.
+平时|píngshí|他平时很忙。|Ngày thường anh ấy rất bận.
+瓶|píng|我喝了一瓶水。|Tôi uống một chai nước.
+瓶子|píngzi|瓶子里有水。|Trong chai có nước.
+普通|pǔtōng|这是一件很普通的事。|Đây là một việc rất bình thường.
+普通话|pǔtōnghuà|他会说普通话。|Anh ấy biết nói tiếng phổ thông.
+其他|qítā|其他人都走了。|Những người khác đều đi rồi.
+其中|qízhōng|这些书其中有三本是我的。|Trong số những cuốn sách này có ba cuốn là của tôi.
+骑|qí|他骑马去学校。|Anh ấy cưỡi ngựa đến trường.
+骑车|qí chē|我骑车去上班。|Tôi đạp xe đi làm.
+起飞|qǐfēi|飞机起飞了。|Máy bay đã cất cánh.
+气|qì|他生气了。|Anh ấy giận rồi.
+气温|qìwēn|今天的气温很低。|Nhiệt độ hôm nay rất thấp.
+千|qiān|这本书一千元。|Cuốn sách này một nghìn tệ.
+千克|qiānkè|这个一千克。|Cái này một ki-lô-gam.
+前年|qiánnián|前年我去了北京。|Hai năm trước tôi đã đi Bắc Kinh.
+墙|qiáng|墙上有一张画。|Trên tường có một bức tranh.
+青年|qīngnián|他是一个青年。|Anh ấy là một thanh niên.
+青少年|qīng-shàonián|这本书适合青少年。|Cuốn sách này phù hợp với thanh thiếu niên.
+轻|qīng|这个包很轻。|Cái túi này rất nhẹ.
+清楚|qīngchu|请说清楚一点儿。|Xin hãy nói rõ hơn một chút.
+晴|qíng|今天天晴了。|Hôm nay trời hửng nắng.
+晴天|qíngtiān|今天是晴天。|Hôm nay là ngày nắng.
+请客|qǐngkè|今天我请客。|Hôm nay tôi mời.
+请求|qǐngqiú|他请求老师帮忙。|Anh ấy nhờ thầy giáo giúp đỡ.
+秋天|qiūtiān|秋天很凉快。|Mùa thu rất mát mẻ.
+求|qiú|我求你帮我一下。|Tôi nhờ bạn giúp tôi một chút.
+球场|qiúchǎng|球场上有很多人。|Trên sân bóng có rất nhiều người.
+球队|qiúduì|我们学校有一个球队。|Trường chúng tôi có một đội bóng.
+球鞋|qiúxié|我买了一双球鞋。|Tôi đã mua một đôi giày thể thao.
+取|qǔ|我去银行取钱。|Tôi đến ngân hàng rút tiền.
+取得|qǔdé|他取得了好成绩。|Anh ấy đạt được thành tích tốt.
+全|quán|全班同学都来了。|Cả lớp đều đến rồi.
+全部|quánbù|全部的书都在这里。|Toàn bộ sách đều ở đây.
+全国|quánguó|全国人民都很高兴。|Nhân dân cả nước đều rất vui.
+全家|quánjiā|全家人都在看电视。|Cả nhà đều đang xem tivi.
+全年|quánnián|他全年都很忙。|Anh ấy bận suốt cả năm.
+全身|quánshēn|我全身都很累。|Toàn thân tôi đều mệt.
+全体|quántǐ|全体同学请站起来。|Toàn thể các bạn xin đứng dậy.
+然后|ránhòu|你先吃饭，然后休息。|Bạn ăn cơm trước, sau đó nghỉ ngơi.
+让|ràng|妈妈让我早点儿回家。|Mẹ bảo tôi về nhà sớm.
+热情|rèqíng|他对人很热情。|Anh ấy rất nhiệt tình với mọi người.
+人口|rénkǒu|北京的人口很多。|Dân số Bắc Kinh rất đông.
+人们|rénmen|人们都很高兴。|Mọi người đều rất vui.
+人数|rénshù|来的人数不多。|Số người đến không nhiều.
+认为|rènwéi|我认为他说得对。|Tôi cho rằng anh ấy nói đúng.
+日报|rìbào|他每天看日报。|Mỗi ngày anh ấy đọc nhật báo.
+日子|rìzi|这几天的日子很好。|Mấy ngày nay trời đẹp.
+如果|rúguǒ|如果明天下雨，我就不去了。|Nếu ngày mai mưa thì tôi sẽ không đi.
+入口|rùkǒu|入口在那边。|Lối vào ở đằng kia.
+商量|shāngliang|我们商量一下吧。|Chúng ta bàn bạc một chút nhé.
+商人|shāngrén|他是一个商人。|Ông ấy là một thương nhân.
+上周|shàng zhōu|上周我去了北京。|Tuần trước tôi đã đi Bắc Kinh.
+少数|shǎoshù|只有少数人同意。|Chỉ có số ít người đồng ý.
+少年|shàonián|他是一个少年。|Cậu ấy là một thiếu niên.
+身边|shēnbiān|他在我身边。|Anh ấy ở bên cạnh tôi.
+什么样|shénmeyàng|你想要什么样的房子？|Bạn muốn căn nhà như thế nào?
+生|shēng|他生在北京。|Anh ấy sinh ra ở Bắc Kinh.
+生词|shēngcí|这些生词我都不懂。|Những từ mới này tôi đều không hiểu.
+生活|shēnghuó|我在北京生活。|Tôi sống ở Bắc Kinh.
+声音|shēngyīn|他的声音很好听。|Giọng của anh ấy rất hay.
+省|shěng|他是广东省人。|Anh ấy là người tỉnh Quảng Đông.
+省|shěng|我们要省钱。|Chúng ta phải tiết kiệm tiền.
+十分|shífēn|今天十分冷。|Hôm nay vô cùng lạnh.
+实际|shíjì|实际情况不是这样。|Tình hình thực tế không phải như vậy.
+实习|shíxí|他在公司实习。|Anh ấy thực tập ở công ty.
+实现|shíxiàn|他的理想实现了。|Ước mơ của anh ấy đã thành hiện thực.
+实在|shízài|我实在太累了。|Tôi thật sự mệt quá.
+实在|shízai|这个菜实在好吃。|Món này thật sự rất ngon.
+食物|shíwù|这种食物很好吃。|Loại thức ăn này rất ngon.
+使用|shǐyòng|请使用这个电脑。|Hãy sử dụng chiếc máy tính này.
+市|shì|他住在北京市。|Anh ấy sống ở thành phố Bắc Kinh.
+市长|shìzhǎng|他是市长。|Ông ấy là thị trưởng.
+事情|shìqing|这件事情很重要。|Việc này rất quan trọng.
+收|shōu|我收了一封信。|Tôi đã nhận một lá thư.
+收到|shōudào|我收到了你的信。|Tôi đã nhận được thư của bạn.
+收入|shōurù|他的收入很高。|Thu nhập của anh ấy rất cao.
+手表|shǒubiǎo|我有一块手表。|Tôi có một chiếc đồng hồ đeo tay.
+受到|shòudào|他受到了大家的欢迎。|Anh ấy được mọi người hoan nghênh.
+舒服|shūfu|这个床很舒服。|Chiếc giường này rất thoải mái.
+熟|shú/shóu|这个菜熟了。|Món này chín rồi.
+数|shǔ|请数一数有多少人。|Hãy đếm xem có bao nhiêu người.
+数字|shùzì|这个数字很大。|Con số này rất lớn.
+水平|shuǐpíng|他的汉语水平很高。|Trình độ tiếng Trung của anh ấy rất cao.
+顺利|shùnlì|他的工作很顺利。|Công việc của anh ấy rất thuận lợi.
+说明|shuōmíng|请说明一下这个问题。|Xin hãy giải thích rõ vấn đề này.
+司机|sījī|他是一名出租车司机。|Anh ấy là một tài xế taxi.
+送到|sòngdào|我把你送到家。|Tôi đưa bạn về đến nhà.
+送给|sòng gěi|我送给他一本书。|Tôi tặng anh ấy một cuốn sách.
+算|suàn|这个算什么？|Cái này tính là gì?
+虽然|suīrán|虽然很累，但是很高兴。|Tuy rất mệt nhưng rất vui.
+随便|suíbiàn|你随便坐。|Bạn cứ ngồi tự nhiên.
+随时|suíshí|你随时可以来。|Bạn có thể đến bất cứ lúc nào.
+所以|suǒyǐ|天很冷，所以我穿了大衣。|Trời rất lạnh nên tôi mặc áo khoác.
+所有|suǒyǒu|所有的人都来了。|Tất cả mọi người đều đến rồi.
+它|tā|这是一只猫，它很可爱。|Đây là một con mèo, nó rất dễ thương.
+它们|tāmen|这些狗，它们很可爱。|Những con chó này, chúng rất đáng yêu.
+太太|tàitai|王太太是我的老师。|Bà Vương là cô giáo của tôi.
+太阳|tàiyáng|太阳出来了。|Mặt trời mọc rồi.
+态度|tàidù|他的态度很好。|Thái độ của anh ấy rất tốt.
+讨论|tǎolùn|我们一起讨论这个问题。|Chúng ta cùng thảo luận vấn đề này.
+套|tào|我买了一套衣服。|Tôi đã mua một bộ quần áo.
+特别|tèbié|今天特别冷。|Hôm nay đặc biệt lạnh.
+特点|tèdiǎn|这个地方有什么特点？|Nơi này có đặc điểm gì?
+疼|téng|我头疼。|Tôi đau đầu.
+提|tí|他提了一个问题。|Anh ấy nêu một câu hỏi.
+提出|tíchū|他提出了一个好办法。|Anh ấy đã đưa ra một cách hay.
+提到|tídào|他提到了你的名字。|Anh ấy có nhắc đến tên bạn.
+提高|tígāo|他的汉语水平提高了。|Trình độ tiếng Trung của anh ấy đã nâng cao.
+题|tí|这道题很难。|Câu hỏi này rất khó.
+体育|tǐyù|我喜欢体育课。|Tôi thích tiết thể dục.
+体育场|tǐyùchǎng|体育场里有很多人。|Trong sân vận động có rất nhiều người.
+体育馆|tǐyùguǎn|体育馆很大。|Nhà thi đấu rất lớn.
+天上|tiānshàng|天上有很多星星。|Trên trời có rất nhiều ngôi sao.
+条|tiáo|这条路很长。|Con đường này rất dài.
+条件|tiáojiàn|这里的条件很好。|Điều kiện ở đây rất tốt.
+听讲|tīngjiǎng|学生们在认真听讲。|Các học sinh đang chăm chú nghe giảng.
+听说|tīngshuō|我听说他去北京了。|Tôi nghe nói anh ấy đã đi Bắc Kinh.
+停|tíng|车停在门口。|Xe đỗ ở cửa.
+停车|tíngchē|这里不能停车。|Ở đây không được đỗ xe.
+停车场|tíngchēchǎng|停车场在学校旁边。|Bãi đỗ xe ở cạnh trường.
+挺|tǐng|这个菜挺好吃。|Món này khá ngon.
+挺好|tǐng hǎo|他的汉语挺好。|Tiếng Trung của anh ấy khá tốt.
+通|tōng|这条路不通。|Con đường này không thông.
+通过|tōngguò|我们通过考试了。|Chúng tôi đã vượt qua kỳ thi.
+通知|tōngzhī|学校通知明天放假。|Trường thông báo ngày mai nghỉ.
+同时|tóngshí|他同时学两种语言。|Anh ấy học hai ngôn ngữ cùng lúc.
+同事|tóngshì|他是我的同事。|Anh ấy là đồng nghiệp của tôi.
+同样|tóngyàng|我们有同样的想法。|Chúng tôi có cùng suy nghĩ.
+头|tóu|他的头很疼。|Đầu anh ấy rất đau.
+头（里头）|tou (lǐtou)|房子里头很暖和。|Trong nhà rất ấm.
+头发|tóufa|她的头发很长。|Tóc của cô ấy rất dài.
+图片|túpiàn|这张图片很漂亮。|Bức ảnh này rất đẹp.
+推|tuī|请推一下门。|Hãy đẩy cửa một cái.
+腿|tuǐ|我的腿很疼。|Chân tôi rất đau.
+外地|wàidì|他是外地人。|Anh ấy là người ở nơi khác đến.
+外卖|wàimài|我点了一份外卖。|Tôi đã gọi một suất đồ ăn giao tận nơi.
+完|wán|我写完了。|Tôi viết xong rồi.
+完成|wánchéng|我们完成了作业。|Chúng tôi đã hoàn thành bài tập.
+完全|wánquán|我完全同意你。|Tôi hoàn toàn đồng ý với bạn.
+晚安|wǎn'ān|晚安，明天见！|Chúc ngủ ngon, mai gặp!
+晚报|wǎnbào|爸爸喜欢看晚报。|Bố thích đọc báo chiều.
+晚餐|wǎncān|我们一起吃晚餐吧。|Chúng ta cùng ăn bữa tối nhé.
+晚会|wǎnhuì|今晚学校有一个晚会。|Tối nay trường có một buổi dạ hội.
+碗|wǎn|我吃了一碗米饭。|Tôi ăn một bát cơm.
+万|wàn|这本书三万字。|Cuốn sách này ba mươi nghìn chữ.
+网|wǎng|他在上网。|Anh ấy đang lên mạng.
+网球|wǎngqiú|他喜欢打网球。|Anh ấy thích chơi quần vợt.
+网站|wǎngzhàn|这个网站很有用。|Trang web này rất hữu ích.
+往|wǎng|请往前走。|Xin hãy đi về phía trước.
+为|wèi|我为你高兴。|Tôi mừng cho bạn.
+为什么|wèi shénme|你为什么哭？|Sao bạn lại khóc?
+位|wèi|这位是我的老师。|Vị này là thầy giáo của tôi.
+味道|wèidào|这个菜味道很好。|Món này mùi vị rất ngon.
+喂|wèi|喂，你好！|Alô, xin chào!
+温度|wēndù|今天的温度很高。|Nhiệt độ hôm nay rất cao.
+闻|wén|我闻到了花的香味。|Tôi ngửi thấy hương hoa.
+问路|wènlù|他向人问路。|Anh ấy hỏi đường người ta.
+问题|wèntí|我有一个问题。|Tôi có một câu hỏi.
+午餐|wǔcān|我们一起吃午餐吧。|Chúng ta cùng ăn bữa trưa nhé.
+午睡|wǔshuì|我每天中午午睡。|Mỗi trưa tôi đều ngủ trưa.
+西北|xīběi|他家在中国西北。|Nhà anh ấy ở vùng Tây Bắc Trung Quốc.
+西餐|xīcān|我喜欢吃西餐。|Tôi thích ăn đồ Tây.
+西方|xīfāng|他去了西方国家。|Anh ấy đã đến các nước phương Tây.
+西南|xīnán|他家在中国西南。|Nhà anh ấy ở vùng Tây Nam Trung Quốc.
+西医|xīyī|他是一名西医。|Ông ấy là một bác sĩ Tây y.
+习惯|xíguàn|我已经习惯了这里的生活。|Tôi đã quen với cuộc sống ở đây.
+洗衣机|xǐyījī|我家有一台洗衣机。|Nhà tôi có một chiếc máy giặt.
+洗澡|xǐzǎo|我每天晚上洗澡。|Mỗi tối tôi đều tắm.
+下|xià|他从楼上下来了。|Anh ấy từ trên lầu xuống rồi.
+下雪|xià xuě|北京下雪了。|Bắc Kinh có tuyết rơi rồi.
+下周|xià zhōu|下周我去北京。|Tuần sau tôi đi Bắc Kinh.
+夏天|xiàtiān|夏天很热。|Mùa hè rất nóng.
+相同|xiāngtóng|我们的想法相同。|Suy nghĩ của chúng tôi giống nhau.
+相信|xiāngxìn|我相信你。|Tôi tin bạn.
+响|xiǎng|电话响了。|Điện thoại reo rồi.
+想到|xiǎngdào|我想到了一个好办法。|Tôi nghĩ ra một cách hay.
+想法|xiǎngfǎ|你有什么想法？|Bạn có ý tưởng gì?
+想起|xiǎngqǐ|我想起来了，他叫王明。|Tôi nhớ ra rồi, anh ấy tên Vương Minh.
+向|xiàng|他向我走来。|Anh ấy đi về phía tôi.
+相机|xiàngjī|我有一个新相机。|Tôi có một chiếc máy ảnh mới.
+像|xiàng|他长得很像他爸爸。|Anh ấy trông rất giống bố.
+小（小王）|xiǎo (Xiǎo Wáng)|小王是我的同学。|Tiểu Vương là bạn học của tôi.
+小声|xiǎo shēng|请小声说话。|Xin hãy nói nhỏ thôi.
+小时候|xiǎoshíhou|我小时候住在北京。|Hồi nhỏ tôi sống ở Bắc Kinh.
+小说|xiǎoshuō|我喜欢看小说。|Tôi thích đọc tiểu thuyết.
+小心|xiǎoxīn|过马路要小心。|Qua đường phải cẩn thận.
+小组|xiǎozǔ|我们小组有五个人。|Nhóm chúng tôi có năm người.
+校园|xiàoyuán|校园里有很多树。|Trong khuôn viên trường có rất nhiều cây.
+校长|xiàozhǎng|校长在办公室。|Hiệu trưởng ở trong văn phòng.
+笑话|xiàohua|他给我们讲了一个笑话。|Anh ấy kể cho chúng tôi một chuyện cười.
+笑话儿|xiàohuar|他爱说笑话儿。|Anh ấy hay kể chuyện cười.
+鞋|xié|我买了一双新鞋。|Tôi đã mua một đôi giày mới.
+心里|xīnlǐ|我心里很高兴。|Trong lòng tôi rất vui.
+心情|xīnqíng|今天我的心情很好。|Hôm nay tâm trạng tôi rất tốt.
+心中|xīnzhōng|他心中有一个理想。|Trong lòng anh ấy có một lý tưởng.
+新闻|xīnwén|我每天看新闻。|Mỗi ngày tôi xem tin tức.
+信|xìn|我收到一封信。|Tôi nhận được một lá thư.
+信号|xìnhào|这里手机信号不好。|Ở đây sóng điện thoại không tốt.
+信息|xìnxī|我收到一条信息。|Tôi nhận được một tin nhắn.
+信心|xìnxīn|他对考试很有信心。|Anh ấy rất tự tin về kỳ thi.
+信用卡|xìnyòngkǎ|我有一张信用卡。|Tôi có một chiếc thẻ tín dụng.
+星星|xīngxing|晚上天上有很多星星。|Buổi tối trên trời có rất nhiều ngôi sao.
+行动|xíngdòng|我们明天开始行动。|Ngày mai chúng ta bắt đầu hành động.
+行人|xíngrén|路上的行人很多。|Trên đường có rất nhiều người đi bộ.
+行为|xíngwéi|他的行为很好。|Hành vi của anh ấy rất tốt.
+姓|xìng|你姓什么？|Bạn họ gì?
+姓名|xìngmíng|请写上你的姓名。|Hãy ghi họ tên của bạn.
+休假|xiūjià|我下周休假。|Tuần sau tôi nghỉ phép.
+许多|xǔduō|这里有许多人。|Ở đây có rất nhiều người.
+选|xuǎn|请选一个答案。|Hãy chọn một đáp án.
+学期|xuéqī|这个学期我学汉语。|Học kỳ này tôi học tiếng Trung.
+雪|xuě|外面下雪了。|Bên ngoài tuyết rơi rồi.
+颜色|yánsè|你喜欢什么颜色？|Bạn thích màu gì?
+眼|yǎn|我看了他一眼。|Tôi liếc nhìn anh ấy một cái.
+眼睛|yǎnjing|她的眼睛很大。|Mắt cô ấy rất to.
+养|yǎng|我家养了一只猫。|Nhà tôi nuôi một con mèo.
+样子|yàngzi|他看起来是这个样子。|Anh ấy nhìn có vẻ như thế này.
+要求|yāoqiú|老师对我们要求很高。|Thầy giáo yêu cầu chúng tôi rất cao.
+药|yào|你要吃药。|Bạn phải uống thuốc.
+药店|yàodiàn|药店在学校旁边。|Hiệu thuốc ở cạnh trường.
+药片|yàopiàn|他吃了两片药片。|Anh ấy uống hai viên thuốc.
+药水|yàoshuǐ|这是一瓶药水。|Đây là một chai thuốc nước.
+也许|yěxǔ|他也许不来了。|Có lẽ anh ấy sẽ không đến.
+夜|yè|夜很深了。|Đêm đã khuya rồi.
+夜里|yèlǐ|夜里很冷。|Ban đêm rất lạnh.
+一部分|yī bùfen|一部分学生没来。|Một số học sinh không đến.
+一定|yīdìng|我明天一定来。|Ngày mai tôi nhất định đến.
+一共|yīgòng|我们一共五个人。|Chúng tôi tổng cộng năm người.
+一会儿|yīhuìr|我一会儿就回来。|Lát nữa tôi sẽ quay lại.
+一路平安|yīlù-píng'ān|祝你一路平安！|Chúc bạn lên đường bình an!
+一路顺风|yīlù-shùnfēng|祝你一路顺风！|Chúc bạn thượng lộ bình an, thuận buồm xuôi gió!
+已经|yǐjīng|我已经吃了饭。|Tôi đã ăn cơm rồi.
+以后|yǐhòu|以后我常来看你。|Sau này tôi sẽ thường đến thăm bạn.
+以前|yǐqián|以前我住在北京。|Trước đây tôi sống ở Bắc Kinh.
+以上|yǐshàng|十岁以上的孩子可以进。|Trẻ em từ mười tuổi trở lên được vào.
+以外|yǐwài|除了他以外，大家都来了。|Ngoài anh ấy ra, mọi người đều đến rồi.
+以为|yǐwéi|我以为他不来了。|Tôi tưởng anh ấy không đến nữa.
+以下|yǐxià|十岁以下的孩子不能进。|Trẻ em dưới mười tuổi không được vào.
+椅子|yǐzi|他坐在椅子上。|Anh ấy ngồi trên ghế.
+一般|yībān|我一般七点起床。|Tôi thường dậy lúc bảy giờ.
+一点点|yī diǎndiǎn|我只会说一点点汉语。|Tôi chỉ biết nói một chút tiếng Trung.
+一生|yīshēng|他一生都在学校工作。|Ông ấy làm việc ở trường cả đời.
+一直|yīzhí|他一直在这里等你。|Anh ấy cứ đợi bạn ở đây mãi.
+亿|yì|中国有十几亿人。|Trung Quốc có hơn một tỷ người.
+意见|yìjiàn|你有什么意见？|Bạn có ý kiến gì?
+意思|yìsi|这个词是什么意思？|Từ này có nghĩa là gì?
+因为|yīnwèi|因为下雨，所以我没去。|Vì trời mưa nên tôi không đi.
+阴|yīn|今天天阴了。|Hôm nay trời âm u.
+阴天|yīntiān|今天是阴天。|Hôm nay là ngày trời âm u.
+音节|yīnjié|“学习”有四个音节。|“Xuéxí” có bốn âm tiết.
+音乐|yīnyuè|我喜欢听音乐。|Tôi thích nghe nhạc.
+音乐会|yīnyuèhuì|今晚有一场音乐会。|Tối nay có một buổi hòa nhạc.
+银行|yínháng|银行在学校旁边。|Ngân hàng ở cạnh trường.
+银行卡|yínhángkǎ|我有一张银行卡。|Tôi có một chiếc thẻ ngân hàng.
+应该|yīnggāi|你应该早点儿睡觉。|Bạn nên đi ngủ sớm một chút.
+英文|Yīngwén|我在学英文。|Tôi đang học tiếng Anh.
+英语|Yīngyǔ|他会说英语。|Anh ấy biết nói tiếng Anh.
+影片|yǐngpiàn|这部影片很好看。|Bộ phim này rất hay.
+影响|yǐngxiǎng|这件事对我影响很大。|Việc này ảnh hưởng đến tôi rất nhiều.
+永远|yǒngyuǎn|我永远爱你。|Tôi yêu bạn mãi mãi.
+油|yóu|这个菜用了很多油。|Món này dùng rất nhiều dầu.
+游客|yóukè|游客们在参观。|Các du khách đang tham quan.
+友好|yǒuhǎo|他对我很友好。|Anh ấy rất thân thiện với tôi.
+有空儿|yǒukòngr|你明天有空儿吗？|Ngày mai bạn có rảnh không?
+有人|yǒu rén|门口有人。|Ở cửa có người.
+有（一）点儿|yǒu(yī)diǎnr|我有一点儿累。|Tôi hơi mệt.
+有意思|yǒu yìsi|这本书很有意思。|Cuốn sách này rất thú vị.
+又|yòu|他昨天来了，今天又来了。|Hôm qua anh ấy đã đến, hôm nay lại đến.
+鱼|yú|我喜欢吃鱼。|Tôi thích ăn cá.
+语言|yǔyán|他会说三种语言。|Anh ấy biết nói ba ngôn ngữ.
+原来|yuánlái|原来是你！|Thì ra là bạn!
+原因|yuányīn|你知道原因吗？|Bạn có biết nguyên nhân không?
+院|yuàn|他住在医院里。|Anh ấy nằm trong bệnh viện.
+院长|yuànzhǎng|院长在办公室。|Viện trưởng ở trong văn phòng.
+院子|yuànzi|院子里有一棵树。|Trong sân có một cái cây.
+愿意|yuànyì|我愿意帮你。|Tôi sẵn lòng giúp bạn.
+月份|yuèfèn|这个月份很热。|Tháng này rất nóng.
+月亮|yuèliang|今晚的月亮很圆。|Trăng tối nay rất tròn.
+越|yuè|天气越来越冷。|Thời tiết ngày càng lạnh.
+越来越|yuè lái yuè|他的汉语越来越好。|Tiếng Trung của anh ấy ngày càng tốt.
+云|yún|天上有很多云。|Trên trời có rất nhiều mây.
+运动|yùndòng|我喜欢运动。|Tôi thích vận động.
+咱|zán|咱走吧。|Ta đi thôi.
+咱们|zánmen|咱们一起去吧。|Chúng ta cùng đi nhé.
+脏|zāng|你的手太脏了。|Tay bạn bẩn quá.
+早餐|zǎocān|我早餐吃面包。|Bữa sáng tôi ăn bánh mì.
+早晨|zǎochen|早晨的空气很好。|Không khí buổi sớm rất tốt.
+早就|zǎo jiù|他早就知道了。|Anh ấy biết từ lâu rồi.
+怎么办|zěnme bàn|这怎么办？|Việc này phải làm sao?
+怎么样|zěnmeyàng|你的身体怎么样？|Sức khỏe của bạn thế nào?
+怎样|zěnyàng|这个字怎样写？|Chữ này viết thế nào?
+占|zhàn|这张桌子占了很多地方。|Cái bàn này chiếm nhiều chỗ.
+站|zhàn|请站在这儿。|Hãy đứng ở đây.
+站住|zhànzhù|站住！别动！|Đứng lại! Đừng nhúc nhích!
+长|zhǎng|他长得很高。|Anh ấy lớn lên rất cao.
+长大|zhǎngdà|我长大想当医生。|Lớn lên tôi muốn làm bác sĩ.
+找出|zhǎochū|请找出错字。|Hãy tìm ra chữ sai.
+照顾|zhàogù|妈妈在照顾孩子。|Mẹ đang chăm sóc con.
+照片|zhàopiàn|这张照片很好看。|Bức ảnh này rất đẹp.
+照相|zhàoxiàng|我们去照相吧。|Chúng ta đi chụp ảnh nhé.
+这么|zhème|这么多人！|Nhiều người thế!
+这时候|zhè shíhou|这时候他进来了。|Lúc này anh ấy bước vào.
+这样|zhèyàng|你不能这样做。|Bạn không thể làm như thế.
+真正|zhēnzhèng|他是真正的朋友。|Anh ấy là người bạn thực sự.
+正常|zhèngcháng|他的身体很正常。|Cơ thể anh ấy bình thường.
+正好|zhènghǎo|你来得正好。|Bạn đến vừa đúng lúc.
+正确|zhèngquè|你的答案是正确的。|Đáp án của bạn là chính xác.
+正是|zhèngshì|这正是我想要的。|Đây chính là thứ tôi muốn.
+直接|zhíjiē|你可以直接问他。|Bạn có thể hỏi thẳng anh ấy.
+只|zhǐ|我有一只猫。|Tôi có một con mèo.
+只能|zhǐ néng|我只能这样做。|Tôi chỉ có thể làm như vậy.
+只要|zhǐyào|只要你来，我就高兴。|Chỉ cần bạn đến là tôi vui rồi.
+纸|zhǐ|请给我一张纸。|Cho tôi một tờ giấy.
+中餐|zhōngcān|我们中午吃中餐。|Buổi trưa chúng tôi ăn món Trung.
+中级|zhōngjí|他在学中级汉语。|Anh ấy đang học tiếng Trung trung cấp.
+中年|zhōngnián|他是一个中年人。|Ông ấy là một người trung niên.
+中小学|zhōng-xiǎoxué|他在中小学教书。|Anh ấy dạy ở trường tiểu học và trung học.
+中心|zhōngxīn|学校在市中心。|Trường học ở trung tâm thành phố.
+中医|zhōngyī|他是一名中医。|Ông ấy là một thầy thuốc Đông y.
+重点|zhòngdiǎn|这是今天的重点。|Đây là trọng điểm hôm nay.
+重视|zhòngshì|学校很重视这件事。|Nhà trường rất coi trọng việc này.
+周|zhōu|一周有七天。|Một tuần có bảy ngày.
+周末|zhōumò|周末我在家休息。|Cuối tuần tôi nghỉ ngơi ở nhà.
+周年|zhōunián|今天是学校成立一百周年。|Hôm nay là kỷ niệm một trăm năm thành lập trường.
+主人|zhǔrén|主人请客人坐下。|Chủ nhà mời khách ngồi xuống.
+主要|zhǔyào|他的主要工作是教书。|Công việc chính của anh ấy là dạy học.
+住房|zhùfáng|他的住房很大。|Chỗ ở của anh ấy rất rộng.
+住院|zhùyuàn|他生病住院了。|Anh ấy bị ốm phải nhập viện.
+装|zhuāng|请把书装在包里。|Hãy cho sách vào cặp.
+准确|zhǔnquè|你的时间很准确。|Thời gian của bạn rất chính xác.
+自己|zìjǐ|请介绍一下你自己。|Hãy giới thiệu về bản thân bạn.
+自行车|zìxíngchē|我骑自行车去学校。|Tôi đạp xe đến trường.
+自由|zìyóu|他有很多自由时间。|Anh ấy có rất nhiều thời gian tự do.
+字典|zìdiǎn|我有一本汉语字典。|Tôi có một cuốn từ điển chữ Hán.
+走过|zǒuguò|他从我身边走过。|Anh ấy đi qua bên cạnh tôi.
+走进|zǒujìn|他走进教室。|Anh ấy bước vào phòng học.
+走开|zǒukāi|请走开！|Xin đi chỗ khác!
+租|zū|我租了一个房子。|Tôi đã thuê một căn nhà.
+组|zǔ|我们分成三组。|Chúng ta chia thành ba nhóm.
+组成|zǔchéng|我们班由二十个学生组成。|Lớp chúng tôi gồm hai mươi học sinh.
+组长|zǔzhǎng|他是我们的组长。|Anh ấy là tổ trưởng của chúng tôi.
+嘴|zuǐ|她的嘴很小。|Miệng cô ấy rất nhỏ.
+最近|zuìjìn|你最近忙吗？|Dạo này bạn có bận không?
+作家|zuòjiā|他是一位有名的作家。|Ông ấy là một nhà văn nổi tiếng.
+作文|zuòwén|我在写作文。|Tôi đang viết bài văn.
+作业|zuòyè|我每天做作业。|Mỗi ngày tôi làm bài tập.
+作用|zuòyòng|这本书对我很有用。|Cuốn sách này có tác dụng lớn với tôi.
+座|zuò|那座山很高。|Ngọn núi đó rất cao.
+座位|zuòwèi|这是你的座位。|Đây là chỗ ngồi của bạn.
+做到|zuòdào|我一定做到。|Tôi nhất định sẽ làm được.
+做法|zuòfǎ|这个做法很好。|Cách làm này rất hay.
+做饭|zuòfàn|妈妈在做饭。|Mẹ đang nấu cơm.

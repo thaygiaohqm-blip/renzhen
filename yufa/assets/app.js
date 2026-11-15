@@ -37,12 +37,9 @@
   let zh = null;
   function pickVoice() { if (!("speechSynthesis" in window)) return; const v = speechSynthesis.getVoices(); zh = v.find(x => /^zh[-_]CN/i.test(x.lang) && /google|xiaoxiao|yunxi|tingting|huihui/i.test(x.name)) || v.find(x => /^zh[-_]CN/i.test(x.lang)) || v.find(x => /^zh/i.test(x.lang)) || null; }
   if ("speechSynthesis" in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-  function speak(text) {
-    if (!("speechSynthesis" in window)) return toast("Trình duyệt này chưa hỗ trợ đọc thành tiếng.");
-    speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text); u.lang = "zh-CN"; if (zh) u.voice = zh; u.rate = .85; speechSynthesis.speak(u);
-  }
+  function speak(text, btn) { if (!window.RZTTS || !RZTTS.ok) return toast("Trình duyệt này chưa hỗ trợ đọc thành tiếng."); RZTTS.speak(text, { rate: .9, btn: btn }); }
   const SPK = '<button class="ib" type="button" data-say aria-label="Nghe đọc" title="Nghe đọc"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/></svg></button>';
-  document.addEventListener("click", e => { const b = e.target.closest("[data-say]"); if (b) { e.preventDefault(); speak(b.dataset.say || ""); } });
+  document.addEventListener("click", e => { const b = e.target.closest("[data-say]"); if (b) { e.preventDefault(); speak(b.dataset.say || "", b); } });
 
   /* ---------- điều hướng ---------- */
   function setNav(k) { $$("[data-nav]").forEach(a => a.classList.toggle("is-on", a.dataset.nav === k)); }
@@ -60,7 +57,7 @@
   }
 
   /* ---------- danh sách điểm ngữ pháp ---------- */
-  const patRow = p => `<a class="yf-pat${known(p.id) ? " is-ok" : ""}" href="#/mau/${p.id}"><span class="yf-no">${String(p.n).padStart(3, "0")}</span><span><div class="yf-pt" lang="zh">${esc(p.p)}</div>${p.vi ? `<div class="yf-ms">${esc(p.vi.slice(0, 120))}${p.vi.length > 120 ? "…" : ""}</div>` : ""}<div class="yf-cat">${esc(gName(p.g))} · ${esc(cName(p.c))}${p.d ? " · " + esc(p.d.slice(0, 20)) : ""}</div></span><span class="pill">${LVN[p.lv].replace("HSK ", "H")}</span></a>`;
+  const patRow = p => `<a class="yf-pat${known(p.id) ? " is-ok" : ""}" href="#/mau/${p.id}"><span class="yf-no">${String(p.n).padStart(3, "0")}</span><span><div class="yf-pt ${SHOW_PY ? "" : "yf-hide"}" lang="zh">${ruby(p.pr || p.p)}</div>${p.vi ? `<div class="yf-ms">${esc(p.vi.slice(0, 120))}${p.vi.length > 120 ? "…" : ""}</div>` : ""}<div class="yf-cat">${esc(gName(p.g))} · ${esc(cName(p.c))}${p.d ? " · " + esc(p.d.slice(0, 20)) : ""}</div></span><span class="pill">${LVN[p.lv].replace("HSK ", "H")}</span></a>`;
   function listPage(title, sub, L, back, key, lv) {
     const groups = G.map(g => ({ g, L: L.filter(p => p.g === g.id) })).filter(x => x.L.length);
     main.innerHTML = hero(title, sub, pill("Số điểm", L.length) + pill("Đã thuộc", knownIn(L) + "/" + L.length)) +
@@ -87,11 +84,11 @@
     const p = byId[id]; if (!p) return home();
     const i = PATS.indexOf(p), prev = PATS[i - 1], next = PATS[i + 1];
     const sent = p.ex.map(e => `<div class="yf-sent"><div><div class="jp ${SHOW_PY ? "" : "yf-hide"}" lang="zh">${ruby(e.zh)}</div>${e.vi ? `<div class="yf-vi">${esc(e.vi)}</div>` : ""}</div>${SPK.replace("data-say", `data-say="${esc(plain(e.zh))}"`)}</div>`).join("");
-    main.innerHTML = hero(`<span lang="zh" style="font-size:${p.p.length > 30 ? 22 : p.p.length > 14 ? 30 : 48}px;display:block;line-height:1.35">${esc(p.p)}</span>`, `${esc(gName(p.g))} · ${esc(cName(p.c))}${p.d ? " · " + esc(p.d) : ""}`, pill("Cấp", LVN[p.lv]) + pill("Số", String(p.n).padStart(3, "0"))) +
+    main.innerHTML = hero(`<span lang="zh" style="font-size:${p.p.length > 30 ? 22 : p.p.length > 14 ? 30 : 48}px;display:block;line-height:1.9" class="${SHOW_PY ? "" : "yf-hide"}">${ruby(p.pr || p.p)}</span>`, `${esc(gName(p.g))} · ${esc(cName(p.c))}${p.d ? " · " + esc(p.d) : ""}`, pill("Cấp", LVN[p.lv]) + pill("Số", String(p.n).padStart(3, "0"))) +
       `<div class="wrap"><a class="crumb" href="#/cap-do/${p.lv}">← ${LVN[p.lv]}</a>
       <div class="yf-tools"><button class="btn ${known(p.id) ? "btn--ghost" : "btn--primary"}" data-known>${known(p.id) ? "✓ Đã thuộc (bỏ đánh dấu)" : "Đánh dấu đã thuộc"}</button><button class="btn btn--ghost" data-py>${SHOW_PY ? "Ẩn pinyin" : "Hiện pinyin"}</button><button class="btn btn--ghost" data-say="${esc(plain(p.p).replace(/[^㐀-鿿]/g, ""))}">Nghe mẫu</button></div>
       <h2 class="yf-sec">Giải thích</h2>
-      ${p.vi ? `<div class="yf-box">${esc(p.vi)}</div>` : `<div class="yf-note">Điểm này chưa có giải thích tiếng Việt. Mẫu và ví dụ lấy nguyên từ chuẩn HSK 3.0; phần giải thích tiếng Việt cho cấp này đang được bổ sung.</div>`}
+      ${p.vi ? `<div class="yf-box ${SHOW_PY ? "" : "yf-hide"}">${ruby(p.viR || p.vi)}</div>` : `<div class="yf-note">Điểm này chưa có giải thích tiếng Việt. Mẫu và ví dụ lấy nguyên từ chuẩn HSK 3.0; phần giải thích tiếng Việt cho cấp này đang được bổ sung.</div>`}
       ${p.forms.length ? `<h2 class="yf-sec">Từ và cụm minh họa theo chuẩn</h2><div class="yf-forms">${p.forms.map(f => `<span lang="zh">${SHOW_PY ? ruby(f) : esc(plain(f))}</span>`).join("")}</div>` : ""}
       ${sent ? `<h2 class="yf-sec">Ví dụ (${p.ex.length})</h2>${sent}` : `<div class="yf-note">Chưa có câu ví dụ cho điểm này trong dữ liệu đã trích từ chuẩn.</div>`}
       <div class="yf-tools" style="margin-top:20px">${prev ? `<a class="btn btn--ghost" href="#/mau/${prev.id}">← Điểm trước</a>` : ""}${next ? `<a class="btn btn--ghost" href="#/mau/${next.id}">Điểm sau →</a>` : ""}</div></div>`;
@@ -243,11 +240,13 @@
   }
 
   /* ---------- định tuyến ---------- */
+  try { history.scrollRestoration = "manual"; } catch (e) { /* bỏ qua */ }
+  const toTop = () => { const d = document.documentElement; const old = d.style.scrollBehavior; d.style.scrollBehavior = "auto"; window.scrollTo(0, 0); document.body.scrollTop = 0; d.style.scrollBehavior = old; };
   function route() {
-    KEYS = null; speechSynthesis && speechSynthesis.cancel && speechSynthesis.cancel(); CTXBAR("");
+    KEYS = null; window.RZTTS && RZTTS.stop(); CTXBAR("");
     const seg = location.hash.replace(/^#\/?/, "").split("?")[0].split("/").filter(Boolean).map(decodeURIComponent);
     const qs = new URLSearchParams((location.hash.split("?")[1]) || "");
-    const t = seg[0] || "cap-do"; setNav(["luyen"].includes(t) ? "" : t === "mau" ? "cap-do" : t); window.scrollTo(0, 0); badge();
+    const t = seg[0] || "cap-do"; setNav(["luyen"].includes(t) ? "" : t === "mau" ? "cap-do" : t); toTop(); badge();
     document.title = "Super Yufa — Ngữ pháp HSK 3.0";
     if (t === "cap-do" && seg[1]) { const l = +seg[1]; if (!LVN[l]) return home(); return listPage(LVN[l], LVD[l], byLv(l), "#/", "c" + l, true); }
     if (t === "cap-do") return home();
@@ -260,6 +259,8 @@
     if (t === "on-tap") return onTap();
     home();
   }
+  const _route = route;
+  route = function () { _route(); toTop(); requestAnimationFrame(toTop); setTimeout(toTop, 120); };
   window.addEventListener("hashchange", route);
   S.onSynced(() => { if (!/^#\/luyen\//.test(location.hash)) route(); });
   route();

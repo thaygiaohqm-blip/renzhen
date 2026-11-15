@@ -219,7 +219,7 @@
   let jaVoice = null; /* giọng zh-CN */
   const pickVoice = () => { if (!("speechSynthesis" in window)) return; jaVoice = speechSynthesis.getVoices().find(v => /^zh[-_]CN/i.test(v.lang)) || speechSynthesis.getVoices().find(v => /^zh/i.test(v.lang)) || null; };
   if ("speechSynthesis" in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-  const speak = t => { if (!("speechSynthesis" in window)) return toast("Trình duyệt chưa hỗ trợ đọc thành tiếng."); speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(t); u.lang = "zh-CN"; if (jaVoice) u.voice = jaVoice; u.rate = .85; speechSynthesis.speak(u); };
+  const speak = (t, b) => { if (!window.RZTTS || !RZTTS.ok) return toast("Trình duyệt chưa hỗ trợ đọc thành tiếng."); RZTTS.speak(t, { rate: .9, btn: b }); };
   const surfOf = m => (m || "").replace(new RegExp("([" + KJ + "]+)\\[([^\\]]+)\\]", "g"), "$1").replace(/[{} ]/g, "");
   const plain = m => (m || "").replace(new RegExp("([" + KJ + "]+)\\[([^\\]]+)\\]", "g"), "$2").replace(/[{} ]/g, "");
   async function openWord(id) {
@@ -238,17 +238,26 @@
   }
   document.addEventListener("click", e => {
     const w = e.target.closest("[data-wid]"); if (w) { openWord(w.dataset.wid); return; }
-    const s = e.target.closest("[data-say]"); if (s) speak(s.dataset.say);
+    const s = e.target.closest("[data-say]"); if (s) speak(s.dataset.say, s);
   });
   $("[data-wclose]").onclick = () => wdlg.close();
   wdlg.addEventListener("click", e => { if (e.target === wdlg) wdlg.close(); });
 
   /* ---------- chi tiết một chữ ---------- */
   const LSN = { TH: "Tượng hình · 象形", CS: "Chỉ sự · 指事", HY: "Hội ý · 会意", HT: "Hình thanh · 形声", CC: "Chuyển chú · 転注", GT: "Giả tá · 仮借" };
+  const RTOK = new RegExp("([" + KJ + "])\\[([^\\]]+)\\]", "g");
+  function rubyText(t) { let o = "", i = 0; for (const m of t.matchAll(RTOK)) { o += esc(t.slice(i, m.index)) + "<ruby>" + esc(m[1]) + "<rt>" + esc(m[2]) + "</rt></ruby>"; i = m.index + m[0].length; } return o + esc(t.slice(i)); }
   function etyHTML(r) {
+    const ey = r.ey || {};
+    const lk = (r.ls || "").split(",").filter(Boolean)[0];
     const tags = (r.ls || "").split(",").filter(Boolean).map(x => '<span class="ls ls--' + x + '">' + (LSN[x] || x) + "</span>").join("");
-    const paras = (r.o || "").split("¶").map(t => t.trim()).filter(Boolean).map(t => "<p>" + esc(t) + "</p>").join("");
-    return "<h4>Nguồn gốc theo Lục thư</h4>" + (tags ? '<div class="lsrow">' + tags + "</div>" : "") + (paras || "<p>Chưa có.</p>") + (r.a ? '<p class="note">Mục này đang là bản tổng hợp tự động từ cấu tạo chữ, chưa được biên soạn kỹ.</p>' : "");
+    const zh = { TH: "象形字", CS: "指事字", HY: "会意字", HT: "形声字", CC: "转注字", GT: "假借字" };
+    const vn = { TH: "Tượng hình", CS: "Chỉ sự", HY: "Hội ý", HT: "Hình thanh", CC: "Chuyển chú", GT: "Giả tá" };
+    const head = '<p class="ey-head"><b lang="zh">Chữ ' + esc(r.k) + "</b> (" + esc((r.py || [""])[0]) + ") - Âm Hán Việt: <b>" + esc(r.hv || "") + "</b>" + (lk ? " - thuộc nhóm <b>" + vn[lk] + " (" + zh[lk] + ")</b>" : "") + "</p>";
+    const cs = (ey.c || []).map(c => '<li><b class="ey-g" lang="zh">' + esc(c[0]) + "</b> (" + esc(c[1]) + (c[2] ? " - " + esc(c[2]) : "") + ")" + (c[4] ? ", nằm " + esc(c[4]) : "") + (c[3] ? ", là " + esc(c[3]) : "") + ".</li>").join("");
+    const cau = cs ? '<h5 class="ey-sub">Cấu tạo</h5><ul class="ey-cs">' + cs + "</ul>" : "";
+    const paras = (ey.n || r.o || "").split("¶").map(t => t.trim()).filter(Boolean).map(t => '<p class="ey-p">' + rubyText(t) + "</p>").join("");
+    return "<h4>Nguồn gốc theo Lục thư</h4>" + (tags ? '<div class="lsrow">' + tags + "</div>" : "") + head + cau + (paras || "<p>Chưa có.</p>") + '<p class="note">Nguồn: Dong Chinese (ISC), Make Me a Hanzi, Thuyết văn giải tự; phần diễn giải tiếng Việt do Super Renzhen biên soạn.</p>';
   }
   function detailHTML(r, fold) {
     const rad = A.radN[r.r];

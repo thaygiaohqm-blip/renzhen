@@ -105,14 +105,7 @@
     zhVoice = vs.find(v => /^zh[-_]CN/i.test(v.lang) && /google|xiaoxiao|yunxi|ting-ting|tingting|huihui/i.test(v.name)) || vs.find(v => /^zh[-_]CN/i.test(v.lang)) || vs.find(v => /^zh/i.test(v.lang)) || null;
   }
   if ("speechSynthesis" in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-  function speak(text) {
-    if (!("speechSynthesis" in window)) return toast("Trình duyệt này chưa hỗ trợ đọc thành tiếng.");
-    if (voicesChecked && !zhVoice) toast("Thiết bị chưa có giọng đọc tiếng Trung. Hãy cài thêm giọng zh-CN trong phần cài đặt ngôn ngữ.");
-    speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = "zh-CN"; if (zhVoice) u.voice = zhVoice; u.rate = 0.85;
-    speechSynthesis.speak(u);
-  }
+  function speak(text, btn) { if (!window.RZTTS || !RZTTS.ok) return toast("Trình duyệt này chưa hỗ trợ đọc thành tiếng."); RZTTS.speak(text, { rate: .9, btn: btn }); }
   const ICON_SPEAK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z"/><path d="M16.5 8.5a5 5 0 0 1 0 7"/><path d="M19 6a8.5 8.5 0 0 1 0 12"/></svg>';
   const ICON_FLIP = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M3 12a9 9 0 0 1 15.5-6.2L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15.5 6.2L3 16"/><path d="M3 21v-5h5"/></svg>';
 
@@ -615,7 +608,7 @@
     </div></div>`;
   }
   function bindSpeak(root) {
-    $$("[data-say]", root).forEach(b => b.addEventListener("click", ev => { ev.stopPropagation(); speak(b.dataset.say); }));
+    $$("[data-say]", root).forEach(b => b.addEventListener("click", ev => { ev.stopPropagation(); speak(b.dataset.say, b); }));
   }
 
   function study(cfg) {
@@ -1109,6 +1102,10 @@
     { id: "sakura", ja: "桜", name: "Anh đào", note: "Hồng mận, ấm áp", c: ["#7a2e4a", "#ee8fae", "#d23b3b", "#fbf1f2"], meta: "#7a2e4a" },
     { id: "matcha", ja: "抹茶", name: "Trà xanh", note: "Xanh lá, tự nhiên", c: ["#3f5a22", "#a3c45a", "#d9622b", "#f4f2e4"], meta: "#3f5a22" },
     { id: "momiji", ja: "紅葉", name: "Lá phong", note: "Nâu đỏ mùa thu", c: ["#7a2f14", "#f2a04a", "#c8102e", "#faf0e3"], meta: "#7a2f14" },
+    { id: "tim", ja: "紫", name: "Tử đằng", note: "Tím nhạt, thanh lịch", c: ["#4a2f7a", "#b08be0", "#e0475f", "#f4f0fa"], meta: "#4a2f7a" },
+    { id: "vang", ja: "金", name: "Hổ phách", note: "Vàng nâu, ấm", c: ["#6b4a0e", "#e8b43a", "#c8452d", "#faf3e1"], meta: "#6b4a0e" },
+    { id: "bien", ja: "海", name: "Biển", note: "Xanh biển, tươi mát", c: ["#0f4c6b", "#38bdd8", "#f0644a", "#eef6f9"], meta: "#0f4c6b" },
+    { id: "than", ja: "灰", name: "Than đá", note: "Xám trung tính, tối giản", c: ["#2f3a40", "#8fa6b2", "#e0533d", "#f0f2f3"], meta: "#2f3a40" },
     { id: "yoru", ja: "夜", name: "Ban đêm", note: "Nền tối, học buổi tối", c: ["#0b1416", "#134e4c", "#3fd1c0", "#ff6b6b"], meta: "#0b1416" }
   ];
   function applyTheme(id) {

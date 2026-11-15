@@ -1,0 +1,38 @@
+{
+ "name": "Super Kouyu",
+ "short_name": "Kouyu",
+ "description": "Luyện nói HSKK",
+ "lang": "vi",
+ "start_url": "/kouyu/",
+ "scope": "/kouyu/",
+ "id": "/kouyu/",
+ "display": "standalone",
+ "background_color": "#f8fbfa",
+ "theme_color": "#004646",
+ "icons": [
+  {
+   "src": "/shared/icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/shared/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/shared/icons/icon-maskable-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "/shared/icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

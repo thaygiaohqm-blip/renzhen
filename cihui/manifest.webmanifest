@@ -1,0 +1,38 @@
+{
+ "name": "Super Cihui",
+ "short_name": "Cihui",
+ "description": "Từ vựng tiếng Trung HSK 3.0",
+ "lang": "vi",
+ "start_url": "/cihui/",
+ "scope": "/cihui/",
+ "id": "/cihui/",
+ "display": "standalone",
+ "background_color": "#f8fbfa",
+ "theme_color": "#004646",
+ "icons": [
+  {
+   "src": "/shared/icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/shared/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/shared/icons/icon-maskable-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "/shared/icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

@@ -176,3 +176,20 @@ section[id]{scroll-margin-top:76px}
 .btn--game{background:linear-gradient(135deg,#ffd23f,#f08a00);color:#3a2400;font-weight:800;border:2px solid #fff3;box-shadow:0 6px 0 rgba(0,0,0,.25);animation:gpulse 2.4s infinite}.btn--game:hover{transform:translateY(-2px)}@keyframes gpulse{50%{box-shadow:0 6px 0 rgba(0,0,0,.25),0 0 0 8px rgba(255,210,63,.25)}}
 
 .card--kouyu{background:linear-gradient(160deg,#fff,#eaf6f4);border-color:var(--mint)}.card--kouyu .card__tag{background:var(--teal2)}
+
+html[data-theme="tim"]{--teal:#342057;--mint:#b08be0;--red:#e0475f;--redk:#b5334a;--cream:#f4f0fa}
+html[data-theme="vang"]{--teal:#4d3407;--mint:#e8b43a;--red:#c8452d;--redk:#9a3220;--cream:#faf3e1}
+html[data-theme="bien"]{--teal:#0a3550;--mint:#38bdd8;--red:#f0644a;--redk:#c04a34;--cream:#eef6f9}
+html[data-theme="than"]{--teal:#20282c;--mint:#8fa6b2;--red:#e0533d;--redk:#b23f2c;--cream:#f0f2f3}
+
+/* ---------- thẻ công cụ: 4 thẻ học cạnh nhau, thẻ game bên dưới, căn giữa ---------- */
+#cong-cu { text-align: center; }
+#cong-cu h2 { margin-left: auto; margin-right: auto; }
+#cong-cu .card { align-items: center; text-align: center; }
+#cong-cu .card__tag { align-self: center; }
+#cong-cu .card__ja { position: static; display: block; margin-top: 14px; font-size: 56px; color: rgba(11,59,59,.14); }
+#cong-cu .card h3 { margin-top: 4px; }
+#cong-cu .card--gemu { grid-column: 1 / -1; justify-self: center; width: calc((100% - 60px) / 4); min-width: 260px; }
+@media (max-width: 1180px) { #cong-cu .card--gemu { width: calc((100% - 20px) / 2); } }
+@media (max-width: 700px) { #cong-cu .card--gemu { width: 100%; min-width: 0; } }
+html[data-theme="yoru"] #cong-cu .card__ja { color: rgba(255,255,255,.16); }

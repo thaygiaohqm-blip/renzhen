@@ -22,6 +22,10 @@
     { id: "sakura", ja: "桃", name: "Hoa đào", note: "Hồng mận, ấm áp", c: ["#7a2e4a", "#ee8fae", "#d23b3b", "#fbf1f2"] },
     { id: "matcha", ja: "茶", name: "Trà xanh", note: "Xanh lá, tự nhiên", c: ["#3f5a22", "#a3c45a", "#d9622b", "#f4f2e4"] },
     { id: "momiji", ja: "枫", name: "Lá phong", note: "Nâu đỏ mùa thu", c: ["#7a2f14", "#f2a04a", "#c8102e", "#faf0e3"] },
+    { id: "tim", ja: "紫", name: "Tử đằng", note: "Tím nhạt, thanh lịch", c: ["#4a2f7a", "#b08be0", "#e0475f", "#f4f0fa"] },
+    { id: "vang", ja: "金", name: "Hổ phách", note: "Vàng nâu, ấm", c: ["#6b4a0e", "#e8b43a", "#c8452d", "#faf3e1"] },
+    { id: "bien", ja: "海", name: "Biển", note: "Xanh biển, tươi mát", c: ["#0f4c6b", "#38bdd8", "#f0644a", "#eef6f9"] },
+    { id: "than", ja: "灰", name: "Than đá", note: "Xám trung tính, tối giản", c: ["#2f3a40", "#8fa6b2", "#e0533d", "#f0f2f3"] },
     { id: "yoru", ja: "夜", name: "Ban đêm", note: "Nền tối, học buổi tối", c: ["#0b1416", "#134e4c", "#3fd1c0", "#ff6b6b"] }];
 
   /* ---------- Super Cihui / Super Bunpou: thanh thương hiệu dựng ngay khi trang bắt đầu tải ---------- */
@@ -31,7 +35,7 @@
     s.innerHTML = '<div class="hk-strip__in"><a class="hk-strip__brand" href="' + root + '" title="Về trang chủ Super Renzhen"><img src="' + base + 'logo-mark.svg" alt="" width="48" height="48"><span><b>Super</b> Renzhen</span></a>' +
       '<nav class="hk-strip__nav" aria-label="Các công cụ của Super Renzhen">' + link("hanzi", "Super Hanzi") + link("cihui", "Super Cihui") + link("yufa", "Super Yufa") + link("youxi", "Super Youxi") + link("kouyu", "Super Kouyu") + '</nav><span class="hk-strip__grow"></span><div class="hk-strip__tools" data-hk-tools></div></div>';
     const sw = document.createElement("nav"); sw.className = "hk-switch"; sw.setAttribute("aria-label", "Chuyển công cụ");
-    sw.innerHTML = link("hanzi", "Super Hanzi") + link("cihui", "Super Cihui") + link("yufa", "Super Yufa") + link("youxi", "Super Youxi") + link("kouyu", "Super Kouyu");
+    sw.innerHTML = link("hanzi", "<i>Super </i>Hanzi") + link("cihui", "<i>Super </i>Cihui") + link("yufa", "<i>Super </i>Yufa") + link("youxi", "<i>Super </i>Youxi") + link("kouyu", "<i>Super </i>Kouyu");
     document.body.insertBefore(sw, document.body.firstChild);
     document.body.insertBefore(s, document.body.firstChild);
     const setH = () => document.documentElement.style.setProperty("--hk-h", s.offsetHeight + "px");
@@ -39,6 +43,7 @@
     // màu giao diện và tài khoản của từng app được chuyển lên thanh chung (giữ nguyên nút để mã của app vẫn hoạt động)
     ready(() => {
       const tools = s.querySelector("[data-hk-tools]");
+      document.querySelectorAll(".top .tg").forEach(el => tools.appendChild(el));
       ["themes", "acct"].forEach(c => { const el = document.querySelector(".top ." + c); if (el) tools.appendChild(el); });
       tools.classList.add("is-ready");
       setH();

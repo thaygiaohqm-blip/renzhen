@@ -43,13 +43,9 @@
   let zh = null;
   function pickVoice() { if (!("speechSynthesis" in window)) return; const v = speechSynthesis.getVoices(); zh = v.find(x => /^zh[-_]CN/i.test(x.lang) && /google|xiaoxiao|yunxi|tingting|huihui/i.test(x.name)) || v.find(x => /^zh[-_]CN/i.test(x.lang)) || v.find(x => /^zh/i.test(x.lang)) || null; }
   if ("speechSynthesis" in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-  function speak(text, rate, onend) {
-    if (!("speechSynthesis" in window)) { toast("Trình duyệt này chưa hỗ trợ đọc thành tiếng."); if (onend) onend(); return; }
-    speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(plain(text)); u.lang = "zh-CN"; if (zh) u.voice = zh; u.rate = rate || .9;
-    if (onend) { u.onend = onend; u.onerror = onend; } speechSynthesis.speak(u);
-  }
+  function speak(text, rate, onend, btn) { if (!window.RZTTS || !RZTTS.ok) { toast("Trình duyệt này chưa hỗ trợ đọc thành tiếng."); if (onend) onend(); return; } RZTTS.speak(text, { rate: rate, onend: onend, btn: btn, noToggle: !!onend }); }
   const SPK = (t, label, rate) => `<button class="btn btn--ghost btn--sm" type="button" data-say="${esc(plain(t))}"${rate ? ` data-rate="${rate}"` : ""}>🔊 ${label || "Nghe"}</button>`;
-  document.addEventListener("click", e => { const b = e.target.closest("[data-say]"); if (b) { e.preventDefault(); speak(b.dataset.say, parseFloat(b.dataset.rate) || .9); } });
+  document.addEventListener("click", e => { const b = e.target.closest("[data-say]"); if (b) { e.preventDefault(); speak(b.dataset.say, parseFloat(b.dataset.rate) || .9, null, b); } });
 
   /* ---------- đồng hồ ---------- */
   let TMR = null;
@@ -133,8 +129,8 @@
       main.innerHTML = hero(`<span lang="zh">${PT[p].zh}</span> · ${i + 1}/${N}`, p === "repeat" ? "Nghe một lần rồi nhắc lại thật rõ." : "Nghe câu hỏi rồi trả lời ngay.", "") +
         `<div class="wrap"><div class="ky-panel ky-exam"><div class="ky-bar"><i style="width:${Math.round(100 * i / N)}%"></i></div><div class="ky-phase" id="ph">Đang đọc…</div><div class="ky-clock" id="ck">··</div><div class="ky-zh${SHOW_PY ? "" : " yf-hide"}" lang="zh" id="zh" style="visibility:hidden">${ruby(z)}</div><div class="ky-vi" id="vi" style="visibility:hidden">${esc(p === "repeat" ? it.vi : it.qv)}</div><div id="ans" style="visibility:hidden;margin-top:12px"><div class="ky-zh" lang="zh">${p === "answer" ? ruby(it.a) : ""}</div><div class="ky-vi">${p === "answer" ? esc(it.av) : ""}</div></div><div class="yf-tools" style="justify-content:center;margin-top:16px"><button class="btn btn--ghost" id="again">🔊 Nghe lại</button><button class="btn btn--primary" id="next">Câu tiếp →</button><a class="btn btn--ghost" href="#/c/${l}/${p}">Dừng</a></div></div></div>`;
       const show = () => { $("#zh").style.visibility = "visible"; $("#vi").style.visibility = "visible"; if (p === "answer") $("#ans").style.visibility = "visible"; };
-      const nextNow = () => { stopTimer(); speechSynthesis.cancel(); setDone(it.id, true); i++; step(); };
-      $("#next").onclick = nextNow; $("#again").onclick = () => { stopTimer(); speechSynthesis.cancel(); run(); };
+      const nextNow = () => { stopTimer(); RZTTS.stop(); setDone(it.id, true); i++; step(); };
+      $("#next").onclick = nextNow; $("#again").onclick = () => { stopTimer(); RZTTS.stop(); run(); };
       const run = () => {
         $("#ph").textContent = "Đang đọc…"; $("#ck").textContent = "··";
         speak(z, .9, () => {
@@ -198,7 +194,7 @@
 
   /* ---------- định tuyến ---------- */
   function route() {
-    stopTimer(); ALIVE++; if ("speechSynthesis" in window) speechSynthesis.cancel();
+    stopTimer(); ALIVE++; if (window.RZTTS) RZTTS.stop();
     const seg = location.hash.replace(/^#\/?/, "").split("?")[0].split("/").filter(Boolean).map(decodeURIComponent), t = seg[0] || "";
     setNav(t === "huong-dan" ? "huong-dan" : t === "da-luyen" ? "da-luyen" : "cap"); window.scrollTo(0, 0);
     document.title = "Super Kouyu — Luyện nói HSKK";

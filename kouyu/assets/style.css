@@ -720,3 +720,25 @@ button.oi__g { cursor: pointer; }
 .ky-bar i { display: block; height: 100%; background: var(--mint); transition: width .25s linear; }
 .ky-tip li { margin: 6px 0; }
 @media (max-width: 640px) { .ky-row { grid-template-columns: 1fr; } .ky-acts { justify-content: flex-start; } .ky-scene { font-size: 50px; } }
+
+/* chủ đề màu bổ sung */
+:root[data-theme="tim"] {
+  --green: #4a2f7a; --green-deep: #342057; --mint: #b08be0; --mint-soft: #efe8f8;
+  --coral: #e0475f; --coral-soft: #fdeaee; --cream: #f4f0fa; --bg: #faf8fd; --line: #e1d9ee;
+  --muted: #6d6480; --grid: rgba(176,139,224,.18); --band-sub: #cfc2e8; --band-text: #f1ecfa; --hero-text: #453b5c; --shadow: rgba(52,32,87,.16);
+}
+:root[data-theme="vang"] {
+  --green: #6b4a0e; --green-deep: #4d3407; --mint: #e8b43a; --mint-soft: #fbf0d4;
+  --coral: #c8452d; --coral-soft: #fbe6e1; --cream: #faf3e1; --bg: #fdfaf1; --line: #ece0c4;
+  --muted: #7a6d52; --grid: rgba(232,180,58,.2); --band-sub: #e3cf9c; --band-text: #fbf3df; --hero-text: #4a3f27; --shadow: rgba(77,52,7,.16);
+}
+:root[data-theme="bien"] {
+  --green: #0f4c6b; --green-deep: #0a3550; --mint: #38bdd8; --mint-soft: #e2f3f8;
+  --coral: #f0644a; --coral-soft: #fdece8; --cream: #eef6f9; --bg: #f7fbfc; --line: #d3e5ec;
+  --muted: #587280; --grid: rgba(56,189,216,.18); --band-sub: #b4d8e4; --band-text: #e6f4f8; --hero-text: #2f4a58; --shadow: rgba(10,53,80,.16);
+}
+:root[data-theme="than"] {
+  --green: #2f3a40; --green-deep: #20282c; --mint: #8fa6b2; --mint-soft: #e8edf0;
+  --coral: #e0533d; --coral-soft: #fdebe7; --cream: #f0f2f3; --bg: #f8f9f9; --line: #dcdfe1;
+  --muted: #647078; --grid: rgba(143,166,178,.2); --band-sub: #c3ced5; --band-text: #eef1f3; --hero-text: #3b464c; --shadow: rgba(32,40,44,.16);
+}
